@@ -1,0 +1,42 @@
+table {
+	border-style: none;
+	font-size: 0.9em;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	color: black;
+	border-collapse:collapse;
+}
+
+td {
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	text-align: right;
+	padding: 3px 10px 3px 10px;	/* top right bottom left */
+}
+
+th {
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	text-align: right;
+	padding: 5px 10px 5px 10px;	/* top right bottom left */
+	font-size: 1em;
+	font-weight: bold;
+	color: black;
+}
+
+textarea {
+	font-size: .75em;
+	width: 700px;
+	height: 300px;
+	border: 1px solid black;
+	white-space: nowrap;
+}
+
+
+/* yellow cell background */
+.highlight {
+	background: #FFf890;
+}

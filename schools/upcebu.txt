@@ -1,0 +1,498 @@
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script src="/cdn-cgi/apps/head/N6E72oNbB7b0qUEz6bz_hjv0WkM.js"></script><link rel="pingback" href="https://upcebu.edu.ph/xmlrpc.php" />
+<!--[if lt IE 9]>
+	<script src="https://upcebu.edu.ph/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+<script>var et_site_url='https://upcebu.edu.ph';var et_post_id='7';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Home - University of the Philippines Cebu</title>
+
+<meta name="description" content="Home" />
+<link rel="canonical" href="https://upcebu.edu.ph/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - University of the Philippines Cebu" />
+<meta property="og:description" content="Home" />
+<meta property="og:url" content="https://upcebu.edu.ph/" />
+<meta property="og:site_name" content="University of the Philippines Cebu" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Home" />
+<meta name="twitter:title" content="Home - University of the Philippines Cebu" />
+<meta name="twitter:image" content="http://wp-content/uploads/2018/09/upcebulogo-w.png" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"https://upcebu.edu.ph/#website","url":"https://upcebu.edu.ph/","name":"University of the Philippines Cebu","potentialAction":{"@type":"SearchAction","target":"https://upcebu.edu.ph/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="University of the Philippines Cebu &raquo; Feed" href="https://upcebu.edu.ph/feed/" />
+<link rel="alternate" type="application/rss+xml" title="University of the Philippines Cebu &raquo; Comments Feed" href="https://upcebu.edu.ph/comments/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/upcebu.edu.ph\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<meta content="Divi v.3.0.106" name="generator" /><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='divi-style-css' href='https://upcebu.edu.ph/wp-content/themes/Divi/style.css?ver=3.0.106' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7COswald%3A200%2C300%2Cregular%2C500%2C600%2C700%7CBattambang%3Aregular%2C700%7CAbril+Fatface%3Aregular%7CLibre+Baskerville%3Aregular%2Citalic%2C700%7CLato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CAlfa+Slab+One%3Aregular&#038;ver=4.9.4#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://upcebu.edu.ph/wp-includes/css/dashicons.min.css?ver=4.9.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://upcebu.edu.ph/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://upcebu.edu.ph/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://upcebu.edu.ph/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1'></script>
+<link rel='https://api.w.org/' href='https://upcebu.edu.ph/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://upcebu.edu.ph/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://upcebu.edu.ph/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel='shortlink' href='https://upcebu.edu.ph/' />
+<link rel="alternate" type="application/json+oembed" href="https://upcebu.edu.ph/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fupcebu.edu.ph%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://upcebu.edu.ph/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fupcebu.edu.ph%2F&#038;format=xml" />
+<meta name="abstract" content="Official website of the University of the Philippines Cebu">
+<meta name="author" content="itc.upcebu@up.edu.ph">
+<meta name="classification" content="UP Cebu Website, University Website">
+<meta name="copyright" content="Copyright University of the Philippines Cebu - All rights Reserved.">
+<meta name="designer" content="UP Cebu Information Technology Center">
+<meta name="distribution" content="Global, Regional, Local">
+<meta name="language" content="en-US">
+<meta name="publisher" content="University of the Philippines Cebu">
+<meta name="rating" content="General">
+<meta name="resource-type" content="Document">
+<meta name="revisit-after" content="3">
+<meta name="subject" content="UP Cebu Website, University Website, UP Cebu News, UP Cebu Announcement, UP Cebu Researches, UP Cebu News">
+<meta name="template" content="UP Cebu Theme">
+<meta property="og:title" content="University of the Philippines Cebu">
+<meta property="og:description" content="Official Website of the University of the Philippines Cebu (UP Cebu), the premier higher education institution in Central Visayas.">
+<meta property="og:image" content="http://upcebu.edu.ph/wp-content/uploads/2018/04/upcebu.jpg">
+<meta property="og:url" content="http://upcebu.edu.ph">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="shortcut icon" href="https://upcebu.edu.ph/wp-content/uploads/2018/03/UPseal-newcolors-expanded.png" /><style id="et-core-unified-cached-inline-styles">h1,h2,h3,h4,h5,h6{color:#020202}a{color:#7b1113}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#7b1113}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#ffffff}.et_search_form_container input::-moz-placeholder{color:#ffffff}.et_search_form_container input::-webkit-input-placeholder{color:#ffffff}.et_search_form_container input:-ms-input-placeholder{color:#ffffff}#main-header .nav li ul a{color:#01c12e}#top-header,#top-header a,#et-secondary-nav li li a,#top-header .et-social-icon a:before{letter-spacing:1px}#top-menu li a{font-size:16px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:16px!important}#top-menu li a,.et_search_form_container input{letter-spacing:3px}.et_search_form_container input::-moz-placeholder{letter-spacing:3px}.et_search_form_container input::-webkit-input-placeholder{letter-spacing:3px}.et_search_form_container input:-ms-input-placeholder{letter-spacing:3px}#main-footer{background-color:rgba(0,0,0,0.89)}#footer-widgets .footer-widget a,#footer-widgets .footer-widget li a,#footer-widgets .footer-widget li a:hover{color:#ffffff}.footer-widget{color:#ffffff}#footer-info{font-size:11px}#footer-bottom .et-social-icon a{font-size:21px}h1,h2,h3,h4,h5,h6,.et_quote_content blockquote p,.et_pb_slide_description .et_pb_slide_title{letter-spacing:6px;line-height:1.3em}@media only screen and (min-width:981px){.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:56px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:56px}.et_header_style_split .centered-inline-logo-wrap{width:112px;margin:-112px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:112px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:112px}.et_header_style_centered #top-menu>li>a{padding-bottom:20px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:47px 0 47px 0!important}.et_header_style_centered #main-header .logo_container{height:112px}.et_header_style_centered #logo{max-height:100%}.et_pb_svg_logo.et_header_style_centered #logo{height:100%}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:20.16px}.et_header_style_left .et-fixed-header #et-top-navigation,.et_header_style_split .et-fixed-header #et-top-navigation{padding:15px 0 0 0}.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a,.et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a{padding-bottom:15px}.et_header_style_centered header#main-header.et-fixed-header .logo_container{height:30px}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap{width:30px;margin:-30px 0}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{max-height:30px}.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{height:30px}.et_header_style_slide .et-fixed-header #et-top-navigation,.et_header_style_fullscreen .et-fixed-header #et-top-navigation{padding:6px 0 6px 0!important}.et-fixed-header #top-menu li a{font-size:18px}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#01c12e!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#01c12e!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#01c12e!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#01c12e!important}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a{color:#0091f2!important}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_section.et_pb_section_first{padding-top:inherit}.et_pb_fullwidth_section{padding:0}}h1{font-size:36px}h2,.product .related h2,.et_pb_column_1_2 .et_quote_content blockquote p{font-size:30px}h3{font-size:26px}h4,.et_pb_circle_counter h3,.et_pb_number_counter h3,.et_pb_column_1_3 .et_pb_post h2,.et_pb_column_1_4 .et_pb_post h2,.et_pb_blog_grid h2,.et_pb_column_1_3 .et_quote_content blockquote p,.et_pb_column_3_8 .et_quote_content blockquote p,.et_pb_column_1_4 .et_quote_content blockquote p,.et_pb_blog_grid .et_quote_content blockquote p,.et_pb_column_1_3 .et_link_content h2,.et_pb_column_3_8 .et_link_content h2,.et_pb_column_1_4 .et_link_content h2,.et_pb_blog_grid .et_link_content h2,.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_3_8 .et_audio_content h2,.et_pb_column_1_4 .et_audio_content h2,.et_pb_blog_grid .et_audio_content h2,.et_pb_column_3_8 .et_pb_audio_module_content h2,.et_pb_column_1_3 .et_pb_audio_module_content h2,.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2{font-size:21px}h5{font-size:19px}h6{font-size:16px}.et_pb_slide_description .et_pb_slide_title{font-size:55px}.woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3,.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2,.et_pb_column_1_4 .et_pb_audio_module_content h2{font-size:19px}h1,h2,h3,h4,h5,h6{font-family:'Open Sans',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Open Sans',Helvetica,Arial,Lucida,sans-serif}ul li.footer-elements{display:inline;align-content:center;padding-right:1%}h1,h2,h3,h4,h5,h6,.et_quote_content blockquote p,.et_pb_slide_description .et_pb_slide_title{letter-spacing:0px!important}</style></head>
+<body class="home page-template page-template-page-template-blank page-template-page-template-blank-php page page-id-7 et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_hide_primary_logo et_hide_fixed_logo et_cover_background et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns1 et_header_style_centered et_pb_pagebuilder_layout et_right_sidebar et_divi_theme divi et_minified_js et_minified_css">
+<div id="page-container">
+<div id="main-content">
+<article id="post-7" class="post-7 page type-page status-publish hentry">
+<div class="entry-content">
+<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular">
+<div class="et_pb_fullwidth_menu et_pb_module et_pb_bg_layout_dark et_pb_text_align_center et_dropdown_animation_fade et_animated et_pb_fullwidth_menu_0 et_pb_with_border" style="background-color: #8a1538;">
+<div class="et_pb_row clearfix">
+<nav class="fullwidth-menu-nav"><ul id="menu-top-menu" class="fullwidth-menu nav downwards"><li id="menu-item-18" class="et_pb_menu_page_id-18 menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-18"><a href="https://upcebu.edu.ph/">Home</a></li>
+<li id="menu-item-19" class="et_pb_menu_page_id-8 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19"><a href="https://upcebu.edu.ph/academics/">Academics</a>
+<ul class="sub-menu">
+<li id="menu-item-1304" class="et_pb_menu_page_id-884 menu-item menu-item-type-post_type menu-item-object-page menu-item-1304"><a href="https://upcebu.edu.ph/colleges-and-degree-programs/">Program Offerings</a></li>
+</ul>
+</li>
+<li id="menu-item-1997" class="et_pb_menu_page_id-192 menu-item menu-item-type-post_type menu-item-object-page menu-item-1997"><a href="https://upcebu.edu.ph/admissions/">Admissions</a></li>
+<li id="menu-item-235" class="et_pb_menu_page_id-233 menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://upcebu.edu.ph/public-service/">Public Service</a></li>
+<li id="menu-item-1994" class="et_pb_menu_page_id-1984 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1994"><a href="https://upcebu.edu.ph/research/">Research</a>
+<ul class="sub-menu">
+<li id="menu-item-2577" class="et_pb_menu_page_id-2577 menu-item menu-item-type-custom menu-item-object-custom menu-item-2577"><a href="http://cvsc.upcebu.edu.ph">Central Visayas Studies Center</a></li>
+</ul>
+</li>
+<li id="menu-item-2583" class="et_pb_menu_page_id-2583 menu-item menu-item-type-custom menu-item-object-custom menu-item-2583"><a href="https://upcebu.edu.ph/job">Careers</a></li>
+<li id="menu-item-2352" class="et_pb_menu_page_id-15 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2352"><a href="https://upcebu.edu.ph/category/procurement/">Procurement</a></li>
+</ul></nav>
+<div class="et_mobile_nav_menu">
+<a href="#" class="mobile_nav closed">
+<span class="mobile_menu_bar"></span>
+</a>
+</div>
+</div>
+</div>
+</div> <div class="et_pb_section et_pb_ab_subject et_pb_ab_subject_id-7_1 et_pb_ab_goal et_pb_ab_goal_id-7 et_pb_section_1 et_pb_with_background et_section_regular">
+<div class=" et_pb_row et_pb_row_0">
+<div class="et_pb_column et_pb_column_4_4  et_pb_column_0 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_image et_pb_image_0 et_always_center_on_mobile">
+<span class="et_pb_image_wrap"><img src="" alt="" /></span>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_section et_pb_section_2 et_pb_fullwidth_section et_section_regular">
+</div> <div class="et_pb_section et_animated et_pb_section_3 et_section_regular et_pb_with_border">
+<div class=" et_pb_row et_pb_row_1 et_pb_row_fullwidth">
+<div class="et_pb_column et_pb_column_1_2  et_pb_column_1 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_0">
+<div class="et_pb_text_inner">
+<span style="font-family: Oswald; font-weight: normal; font-size: xx-large; color: #0c0c0c;"><strong>UP CEBU NEWS</strong></span>
+</div>
+</div> <div class="et_pb_module et_pb_space et_pb_divider et_pb_divider_0 et_pb_divider_position_"><div class="et_pb_divider_internal"></div></div>
+</div> <div class="et_pb_column et_pb_column_1_2  et_pb_column_2 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_search et_pb_module et_pb_bg_layout_dark et_pb_text_align_left  et_pb_search_0 et_pb_with_border">
+<form role="search" method="get" class="et_pb_searchform" action="https://upcebu.edu.ph/">
+<div>
+<label class="screen-reader-text" for="s">Search for:</label>
+<input type="text" value="" name="s" class="et_pb_s" placeholder="Search Tags, Categories">
+<input type="hidden" name="et_pb_searchform_submit" value="et_search_proccess" />
+<input type="hidden" name="et_pb_include_posts" value="yes" />
+<input type="hidden" name="et_pb_include_pages" value="yes" />
+<input type="submit" value="Search" class="et_pb_searchsubmit">
+</div>
+</form>
+</div> 
+</div> 
+</div> <div class=" et_pb_row et_pb_row_2 et_pb_row_fullwidth">
+<div class="et_pb_column et_pb_column_1_3  et_pb_column_3 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_posts et_pb_bg_layout_light  et_pb_blog_0">
+<div class="et_pb_ajax_pagination_container">
+<article id="post-3178" class="et_pb_post clearfix post-3178 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-events category-up-cebu-news tag-uphillchallenge3 tag-anniversary tag-run tag-uphill tag-uphill-challenge">
+<a href="https://upcebu.edu.ph/join-the-uphill-challenge-on-its-third-anniversary-run/" class="entry-featured-image-url">
+<img src="https://upcebu.edu.ph/wp-content/uploads/2019/09/67705440_1984919078280954_3668448386329083904_o-1080x675.jpg" alt='JOIN the UPhill Challenge on its Third Anniversary Run' width='1080' height='675' /> </a>
+<h3 class="entry-title"><a href="https://upcebu.edu.ph/join-the-uphill-challenge-on-its-third-anniversary-run/">JOIN the UPhill Challenge on its Third Anniversary Run</a></h3>
+<p class="post-meta"> <span class="published">Sep 4, 2019</span> | 0 Comments</p><div class="post-content"><p>    5KM (Fun Run) 30KM 12KM 60KM Registration 450 1,000 2,400 1,950 Early Rate* 350 900 2,200 1,800 Gun Start 5:00AM 1:00AM 4:00AM 9:00PM** Group Category Open Open 2 Male, 2 Female Male/Female Age Group Open Open Open 29-Below, 30-39, 40-49, 50-Up Cut-Off Time 8...</p>
+<a href="https://upcebu.edu.ph/join-the-uphill-challenge-on-its-third-anniversary-run/" class="more-link">read more</a></div>
+</article> 
+</div>
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_3  et_pb_column_4 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_posts et_pb_bg_layout_light  et_pb_blog_1">
+<div class="et_pb_ajax_pagination_container">
+<article id="post-3198" class="et_pb_post clearfix post-3198 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-events category-up-cebu-news tag-84 tag-day-of-remembrance tag-never-forget tag-september-21">
+<a href="https://upcebu.edu.ph/up-day-of-remembrance-2019-call-for-participation/" class="entry-featured-image-url">
+<img src="https://upcebu.edu.ph/wp-content/uploads/2019/09/1-1-1000x675.jpg" alt='UP Day of Remembrance 2019: Call for Participation' width='1080' height='675' /> </a>
+<h3 class="entry-title"><a href="https://upcebu.edu.ph/up-day-of-remembrance-2019-call-for-participation/">UP Day of Remembrance 2019: Call for Participation</a></h3>
+<p class="post-meta"> <span class="published">Sep 3, 2019</span> | 0 Comments</p><div class="post-content"><p>In Proclamation No. 1, Series of 2018, UP President Danilo L. Concepcion declared September 21 of every year as the UP Day of Remembrance throughout the University of the Philippines System. With this, UP Cebu, together with other CUs is authorized and encouraged to...</p>
+<a href="https://upcebu.edu.ph/up-day-of-remembrance-2019-call-for-participation/" class="more-link">read more</a></div>
+</article> 
+</div>
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_3  et_pb_column_5 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_posts et_pb_bg_layout_light  et_pb_blog_2">
+<div class="et_pb_ajax_pagination_container">
+<article id="post-2899" class="et_pb_post clearfix post-2899 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-up-cebu-news tag-college-of-social-sciences tag-dean">
+<a href="https://upcebu.edu.ph/expanded-search-for-the-dean-of-the-college-of-social-sciences/" class="entry-featured-image-url">
+<img src="https://upcebu.edu.ph/wp-content/uploads/2018/09/upcebulogo-1.png" alt='Expanded Search for the Dean of the College of Social Sciences' width='1080' height='675' /> </a>
+<h3 class="entry-title"><a href="https://upcebu.edu.ph/expanded-search-for-the-dean-of-the-college-of-social-sciences/">Expanded Search for the Dean of the College of Social Sciences</a></h3>
+<p class="post-meta"> <span class="published">Aug 30, 2019</span> | 0 Comments</p><div class="post-content"><p>Please use the nomination form available below. Nomination form available...</p>
+<a href="https://upcebu.edu.ph/expanded-search-for-the-dean-of-the-college-of-social-sciences/" class="more-link">read more</a></div>
+</article> 
+</div>
+</div> 
+</div> 
+</div> <div class=" et_pb_row et_pb_row_3">
+<div class="et_pb_column et_pb_column_4_4  et_pb_column_6 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_button_module_wrapper et_pb_module et_pb_button_alignment_center">
+<a class="et_pb_button et_pb_custom_button_icon  et_pb_button_0 et_pb_module et_pb_bg_layout_light" href="https://upcebu.edu.ph/index.php/news/" data-icon="&#x39;">See More UP Cebu News</a>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_section et_pb_section_4 et_pb_fullwidth_section et_section_regular et_pb_with_border">
+<section class="et_pb_fullwidth_header et_pb_section_parallax et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_fullwidth_header_0">
+<div class="et_parallax_bg et_pb_parallax_css" style="background-image: url(https://upcebu.edu.ph/wp-content/uploads/2018/04/2017_aafairs_in_01.jpg);"></div>
+<div class="et_pb_fullwidth_header_container center">
+<div class="header-content-container center">
+<div class="header-content">
+<div class="et_pb_header_content_wrapper"><h1><span style="font-family: 'Alfa Slab One'; font-weight: normal;">Nurtured to Create</span></h1></div>
+</div>
+</div>
+</div>
+<div class="et_pb_fullwidth_header_overlay"></div>
+<div class="et_pb_fullwidth_header_scroll"></div>
+</section>
+</div> <div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular et_pb_with_border">
+<div class="et_animated et_pb_row et_pb_row_4 et_pb_row_fullwidth">
+<div class="et_pb_column et_pb_column_4_4  et_pb_column_7 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_1">
+<div class="et_pb_text_inner">
+<h1 style="text-align: left;"><span style="font-family: Oswald; font-weight: normal;"><strong>ANNOUNCEMENTS</strong></span></h1>
+</div>
+</div> <div class="et_pb_module et_pb_space et_pb_divider et_pb_divider_1 et_pb_divider_position_"><div class="et_pb_divider_internal"></div></div>
+</div> 
+</div> <div class="et_animated et_pb_row et_pb_row_5 et_pb_row_fullwidth">
+<div class="et_pb_column et_pb_column_1_3  et_pb_column_8 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blog_grid_wrapper  et_pb_blog_3">
+<div class="et_pb_blog_grid clearfix et_pb_bg_layout_light et_pb_text_align_center">
+<div class="et_pb_ajax_pagination_container">
+<div class="et_pb_salvattore_content" data-columns>
+<article id="post-3178" class="et_pb_post clearfix post-3178 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-events category-up-cebu-news tag-uphillchallenge3 tag-anniversary tag-run tag-uphill tag-uphill-challenge">
+<div class="et_pb_image_container"> <a href="https://upcebu.edu.ph/join-the-uphill-challenge-on-its-third-anniversary-run/" class="entry-featured-image-url">
+<img src="https://upcebu.edu.ph/wp-content/uploads/2019/09/67705440_1984919078280954_3668448386329083904_o-400x250.jpg" alt='JOIN the UPhill Challenge on its Third Anniversary Run' width='400' height='250' /> </a>
+</div> 
+<h2 class="entry-title"><a href="https://upcebu.edu.ph/join-the-uphill-challenge-on-its-third-anniversary-run/">JOIN the UPhill Challenge on its Third Anniversary Run</a></h2>
+<p class="post-meta"> <span class="published">Sep 4, 2019</span> </p><div class="post-content"><p>    5KM (Fun Run) 30KM 12KM 60KM Registration 450 1,000 2,400 1,950 Early Rate* 350 900 2,200 1,800 Gun Start 5:00AM 1:00AM 4:00AM 9:00PM** Group Category Open Open 2 Male, 2 Female Male/Female Age Group Open Open Open 29-Below, 30-39, 40-49, 50-Up Cut-Off Time 8...</p>
+</div>
+</article> 
+</div>
+</div>
+</div> 
+</div>
+</div> <div class="et_pb_column et_pb_column_1_3  et_pb_column_9 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blog_grid_wrapper  et_pb_blog_4">
+<div class="et_pb_blog_grid clearfix et_pb_bg_layout_light et_pb_text_align_center">
+<div class="et_pb_ajax_pagination_container">
+<div class="et_pb_salvattore_content" data-columns>
+<article id="post-3198" class="et_pb_post clearfix post-3198 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-events category-up-cebu-news tag-84 tag-day-of-remembrance tag-never-forget tag-september-21">
+<div class="et_pb_image_container"> <a href="https://upcebu.edu.ph/up-day-of-remembrance-2019-call-for-participation/" class="entry-featured-image-url">
+<img src="https://upcebu.edu.ph/wp-content/uploads/2019/09/1-1-400x250.jpg" alt='UP Day of Remembrance 2019: Call for Participation' width='400' height='250' /> </a>
+</div> 
+<h2 class="entry-title"><a href="https://upcebu.edu.ph/up-day-of-remembrance-2019-call-for-participation/">UP Day of Remembrance 2019: Call for Participation</a></h2>
+<p class="post-meta"> <span class="published">Sep 3, 2019</span> </p><div class="post-content"><p>In Proclamation No. 1, Series of 2018, UP President Danilo L. Concepcion declared September 21 of every year as the UP Day of Remembrance throughout the University of the Philippines System. With this, UP Cebu, together with other CUs is authorized and encouraged to...</p>
+</div>
+</article> 
+</div>
+</div>
+</div> 
+</div>
+</div> <div class="et_pb_column et_pb_column_1_3  et_pb_column_10 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_blog_grid_wrapper  et_pb_blog_5">
+<div class="et_pb_blog_grid clearfix et_pb_bg_layout_light et_pb_text_align_center">
+<div class="et_pb_ajax_pagination_container">
+<div class="et_pb_salvattore_content" data-columns>
+<article id="post-2899" class="et_pb_post clearfix post-2899 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-up-cebu-news tag-college-of-social-sciences tag-dean">
+<div class="et_pb_image_container"> <a href="https://upcebu.edu.ph/expanded-search-for-the-dean-of-the-college-of-social-sciences/" class="entry-featured-image-url">
+<img src="https://upcebu.edu.ph/wp-content/uploads/2018/09/upcebulogo-1.png" alt='Expanded Search for the Dean of the College of Social Sciences' width='400' height='250' /> </a>
+</div> 
+<h2 class="entry-title"><a href="https://upcebu.edu.ph/expanded-search-for-the-dean-of-the-college-of-social-sciences/">Expanded Search for the Dean of the College of Social Sciences</a></h2>
+<p class="post-meta"> <span class="published">Aug 30, 2019</span> </p><div class="post-content"><p>Please use the nomination form available below. Nomination form available...</p>
+</div>
+</article> 
+</div>
+</div>
+</div> 
+</div>
+</div> 
+</div> <div class=" et_pb_row et_pb_row_6">
+<div class="et_pb_column et_pb_column_4_4  et_pb_column_11 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_button_module_wrapper et_pb_module et_pb_button_alignment_center">
+<a class="et_pb_button et_pb_custom_button_icon  et_pb_button_1 et_pb_module et_pb_bg_layout_light" href="https://upcebu.edu.ph/index.php/announcements/" data-icon="&#x39;">See More Announcements</a>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_section et_pb_section_6 et_pb_fullwidth_section et_section_regular et_pb_with_border">
+<section class="et_pb_fullwidth_header et_pb_section_parallax et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_fullwidth_header_1">
+<div class="et_parallax_bg et_pb_parallax_css" style="background-image: url(https://upcebu.edu.ph/wp-content/uploads/2018/04/img_6890.jpg);"></div>
+<div class="et_pb_fullwidth_header_container center">
+<div class="header-content-container center">
+<div class="header-content">
+<div class="et_pb_header_content_wrapper"><h1><span style="font-family: 'Alfa Slab One'; font-weight: normal;">Inspired to Innovate</span></h1></div>
+</div>
+</div>
+</div>
+<div class="et_pb_fullwidth_header_overlay"></div>
+<div class="et_pb_fullwidth_header_scroll"></div>
+</section>
+</div> <div class="et_pb_section et_pb_section_7 et_section_regular et_pb_with_border">
+<div class="et_animated et_pb_row et_pb_row_7 et_pb_row_fullwidth">
+<div class="et_pb_column et_pb_column_4_4  et_pb_column_12 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_2">
+<div class="et_pb_text_inner">
+<h1 style="text-align: left;"><span style="font-family: Oswald; font-weight: normal;"><strong>RESEARCH</strong></span></h1>
+</div>
+</div> <div class="et_pb_module et_pb_space et_pb_divider et_pb_divider_2 et_pb_divider_position_"><div class="et_pb_divider_internal"></div></div>
+</div> 
+</div> <div class="et_animated et_pb_row et_pb_row_8 et_pb_row_fullwidth et_pb_with_border">
+<div class="et_pb_column et_pb_column_1_3  et_pb_column_13 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_posts et_pb_bg_layout_light et_animated et_pb_blog_6 et_pb_text_align_left et_pb_with_border">
+<div class="et_pb_ajax_pagination_container">
+<article id="post-2933" class="et_pb_post clearfix post-2933 post type-post status-publish format-standard has-post-thumbnail hentry category-research category-up-cebu-news tag-central-visayas tag-cultural-tourism tag-ecotourism tag-multi-stakeholder-partnerships tag-sustainable-tourism">
+<a href="https://upcebu.edu.ph/issues-challenges-and-opportunities-in-sustainable-tourism-development-in-central-visayas-specific-and-common-concerns-of-cebu-and-bohol-belinda-f-espiritu-and-cora-jane-c-lawas/" class="entry-featured-image-url">
+<img src="https://upcebu.edu.ph/wp-content/uploads/2019/08/cover-2.jpg" alt='Issues, Challenges, and Opportunities in Sustainable Tourism Development in Central Visayas: Specific and Common Concerns of Cebu and Bohol || Belinda F. Espiritu and Cora Jane C. Lawas' width='1080' height='675' /> </a>
+<h3 class="entry-title"><a href="https://upcebu.edu.ph/issues-challenges-and-opportunities-in-sustainable-tourism-development-in-central-visayas-specific-and-common-concerns-of-cebu-and-bohol-belinda-f-espiritu-and-cora-jane-c-lawas/">Issues, Challenges, and Opportunities in Sustainable Tourism Development in Central Visayas: Specific and Common Concerns of Cebu and Bohol || Belinda F. Espiritu and Cora Jane C. Lawas</a></h3>
+<p class="post-meta"> <span class="published">Aug 20, 2019</span> | <a href="https://upcebu.edu.ph/category/research/" rel="category tag">Research</a>, <a href="https://upcebu.edu.ph/category/up-cebu-news/" rel="category tag">UP Cebu News</a> </p><div class="post-content"><p>ABSTRACT This paper explores the status, issues and concerns, and challenges and opportunities in sustainable tourism development in Central Visayas using the framework of sustainable development, with its three aspects of socio-cultural sustainability, ecological...</p>
+<a href="https://upcebu.edu.ph/issues-challenges-and-opportunities-in-sustainable-tourism-development-in-central-visayas-specific-and-common-concerns-of-cebu-and-bohol-belinda-f-espiritu-and-cora-jane-c-lawas/" class="more-link">read more</a></div>
+</article> 
+</div>
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_3  et_pb_column_14 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_posts et_pb_bg_layout_light  et_pb_blog_7 et_pb_text_align_left et_pb_with_border">
+<div class="et_pb_ajax_pagination_container">
+<article id="post-2687" class="et_pb_post clearfix post-2687 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-research category-up-cebu-news tag-baguia tag-disaster tag-espiritu tag-internet tag-islamophobia tag-logged tag-management tag-metro tag-out tag-politics tag-research tag-scalar tag-stereotypes tag-urban">
+<a href="https://upcebu.edu.ph/up-cebu-faculty-researchers-submit-six-new-publications/" class="entry-featured-image-url">
+<img src="https://upcebu.edu.ph/wp-content/uploads/2018/09/upcebulogo-1.png" alt='UP Cebu Faculty Researchers Submit Six New Publications' width='1080' height='675' /> </a>
+<h3 class="entry-title"><a href="https://upcebu.edu.ph/up-cebu-faculty-researchers-submit-six-new-publications/">UP Cebu Faculty Researchers Submit Six New Publications</a></h3>
+<p class="post-meta"> <span class="published">Aug 15, 2019</span> | <a href="https://upcebu.edu.ph/category/announcements/" rel="category tag">Announcements</a>, <a href="https://upcebu.edu.ph/category/research/" rel="category tag">Research</a>, <a href="https://upcebu.edu.ph/category/up-cebu-news/" rel="category tag">UP Cebu News</a> </p><div class="post-content"><p>  UP Cebu – Central Visayas Studies Center (CVSC) is proud to disseminate the most recent publications of its faculty researchers:    Logged out: Analyzing Non-Participation in the Internet by Jason Abellaneda Baguia Negative Stereotypes of Muslims Have Fueled the...</p>
+<a href="https://upcebu.edu.ph/up-cebu-faculty-researchers-submit-six-new-publications/" class="more-link">read more</a></div>
+</article> 
+</div>
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_3  et_pb_column_15 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_posts et_pb_bg_layout_light  et_pb_blog_8 et_pb_text_align_center et_pb_with_border">
+<div class="et_pb_ajax_pagination_container">
+<article id="post-2935" class="et_pb_post clearfix post-2935 post type-post status-publish format-standard has-post-thumbnail hentry category-research category-up-cebu-news">
+<a href="https://upcebu.edu.ph/logged-out-analyzing-non-participation-in-the-internet-jason-abellaneda-baguia/" class="entry-featured-image-url">
+<img src="https://upcebu.edu.ph/wp-content/uploads/2019/08/cover_issue_2_en_US-1080x675.jpg" alt='Logged out: Analyzing Non-Participation in the Internet || Jason Abellaneda Baguia' width='1080' height='675' /> </a>
+<h3 class="entry-title"><a href="https://upcebu.edu.ph/logged-out-analyzing-non-participation-in-the-internet-jason-abellaneda-baguia/">Logged out: Analyzing Non-Participation in the Internet || Jason Abellaneda Baguia</a></h3>
+<p class="post-meta"> <span class="published">Aug 15, 2019</span> | <a href="https://upcebu.edu.ph/category/research/" rel="category tag">Research</a>, <a href="https://upcebu.edu.ph/category/up-cebu-news/" rel="category tag">UP Cebu News</a> </p><div class="post-content"><p>Abstract Participation in the multimedia and Web 3.0 era has been theorized, leading to models like Nico Carpentier’s (2011) access, interaction, and participation (AIP) that is oft-debated in communication discourse. There is evidence, however, of human movement...</p>
+<a href="https://upcebu.edu.ph/logged-out-analyzing-non-participation-in-the-internet-jason-abellaneda-baguia/" class="more-link">read more</a></div>
+</article> 
+</div>
+</div> 
+</div> 
+</div> <div class=" et_pb_row et_pb_row_9">
+<div class="et_pb_column et_pb_column_4_4  et_pb_column_16 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_button_module_wrapper et_pb_module et_pb_button_alignment_center">
+<a class="et_pb_button et_pb_custom_button_icon  et_pb_button_2 et_pb_module et_pb_bg_layout_light" href="https://upcebu.edu.ph/index.php/research/" data-icon="&#x39;">See More Research Articles</a>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_section et_pb_section_8 et_pb_fullwidth_section et_section_regular et_pb_with_border">
+<section class="et_pb_fullwidth_header et_pb_section_parallax et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_fullwidth_header_2 et_pb_with_border">
+<div class="et_parallax_bg et_pb_parallax_css" style="background-image: url(https://upcebu.edu.ph/wp-content/uploads/2018/04/img_9017.jpg);"></div>
+<div class="et_pb_fullwidth_header_container center">
+<div class="header-content-container center">
+<div class="header-content">
+<div class="et_pb_header_content_wrapper"><h1><span style="font-family: 'Alfa Slab One'; font-weight: normal;">Destined to Serve</span></h1></div>
+</div>
+</div>
+</div>
+<div class="et_pb_fullwidth_header_overlay"></div>
+<div class="et_pb_fullwidth_header_scroll"></div>
+</section>
+</div> <div class="et_pb_section et_animated et_pb_section_9 et_section_regular">
+<div class="et_animated et_pb_row et_pb_row_10">
+<div class="et_pb_column et_pb_column_4_4  et_pb_column_17 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_3">
+<div class="et_pb_text_inner">
+<h1 style="text-align: center;"><span style="font-family: Oswald; font-weight: normal; font-size: xx-large;"><b>VIDEOS</b></span></h1>
+</div>
+</div> 
+</div> 
+</div> 
+</div> <div class="et_pb_section et_animated et_pb_section_10 et_section_specialty">
+<div class="et_pb_row">
+<div class="et_pb_column et_pb_column_1_2  et_pb_column_18 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_video  et_pb_video_0">
+<div class="et_pb_video_box">
+<iframe width="1080" height="608" src="https://www.youtube.com/embed/iFgLFt8Ol2Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_4">
+<div class="et_pb_text_inner">
+<h1 style="text-align: center;">Puso 2 &#8211; UP Cebu</h1>
+<h5 style="text-align: center;">by Gregg Lloren</h5>
+<p style="text-align: justify;">Puso 2 is a video ad that highlights the University of the Philippines Cebu as the national university&#8217;s campus in the Central Visayas; an academic institution that takes its character from the region&#8217;s quintessential food fare, puso (hanging rice). As it drums up itself as the centre of creativity, innovation, and service, it also reflects on it&#8217;s role as nurturer of knowledge and learning; a catalyst of inspiration for generations of students seeking their destined place in nation building.</p>
+</div>
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_2  et_pb_column_19 et_pb_specialty_column et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class=" et_pb_row_inner et_pb_row_inner_0">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_inner  et_pb_column_inner_0 et-last-child">
+<div class="et_pb_module et_pb_video  et_pb_video_1">
+<div class="et_pb_video_box">
+<iframe width="1080" height="608" src="https://www.youtube.com/embed/40J5RUDupcw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+</div> 
+</div> <div class=" et_pb_row_inner et_pb_row_inner_1">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_inner  et_pb_column_inner_1 et-last-child">
+<div class="et_pb_module et_pb_video  et_pb_video_2">
+<div class="et_pb_video_box">
+<iframe width="1080" height="608" src="https://www.youtube.com/embed/_VxPbjbgkA0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+</div> 
+</div> 
+</div> 
+</div> 
+</div> <div class="et_pb_section et_pb_section_11 et_section_regular">
+<div class=" et_pb_row et_pb_row_11">
+<div class="et_pb_column et_pb_column_4_4  et_pb_column_20 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_button_module_wrapper et_pb_module et_pb_button_alignment_center">
+<a class="et_pb_button et_pb_custom_button_icon  et_pb_button_3 et_pb_module et_pb_bg_layout_dark" href="https://www.youtube.com/user/upsysteminfo" target="_blank" data-icon="&#xe04e;">SEE MORE MULTIMEDIA</a>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_section et_pb_section_12 et_pb_with_background et_section_regular">
+<div class=" et_pb_row et_pb_row_12">
+<div class="et_pb_column et_pb_column_1_3  et_pb_column_21 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_image et_pb_image_1 et_always_center_on_mobile">
+<a href="https://upcebu.edu.ph/transparency-seal/" target="_blank"><span class="et_pb_image_wrap"><img src="https://upcebu.edu.ph/wp-content/uploads/2018/09/transparency-btn-red-v2-1024x319.jpg?" alt="" /></span></a>
+</div>
+</div> <div class="et_pb_column et_pb_column_1_3  et_pb_column_22 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_image et_pb_image_2 et_always_center_on_mobile">
+<a href="https://www.foi.gov.ph/" target="_blank"><span class="et_pb_image_wrap"><img src="https://upcebu.edu.ph/wp-content/uploads/2018/09/freedom_of_information.png?" alt="" /></span></a>
+</div>
+</div> <div class="et_pb_column et_pb_column_1_3  et_pb_column_23 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_image et_pb_image_3 et_always_center_on_mobile">
+<a href="http://mail.up.edu.ph/"><span class="et_pb_image_wrap"><img src="https://upcebu.edu.ph/wp-content/uploads/2018/09/upmail-btn-2-1024x319.jpg?" alt="" /></span></a>
+</div>
+</div> 
+</div> <div class=" et_pb_row et_pb_row_13">
+<div class="et_pb_column et_pb_column_1_3  et_pb_column_24 et_pb_css_mix_blend_mode_passthrough">
+<ul class="et_pb_social_media_follow et_pb_module et_pb_bg_layout_light  et_pb_social_media_follow_0 clearfix">
+</ul> <ul class="et_pb_counters et-waypoint et_pb_module et_pb_bg_layout_light  et_pb_counters_0">
+</ul> <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_5">
+<div class="et_pb_text_inner">
+?? GORORDO, LAHUG, CEBU CITY 6000<br />
+?? (032) 232 2642<br />
+?? (032) 232 8185<br />
+?? MONDAY TO FRIDAY 08:00 &#8211; 17:00
+</div>
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_3  et_pb_column_25 et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_6">
+<div class="et_pb_text_inner">
+<p style="text-align: center;"><span style="color: #e0e0e0;"><img class="size-medium alignnone" style="display: block; margin-left: auto; margin-right: auto;" src="wp-content/uploads/2018/09/upcebulogo-w.png" alt="" width="164" height="164" /></span><span style="color: #8a1538; font-size: small;">Copyright © 2018<br /></span><span style="color: #8a1538; font-size: 13px; font-family: Lato; letter-spacing: 0px;">UNIVERSITY OF THE PHILIPPINES CEBU</span></p>
+<h4 style="text-align: center;"></h4>
+</div>
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_3  et_pb_column_26 et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_7">
+<div class="et_pb_text_inner">
+<h4><span style="color: #8a1538; font-family: Lato;"><b>QUICKLINKS</b></span></h4>
+<p><span style="font-size: 14px;"><a href="up-cebu-guest-house-in-up-diliman/"><span style="color: #8a1538;">UP CEBU GUESTHOUSE<br /></span></a></span><span style="font-size: 14px;"><span style="color: #8a1538;"><a href="https://www.up.edu.ph/">UP SYSTEM<br /></a></span></span><a href="https://upd.edu.ph/"><span style="color: #8a1538;">UP DILIMAN<br /></span></a><a href="http://uplb.edu.ph/"><span style="color: #8a1538;">UP LOS BAÑOS<br /></span></a><a href="https://www.upm.edu.ph/"><span style="color: #8a1538;">UP MANILA<br /></span></a><a href="https://www.upou.edu.ph/"><span style="color: #8a1538;">UP OPEN UNIVERSITY<br /></span></a><a href="https://www2.upmin.edu.ph/"><span style="color: #8a1538;">UP MINDANAO<br /></span></a><a href="https://www.upb.edu.ph/"><span style="color: #8a1538;">UP BAGUIO</span></a></p>
+<p> </p>
+</div>
+</div> 
+</div> 
+</div> 
+</div>  </div> 
+</article> 
+</div> 
+</div> 
+<script type="text/javascript">
+		var et_animation_data = [{"class":"et_pb_fullwidth_menu_0","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_section_3","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_row_4","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_row_5","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_row_7","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_row_8","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blog_6","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_section_9","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_row_10","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_section_10","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+	</script>
+<link rel='stylesheet' id='mediaelement-css' href='https://upcebu.edu.ph/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://upcebu.edu.ph/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9.4' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sticky_anything_engage = {"element":"#stickymenu","topspace":"0","minscreenwidth":"0","maxscreenwidth":"999999","zindex":"99999","legacymode":"","dynamicmode":"","debugmode":"","pushup":"","adminbar":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://upcebu.edu.ph/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js?ver=2.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"https:\/\/upcebu.edu.ph\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/upcebu.edu.ph\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/upcebu.edu.ph\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"24ac58e0f6","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"96cc3375ed","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"1","page_id":"7","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://upcebu.edu.ph/wp-content/themes/Divi/js/custom.min.js?ver=3.0.106'></script>
+<script type='text/javascript' src='https://upcebu.edu.ph/wp-content/themes/Divi/includes/builder/scripts/ext/jquery.visible.min.js?ver=3.0.106'></script>
+<script type='text/javascript' src='https://upcebu.edu.ph/wp-content/plugins/divi-builder/core/admin/js/common.js?ver=3.0.106'></script>
+<script type='text/javascript' src='https://upcebu.edu.ph/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://upcebu.edu.ph/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='https://upcebu.edu.ph/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://upcebu.edu.ph/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.9.4'></script>
+<style id="et-core-unified-cached-inline-styles-2">.et_pb_section_0{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px}.et_pb_divider_2:before{border-top-color:#ffb818;border-top-style:ridge;border-top-width:11px}.et_pb_blog_7:not(.et_pb_blog_grid) .et_pb_post{border-top-width:7px;border-top-color:#bc0101}.et_pb_blog_7{background-color:#ffffff;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px}.et_pb_blog_7 .pagination a{line-height:2.9px}.et_pb_blog_7 .et_pb_post .post-meta,.et_pb_blog_7 .et_pb_post .post-meta a{font-size:13px}.et_pb_blog_7 .et_pb_post .entry-title{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif!important;font-weight:600!important;font-size:18px!important;text-align:left!important}.et_pb_blog_7 .et_pb_post .entry-title a{color:#7b1113!important}.et_pb_blog_6:not(.et_pb_blog_grid) .et_pb_post{border-top-width:7px;border-top-color:#bc0101}.et_pb_blog_6{background-color:#ffffff;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px}.et_pb_blog_6 .et_pb_post .post-content,.et_pb_blog_6.et_pb_bg_layout_light .et_pb_post .post-content p,.et_pb_blog_6.et_pb_bg_layout_dark .et_pb_post .post-content p{text-align:left}.et_pb_blog_6 .et_pb_post .entry-title{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif!important;font-weight:600!important;font-size:18px!important;text-align:left!important}.et_pb_blog_6 .et_pb_post .entry-title a{color:#7b1113!important}.et_pb_row_8.et_pb_row{padding-top:52px;padding-right:0px;padding-bottom:0;padding-left:0px}.et_pb_row_8{border-top-style:double;border-top-color:#e02b20}.et_pb_divider_2{max-width:50%;height:14px}.et_pb_blog_8 .et_pb_post .entry-title{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif!important;font-weight:600!important;font-size:18px!important;text-align:left!important}.et_pb_section_7{border-style:dotted dotted solid dotted;border-bottom-color:#7b111c;padding-top:12px;padding-right:0px;padding-bottom:54px;padding-left:0px}.et_pb_fullwidth_header_1.et_pb_fullwidth_header .et_pb_fullwidth_header_overlay{background-color:rgba(0,0,0,0.14)}.et_pb_fullwidth_header_1 .header-content{text-shadow:0.26em 0.08em 0em rgba(0,0,0,0.4)}.et_pb_fullwidth_header_1.et_pb_fullwidth_header .header-content h1,.et_pb_fullwidth_header_1.et_pb_fullwidth_header .header-content h2.et_pb_module_header,.et_pb_fullwidth_header_1.et_pb_fullwidth_header .header-content h3.et_pb_module_header,.et_pb_fullwidth_header_1.et_pb_fullwidth_header .header-content h4.et_pb_module_header,.et_pb_fullwidth_header_1.et_pb_fullwidth_header .header-content h5.et_pb_module_header,.et_pb_fullwidth_header_1.et_pb_fullwidth_header .header-content h6.et_pb_module_header{font-size:57px}.et_pb_section_6{border-bottom-color:#7b1113;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px}.et_pb_button_1{box-shadow:0px 10px 8px -4px rgba(12,12,12,0.3)}body #page-container .et_pb_button_1:after{color:#005640;line-height:1.7em;font-size:1em!important;margin-left:-1em;left:auto}body #page-container .et_pb_button_1:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_button_1:hover{color:#005640!important;background:#ffffff!important;border-color:#005640!important;border-radius:3px;letter-spacing:3px}body #page-container .et_pb_button_1{color:#ffffff!important;border-color:#005640;border-radius:5px;letter-spacing:2px;font-size:18px;font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif!important;text-transform:uppercase!important;background-color:#005640}.et_pb_blog_5 .et_pb_blog_grid .et_pb_post{border-width:0px}.et_pb_blog_5{background-color:#ffffff;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px}.et_pb_blog_5 .pagination a{color:#e04f47!important}.et_pb_blog_8 .et_pb_post .entry-title a{color:#7b1113!important}.et_pb_blog_8{background-color:#ffffff;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu ul li a{font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif;text-transform:uppercase;font-size:15px;color:#ffffff!important;letter-spacing:3px;line-height:1.9em;text-shadow:0.15em 0.21em 0em rgba(12,0,0,0.4)}.et_pb_section_11{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px}.et_pb_row_13.et_pb_row{padding-top:0;padding-right:0px;padding-bottom:27px;padding-left:0px}.et_pb_image_3{margin-left:0}.et_pb_image_2{margin-left:0}.et_pb_image_1{margin-left:0}.et_pb_row_12.et_pb_row{padding-top:27px;padding-right:0;padding-bottom:35px;padding-left:0}.et_pb_section_12.et_pb_section{background-color:#f4f4f4!important}.et_pb_section_12{padding-top:0px;padding-right:0px;padding-bottom:1px;padding-left:0px}.et_pb_button_3{box-shadow:0px 10px 8px -4px rgba(0,0,0,0.3)}body #page-container .et_pb_button_3:after{color:#111111;line-height:1.7em;font-size:1em!important;margin-left:-1em;left:auto}body #page-container .et_pb_button_3:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_button_3:hover{color:#000000!important;background:#ffffff!important;border-color:#000000!important;border-radius:3px;letter-spacing:3px}body #page-container .et_pb_button_3{color:#ffffff!important;border-width:2px!important;border-color:#000000;border-radius:5px;font-size:18px;font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif!important;text-transform:uppercase!important;background-color:#000000}.et_pb_row_11.et_pb_row{padding-top:0;padding-right:0px;padding-bottom:39px;padding-left:0px}.et_pb_video_2{max-width:69%}.et_pb_blog_8:not(.et_pb_blog_grid) .et_pb_post{border-top-width:7px;border-top-color:#bc0101}.et_pb_video_1{max-width:69%}.et_pb_section_10{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:-125px}.et_pb_row_10.et_pb_row{padding-top:44px;padding-right:0px;padding-bottom:27px;padding-left:0px}.et_pb_section_9{padding-top:2px;padding-right:0px;padding-bottom:54px;padding-left:0px;margin-bottom:45px}.et_pb_fullwidth_header_2.et_pb_fullwidth_header .et_pb_fullwidth_header_overlay{background-color:rgba(0,0,0,0.1)}.et_pb_fullwidth_header_2{border-bottom-color:#7b1113}.et_pb_fullwidth_header_2 .header-content{text-shadow:0.24em 0.08em 0em rgba(0,0,0,0.4)}.et_pb_fullwidth_header_2.et_pb_fullwidth_header .header-content h1,.et_pb_fullwidth_header_2.et_pb_fullwidth_header .header-content h2.et_pb_module_header,.et_pb_fullwidth_header_2.et_pb_fullwidth_header .header-content h3.et_pb_module_header,.et_pb_fullwidth_header_2.et_pb_fullwidth_header .header-content h4.et_pb_module_header,.et_pb_fullwidth_header_2.et_pb_fullwidth_header .header-content h5.et_pb_module_header,.et_pb_fullwidth_header_2.et_pb_fullwidth_header .header-content h6.et_pb_module_header{font-size:57px}.et_pb_section_8{border-style:dotted dotted solid dotted;border-bottom-color:#7b1113}.et_pb_button_2{box-shadow:0px 10px 8px -4px rgba(0,0,0,0.3)}body #page-container .et_pb_button_2:after{color:#ffb818;line-height:1.7em;font-size:1em!important;margin-left:-1em;left:auto}body #page-container .et_pb_button_2:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_button_2:hover{color:#ffb818!important;background:#ffffff!important;border-radius:3px;letter-spacing:3px}body #page-container .et_pb_button_2{color:#000000!important;border-color:#ffb818;border-radius:5px;letter-spacing:2px;font-size:18px;font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif!important;text-transform:uppercase!important;background-color:#ffb818}.et_pb_blog_5 .et_pb_post .entry-title{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif!important;font-weight:700!important;font-size:24px!important;text-align:center!important}.et_pb_blog_5 .et_pb_post .entry-title a{color:#7a0b39!important}.et_pb_column_10{background-color:#ffffff}.et_pb_divider_0{height:6px}.et_pb_blog_0 .et_pb_post .post-content,.et_pb_blog_0.et_pb_bg_layout_light .et_pb_post .post-content p,.et_pb_blog_0.et_pb_bg_layout_dark .et_pb_post .post-content p{font-family:'Open Sans',Helvetica,Arial,Lucida,sans-serif}.et_pb_blog_0 .et_pb_post .entry-title{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif!important;font-weight:600!important;font-size:20px!important}.et_pb_blog_0 .et_pb_post .entry-title a{color:#7b1113!important}.et_pb_search_0 form input.et_pb_s:-ms-input-placeholder{color:#b5b5b5!important}.et_pb_search_0 form input.et_pb_s::-moz-placeholder{color:#b5b5b5!important}.et_pb_search_0 form input.et_pb_s::-webkit-input-placeholder{color:#b5b5b5!important}.et_pb_search_0{max-width:66%}.et_pb_search_0.et_pb_search{border-color:#e02b20}.et_pb_search_0 input.et_pb_searchsubmit{font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif;text-transform:uppercase;color:#ffffff!important;letter-spacing:3px;background:#8a1538!important;border-color:#8a1538!important}.et_pb_search_0 input.et_pb_s::-ms-input-placeholder{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}.et_pb_search_0 input.et_pb_s::-moz-placeholder{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}.et_pb_search_0 input.et_pb_s::-webkit-input-placeholder{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif}.et_pb_search_0 input.et_pb_s{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;border-color:#8a1538!important;height:auto;min-height:0}.et_pb_divider_0:before{border-top-color:#8A1538;border-top-style:ridge;border-top-width:12px}.et_pb_blog_1 .et_pb_post .entry-title{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif!important;font-weight:600!important;font-size:20px!important;text-align:left!important}.et_pb_row_1.et_pb_row{padding-top:63px;padding-right:0px;padding-bottom:0;padding-left:0px}.et_pb_section_3{border-color:#7b1113;padding-top:0px;padding-right:0px;padding-bottom:54px;padding-left:0px;margin-top:-100px}.et_pb_section_2{padding-top:0px;padding-right:0px;padding-bottom:18px;padding-left:0px}.et_pb_image_0{margin-left:0}.et_pb_row_0.et_pb_row{padding-top:27px;padding-right:0px;padding-bottom:128px;padding-left:0px}.et_pb_section_1{padding-top:84px;padding-right:0px;padding-bottom:441px;padding-left:0px;background-size:cover}div.et_pb_section.et_pb_section_1{background-image:url(http://upcebu.edu.ph/wp-content/uploads/2019/09/UPC-Commencement-Exercise-1001-1.jpg)!important}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu .et_mobile_menu,.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu .et_mobile_menu ul{background-color:#ffffff!important}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu .et_mobile_menu{border-color:#ffffff}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu .nav li ul{background-color:#8a1538!important;border-color:#ffffff}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu ul li.current-menu-item a{color:#ffffff!important}.et_pb_fullwidth_menu_0,.et_pb_fullwidth_menu_0 .sub-menu{box-shadow:0px 12px 8px -3px rgba(0,0,0,0.3)}.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu{background-color:#8a1538;border-style:dotted;padding-top:5px;position:fixed;top:0;right:0;left:0;z-index:99;display:inline}.et_pb_blog_4 .et_pb_blog_grid .et_pb_post{border-width:0px}.et_pb_blog_1 .et_pb_post .entry-title a{color:#7b1113!important}.et_pb_blog_2 .et_pb_post .entry-title a{color:#7b1113!important}.et_pb_blog_2 .et_pb_post .entry-title{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif!important;font-weight:600!important;font-size:20px!important}.et_pb_blog_4{background-color:#ffffff;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px}.et_pb_blog_4 .pagination a{color:#e04f47!important}.et_pb_blog_4 .et_pb_post .post-content,.et_pb_blog_4.et_pb_bg_layout_light .et_pb_post .post-content p,.et_pb_blog_4.et_pb_bg_layout_dark .et_pb_post .post-content p{text-align:left}.et_pb_blog_4 .et_pb_post .entry-title{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif!important;font-weight:700!important;font-size:24px!important}.et_pb_blog_4 .et_pb_post .entry-title a{color:#7b1113!important}.et_pb_column_9{background-color:#ffffff}.et_pb_blog_3 .et_pb_blog_grid .et_pb_post{border-width:0px}.et_pb_blog_3{background-color:#ffffff;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px}.et_pb_blog_3 .pagination a{color:#e04f47!important}.et_pb_blog_3 .et_pb_post .post-content,.et_pb_blog_3.et_pb_bg_layout_light .et_pb_post .post-content p,.et_pb_blog_3.et_pb_bg_layout_dark .et_pb_post .post-content p{text-align:left}.et_pb_blog_3 .et_pb_post .entry-title{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif!important;font-weight:700!important;font-size:24px!important;text-align:center!important}.et_pb_blog_3 .et_pb_post .entry-title a{color:#7b1113!important}.et_pb_column_8{background-color:#ffffff}.et_pb_divider_1:before{border-top-color:#127a00;border-top-style:ridge;border-top-width:11px}.et_pb_text_7 h1{color:#ffffff!important}.et_pb_divider_1{max-width:50%;height:14px}body #page-container .et_pb_button_0:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}.et_pb_row_3.et_pb_row{padding-top:27px;padding-right:0px;padding-bottom:27px;padding-left:0px}body #page-container .et_pb_button_0{color:#ffffff!important;border-width:2px!important;border-color:#7b1113;border-radius:5px;letter-spacing:2px;font-size:18px;font-family:'Oswald',Helvetica,Arial,Lucida,sans-serif!important;text-transform:uppercase!important;background-color:#8A1538}.et_pb_section_5.et_pb_section{background-color:rgba(255,255,255,0.89)!important}.et_pb_section_5{border-color:#018e27 #018e27 #7b111c #018e27;padding-top:0px;padding-right:0px;padding-bottom:54px;padding-left:0px}.et_pb_fullwidth_header_0.et_pb_fullwidth_header .et_pb_fullwidth_header_overlay{background-color:rgba(0,0,0,0.21)}.et_pb_fullwidth_header_0 .header-content{text-shadow:0.2em 0.08em 0em rgba(0,0,0,0.4)}.et_pb_fullwidth_header_0.et_pb_fullwidth_header .header-content h1,.et_pb_fullwidth_header_0.et_pb_fullwidth_header .header-content h2.et_pb_module_header,.et_pb_fullwidth_header_0.et_pb_fullwidth_header .header-content h3.et_pb_module_header,.et_pb_fullwidth_header_0.et_pb_fullwidth_header .header-content h4.et_pb_module_header,.et_pb_fullwidth_header_0.et_pb_fullwidth_header .header-content h5.et_pb_module_header,.et_pb_fullwidth_header_0.et_pb_fullwidth_header .header-content h6.et_pb_module_header{font-size:57px}body #page-container .et_pb_button_0:hover{color:#8A1538!important;background:#ffffff!important;letter-spacing:3px}.et_pb_section_4{border-bottom-color:#7b1113;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px}.et_pb_button_0{box-shadow:0px 10px 8px -4px rgba(12,12,12,0.3)}body #page-container .et_pb_button_0:after{color:#8A1538;line-height:1.7em;font-size:1em!important;margin-left:-1em;left:auto}.et_pb_search_0.et_pb_module{margin-left:auto!important;margin-right:0px!important}.et_pb_row_2.et_pb_row{margin-left:auto!important;margin-right:auto!important;padding-top:33px;padding-right:0;padding-bottom:27px;padding-left:0px}.et_pb_row_4.et_pb_row{margin-left:auto!important;margin-right:auto!important;padding-top:65px;padding-right:0px;padding-bottom:27px;padding-left:0px}.et_pb_video_2.et_pb_module{margin-left:auto!important;margin-right:auto!important}.et_pb_row_7.et_pb_row{margin-left:auto!important;margin-right:auto!important;padding-top:60px;padding-right:0px;padding-bottom:27px;padding-left:0px}.et_pb_video_1.et_pb_module{margin-left:auto!important;margin-right:auto!important}@media only screen and (max-width:980px){.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu ul li a{line-height:1em}}@media only screen and (max-width:767px){.et_pb_fullwidth_menu_0.et_pb_fullwidth_menu ul li a{line-height:1em}}</style></body>
+</html>

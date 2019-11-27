@@ -1,0 +1,1179 @@
+
+<!doctype html>
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> 
+<html class="no-js" lang="en">
+<!-- =========================================
+head
+========================================== -->
+<head>	
+<!-- =========================================
+Basic
+========================================== -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>University of Cebu</title>
+<meta name="keywords" content="University of Cebu" />
+<meta name="description" content="Democratize quality education" />
+<meta name="author" content="Gian Carlo S. Cataraja - gccataraja" />
+<meta name="google-site-verification" content="nVRPK3D7NxxypWG14YLV_cUQlEyMCvmv8nlt4pn9EOE" />
+<!-- =========================================
+Mobile Configurations
+========================================== -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="GOOGLEBOT" content="index follow"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />		
+<!-- =========================================
+fav & icons for iPhone and iPad
+========================================== -->
+<!-- <link rel="apple-touch-icon" href="apple-touch-icon.png"> -->
+<link rel="apple-touch-icon" href="http://uc.edu.ph/wp-content/themes/gccataraja7/apple-touch-icon.png">
+<!-- ========================================
+Google font
+========================================= -->
+<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600' rel='stylesheet' type='text/css'>
+<!-- =========================================
+CSS
+========================================== -->
+<!-- <link rel="stylesheet" media="screen" href="css/owl.transitions.css" /> -->
+<link rel="stylesheet" media="screen" href="http://uc.edu.ph/wp-content/themes/gccataraja7/css/owl.transitions.css">
+
+<!-- <link rel="stylesheet" media="screen" href="css/owl.theme.css" /> -->
+<link rel="stylesheet" media="screen" href="http://uc.edu.ph/wp-content/themes/gccataraja7/css/owl.theme.css">
+
+<!-- <link rel="stylesheet" media="screen" href="css/owl.carousel.css" /> -->
+<link rel="stylesheet" media="screen" href="http://uc.edu.ph/wp-content/themes/gccataraja7/css/owl.carousel.css">
+
+<!-- <link rel="stylesheet" media="screen" href="css/pe-icon-7-stroke.css" /> -->
+<link rel="stylesheet" media="screen" href="http://uc.edu.ph/wp-content/themes/gccataraja7/css/pe-icon-7-stroke.css">
+
+<!-- <link rel="stylesheet" media="screen" href="css/font-awesome.min.css" /> -->
+<link rel="stylesheet" media="screen" href="http://uc.edu.ph/wp-content/themes/gccataraja7/css/font-awesome.min.css">
+
+<!-- <link rel="stylesheet" media="screen" href="css/animate.css" /> -->
+<link rel="stylesheet" media="screen" href="http://uc.edu.ph/wp-content/themes/gccataraja7/css/animate.css">
+
+<!-- <link rel="stylesheet" media="screen" href="css/bootstrap.min.css" /> -->
+<link rel="stylesheet" media="screen" href="http://uc.edu.ph/wp-content/themes/gccataraja7/css/bootstrap.min.css">
+
+<!-- <link rel="stylesheet" media="screen" href="style.css"/> -->
+<link rel="stylesheet" media="screen" href="http://uc.edu.ph/wp-content/themes/gccataraja7/style.css">
+
+<!-- <link rel="stylesheet" media="screen" href="css/responsive.css"/> -->
+<link rel="stylesheet" media="screen" href="http://uc.edu.ph/wp-content/themes/gccataraja7/css/responsive.css">
+
+<!-- <link rel="shortcut icon" href="img/favicon.ico"> -->
+<link rel="stylesheet" media="screen" href="http://uc.edu.ph/wp-content/themes/gccataraja7/img/favicon.ico">
+
+<!-- =========================================
+Script
+========================================== -->
+<script src="http://uc.edu.ph/wp-content/themes/gccataraja7/js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+<body>
+<!--[if lt IE 8]>
+  <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+<!-- =========================================
+HEADER-AREA
+========================================== -->
+<header id="home" class="header-area">
+  <div class="container header">
+      <div class="row">				
+          <div class="col-md-2 col-sm-2">
+              <div id="info">
+                   <span style="color:#dce1e8;">by GCCATARAJA</span>
+              </div>
+          </div>
+          <div class="col-md-5 col-sm-4">															
+               <!--language-box -->
+              <div class="language-box">
+                  <h4>Language:</h4>
+                  <div id="lang-switcher" class="ui-dropdown-list">
+                      <p class="ui-dropdown-list-trigger de"><strong>English</strong><i class="fa fa-angle-down"></i></p>
+                      <ul>
+                          <li><a href="#" title="" class="en">English</a></li>
+                          <li><a href="#" title="" class="en">Arabic</a></li>
+                      </ul>
+                  </div>
+              </div><!-- /language-box -->
+          </div>					
+          <div class="col-md-5 col-sm-6">
+              <!-- social-icons -->
+              <div class="social-icons">
+                  <ul>
+                      <li><a href="https://www.facebook.com/UniversityOfCebuWebmasters/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="https://twitter.com/uc_webmasters" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                      <li><a href="https://www.instagram.com/ucwebmaster/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                  </ul>
+              </div><!-- /social-icons -->
+          </div>
+      </div>
+  </div>
+</header>
+<!-- =========================================
+Menu Area
+========================================== -->
+<section id="mainmenu" class="mainmenu-area">
+  <div class="container">
+      <div class="row">
+          <div class="col-md-3">
+              <div class="header-logo">
+                  <a href="http://uc.edu.ph">
+                       <h2><img src="http://uc.edu.ph/wp-content/themes/gccataraja7/img/uc-logo.png" alt="UC Logo"></h2>
+                  </a>
+              </div>
+          </div>						
+          <div class="col-md-9">
+              <div class="navbar-collaps">								
+                  <!-- nav -->
+                  <nav class="mainMenu">
+                      <div class="menuButton hidden-lg hidden-md">
+                          <span></span>
+                          <span></span>
+                          <span></span>
+                      </div>
+                      <ul>
+                          <li class="scroll"><a href="#home">HOME</a></li>
+                          <li class="scroll"><a href="#about-us">ABOUT</a></li>
+                          <li class="scroll"><a href="#academics">ACADEMICS</a></li>
+                          <li class="scroll"><a href="#admissions">ADMISSIONS</a></li>
+                          <li class="scroll"><a href="#colleges">DEPARTMENTS</a></li>
+                          <li class="scroll"><a href="#research">RESEARCH</a></li>
+                      </ul>
+                  </nav>
+                  <!-- /nav -->
+                  <!-- Menue-Search-bar -->
+                  <div id="sb-search" class="sb-search " >
+                      <!-- <form> -->
+                          <!--
+                          <input class="sb-search-input " onkeyup="buttonUp();" placeholder=	"Enter your search term..." onblur="monkey();" type="search" value="" name="search" id="search">
+                          <input class="sb-search-submit" type="submit"  value="">
+                          <span class="sb-icon-search"><i class="fa fa-search"></i></span>
+                          -->
+                          
+<form role="search" method="get" class="search-form" action="http://uc.edu.ph/">
+    <input class="sb-search-input " onkeyup="buttonUp();" placeholder=	"Search uc.edu.ph" onblur="monkey();" type="search" value="" name="s" id="search">
+    <input class="sb-search-submit" type="submit"  value="">
+    <span class="sb-icon-search"><i class="fa fa-search"></i></span>
+</form>
+                      <!-- </form> -->
+                  </div>
+                  <!-- /Menue-search-bar -->
+              </div>	
+          </div>
+      </div>
+  </div>
+</section>
+<!-- =========================================
+Slider Area
+========================================== -->
+<section class="slider-area">
+
+   <div class="fullscreen-bg">
+         <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg__video">
+             <source src="http://uc.edu.ph/wp-content/themes/gccataraja7/media/v1.webm" type="video/webm">
+             <source src="http://uc.edu.ph/wp-content/themes/gccataraja7/media/v1.mp4" type="video/mp4">
+             <source src="http://uc.edu.ph/wp-content/themes/gccataraja7/media/v1.ogv" type="video/ogg">
+         </video>
+   </div>
+
+  <div class="slider-list">
+      <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                  <div class="imageover"></div>
+                  <div class="main-image"></div>
+                  <div class="carousel-captions">
+                       <h1 class="revive1"><span>Democratize</span> quality education.</h1>
+                       <h1 class="revive1">Be the <span>visionary</span> and <span>industry</span> leader.</h1>
+                       <h1 class="revive1">Give <span>hope</span> and <span>transform</span> lives.</h1>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>	
+</section>
+
+<!-- =========================================
+   Latest NEWS Section
+========================================== -->
+<section id="blog" class="news-area">
+  <div class="container latest-news-area">
+      <div class="row">
+          <div class="col-md-8 col-md-offset-2 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="section-title">
+                  <div class="main-title">
+                      <h2>News</h2>
+                  </div>
+                  <div class="desc-title">
+                       <h4><a href="http://uc.edu.ph/index.php/all-news/">All News</a></h4>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <div class="row">
+               
+                 
+                 
+	
+		      <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="100ms">
+        <div class="news-box">
+             <div class="news-text">
+                   <ul class="news-info">
+					 <li>14 August 2019</li>
+                   </ul>
+                   <h4><a href="http://uc.edu.ph/index.php/midterm-examination-and-first-mastery-test/" rel="bookmark">Midterm Examination and First Mastery Test</a></h4>
+                   <p class="news-para">
+                        <p><span style="font-style:normal;">Midterm Examination  <a href="http://uc.edu.ph/index.php/midterm-examination-and-first-mastery-test/#more-1148" class="more-link"><br />[Read more]</a></span></p>
+                   </p>
+             </div>
+             <figure class="news-image">
+                                <img src=<img width="270" height="270" src="http://uc.edu.ph/wp-content/uploads/2017/04/announcement-blue.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://uc.edu.ph/wp-content/uploads/2017/04/announcement-blue.png 270w, http://uc.edu.ph/wp-content/uploads/2017/04/announcement-blue-150x150.png 150w" sizes="(max-width: 270px) 100vw, 270px" />                             </figure>
+         </div>
+      </div>
+
+	
+
+	
+		      <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="100ms">
+        <div class="news-box">
+             <div class="news-text">
+                   <ul class="news-info">
+					 <li>15 July 2019</li>
+                   </ul>
+                   <h4><a href="http://uc.edu.ph/index.php/announcement-5/" rel="bookmark">Announcement</a></h4>
+                   <p class="news-para">
+                        <p><span style="font-style:normal;">Preliminary Examination  <a href="http://uc.edu.ph/index.php/announcement-5/#more-1140" class="more-link"><br />[Read more]</a></span></p>
+                   </p>
+             </div>
+             <figure class="news-image">
+                                <img src=<img width="270" height="270" src="http://uc.edu.ph/wp-content/uploads/2018/08/announcement-blue-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://uc.edu.ph/wp-content/uploads/2018/08/announcement-blue-1.png 270w, http://uc.edu.ph/wp-content/uploads/2018/08/announcement-blue-1-150x150.png 150w" sizes="(max-width: 270px) 100vw, 270px" />                             </figure>
+         </div>
+      </div>
+
+	
+
+	
+		      <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="100ms">
+        <div class="news-box">
+             <div class="news-text">
+                   <ul class="news-info">
+					 <li>09 May 2019</li>
+                   </ul>
+                   <h4><a href="http://uc.edu.ph/index.php/university-of-cebu-school-of-medicine/" rel="bookmark">University of Cebu School of Medicine</a></h4>
+                   <p class="news-para">
+                        <p><span style="font-style:normal;">Requirements for Admission</span> <a href="http://uc.edu.ph/index.php/university-of-cebu-school-of-medicine/#more-1134" class="more-link"><br />[Read more]</a></p>
+                   </p>
+             </div>
+             <figure class="news-image">
+                                <img src=<img width="270" height="270" src="http://uc.edu.ph/wp-content/uploads/2019/01/school-of-med-announcement.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://uc.edu.ph/wp-content/uploads/2019/01/school-of-med-announcement.jpg 270w, http://uc.edu.ph/wp-content/uploads/2019/01/school-of-med-announcement-150x150.jpg 150w" sizes="(max-width: 270px) 100vw, 270px" />                             </figure>
+         </div>
+      </div>
+
+	
+
+	
+		      <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="100ms">
+        <div class="news-box">
+             <div class="news-text">
+                   <ul class="news-info">
+					 <li>06 May 2019</li>
+                   </ul>
+                   <h4><a href="http://uc.edu.ph/index.php/uc-art-and-design/" rel="bookmark">UC ART and DESIGN</a></h4>
+                   <p class="news-para">
+                        <p><span style="font-style:normal;">UC Senior High School ART &#038; DESIGN at  <a href="http://uc.edu.ph/index.php/uc-art-and-design/#more-1130" class="more-link"><br />[Read more]</a></span></p>
+                   </p>
+             </div>
+             <figure class="news-image">
+                                <img src=<img width="270" height="270" src="http://uc.edu.ph/wp-content/uploads/2019/05/p4-small.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://uc.edu.ph/wp-content/uploads/2019/05/p4-small.jpg 270w, http://uc.edu.ph/wp-content/uploads/2019/05/p4-small-150x150.jpg 150w" sizes="(max-width: 270px) 100vw, 270px" />                             </figure>
+         </div>
+      </div>
+
+	
+                       <div class="row">
+                         <div class="col-md-8 col-md-offset-2 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+                             <div class="section-title">
+                                 <div class="desc-title">
+                                      <h5><a href="http://uc.edu.ph/index.php/page/2/" >Older posts</a></h5>
+                                      <h5></h5>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                       </div>
+  </div>
+</section>
+<!-- =========================================
+About US Section
+========================================== -->
+<section id="about-us" class="feature-section section-padding">
+  <div class="container">
+      <div class="row">
+          <div class="col-md-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              
+               
+              <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                         <li data-target="#myCarousel" data-slide-to="1"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                         <div class="item active" align="center">
+                         <img src="http://uc.edu.ph/wp-content/themes/gccataraja7/img/landing-page-img1.png" alt="" class="img-responsive">
+                         </div>
+
+                         <div class="item" align="center">
+                         <img src="http://uc.edu.ph/wp-content/themes/gccataraja7/img/landing-page-img2.png" alt="" class="img-responsive">
+                         </div>
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                         <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                         <span class="sr-only">Next</span>
+                    </a>
+               </div><!-- End of Carousel -->
+          </div>
+
+          <div class="col-md-12 wow fadeInUp" data-wow-duration="1.5" data-wow-delay="200ms">
+              <div class="service-btn3">
+                      <a href="http://uc.edu.ph/index.php/about/">The University of Cebu</a>
+              </div>
+          </div>
+           
+      </div>
+  </div>
+</section>
+<!-- =========================================
+Our Team Section
+========================================== -->
+<section id="team" class="team-area-front">
+  <div class="container client">
+      <div class="row">
+          <div class="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInLeft" data-wow-duration="700ms" data-wow-delay="200ms">
+              <a href="http://uc.edu.ph/index.php/about/cultural-services/">
+              <div class="team-member">
+                  <div class="team-bdr">
+                      <div class="member-image">
+                          <img src="http://uc.edu.ph/wp-content/themes/gccataraja7/img/culturalservices.jpg" alt="">
+                      </div>
+                      <div class="team-content">
+                          <h4>Cultural Services</h4>
+                          <h5> Cultural Development Program <br> &nbsp;</h5>
+                          <p>The value of education as an instrument of change has emerged as the primary concern of educators. Education is recognized as a key component of development.</p>
+                      </div>
+                  </div>
+              </div>
+              </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInUp" data-wow-duration="500ms" data-wow-delay="200ms">
+              <a href="http://uc.edu.ph/index.php/about/scholarship/">
+              <div class="team-member">
+                  <div class="team-bdr">
+                      <div class="member-image">
+                          <img src="http://uc.edu.ph/wp-content/themes/gccataraja7/img/scholarships.jpg" alt="">
+                      </div>
+                      <div class="team-content">
+                          <h4>Scholarships</h4>
+                          <h5>What are the available scholarships and study grants?</h5>
+                          <p>Every year, an estimated 7,000 scholars are admitted to the various institutional, local and international scholarship programs offered by the university.</p>
+                      </div>
+                  </div>
+              </div>
+              </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInUp" data-wow-duration="500ms" data-wow-delay="200ms">
+              <a href="http://uc.edu.ph/index.php/about/student-services/">
+              <div class="team-member">
+                  <div class="team-bdr">
+                      <div class="member-image">
+                          <img src="http://uc.edu.ph/wp-content/themes/gccataraja7/img/studentservices.jpg" alt="">
+                      </div>
+                      <div class="team-content">
+                          <h4>Students</h4>
+                          <h5>Student Services <br> &nbsp; <br> &nbsp;</h5>
+                          <p>Medical, Dental clinic, UC Student Affairs Office, Guidance Services Center, Athletics Office. Serve as an active catalyst in providing efficient delivery of educational services.</p>
+                      </div>
+                  </div>
+              </div>
+              </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInRight" data-wow-duration="700ms" data-wow-delay="200ms">
+              <a href="http://uc.edu.ph/index.php/about/uc-administration/">
+              <div class="team-member">
+                  <div class="team-bdr">
+                      <div class="member-image">
+                          <img src="http://uc.edu.ph/wp-content/themes/gccataraja7/img/uc_administration.jpg" alt="">
+                      </div>
+                      <div class="team-content">
+                          <h4>UC Administration</h4>
+                          <h5>Top Management and Department Heads <br> &nbsp;</h5>
+                          <p>Living in the spirit of harmony and approachability. Always a professional, mindful of God, university, the community and self. (Camaraderie and Respect)</p>
+                      </div>
+                  </div>
+              </div>
+              </a>
+          </div>
+      </div>
+
+     <div class="row">
+          <div class="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInLeft" data-wow-duration="700ms" data-wow-delay="200ms">
+              <a href="http://uc.edu.ph/index.php/about/community-services/">
+              <div class="team-member">
+                  <div class="team-bdr">
+                      <div class="member-image">
+                          <img src="http://uc.edu.ph/wp-content/themes/gccataraja7/img/community.jpg" alt="">
+                      </div>
+                      <div class="team-content">
+                          <h4>Community Services</h4>
+                          <h5>UC CARES <br> &nbsp; <br> &nbsp;</h5>
+                          <p>UC CARES (Community Awareness, Relations & Extension Services)<br>
+                               (Katilingbanong Kasayuran, Kalabutan, ug mga Kahimu-an).</p>
+                      </div>
+                  </div>
+              </div>
+              </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInUp" data-wow-duration="500ms" data-wow-delay="200ms">
+              <a href="http://uc.edu.ph/index.php/about/partners/">
+              <div class="team-member">
+                  <div class="team-bdr">
+                      <div class="member-image">
+                          <img src="http://uc.edu.ph/wp-content/themes/gccataraja7/img/partners.jpg" alt="">
+                      </div>
+                      <div class="team-content">
+                          <h4>Partners</h4>
+                          <h5>Affiliated companies <br> &nbsp; <br> &nbsp;</h5>
+                          <p>Computer Studies, Engineering, Business, Teachers Education, Science, Medical, Law, Maritime Education, Hotel Management, Commerce and Tourism</p>
+                      </div>
+                  </div>
+              </div>
+              </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInUp" data-wow-duration="500ms" data-wow-delay="200ms">
+              <a href="http://uc.edu.ph/index.php/facilities/">
+              <div class="team-member">
+                  <div class="team-bdr">
+                      <div class="member-image">
+                          <img src="http://uc.edu.ph/wp-content/themes/gccataraja7/img/facility.jpg" alt="">
+                      </div>
+                      <div class="team-content">
+                          <h4>Facilities</h4>
+                          <h5>State-of-the-Art Facilities <br> &nbsp; <br> &nbsp;</h5>
+                          <p>Acquire, disseminate and utilize appropriate technology to enhance the university's educational services. Nurtures employee productivity and engagement.</p>
+                      </div>
+                  </div>
+              </div>
+              </a>
+          </div>
+          <div class="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInUp" data-wow-duration="500ms" data-wow-delay="200ms">
+              <a href="http://uc.edu.ph/index.php/school-calendar/">
+              <div class="team-member">
+                  <div class="team-bdr">
+                      <div class="member-image">
+                          <img src="http://uc.edu.ph/wp-content/themes/gccataraja7/img/calendar.jpg" alt="">
+                      </div>
+                      <div class="team-content">
+                          <h4>School Calendar</h4>
+                          <h5>School events and activities <br> &nbsp;</h5>
+                          <p>Holidays, breaks, and important school dates. <br> &nbsp; <br> &nbsp; <br> &nbsp;</p>
+                      </div>
+                  </div>
+              </div>
+              </a>
+          </div>
+      </div>
+
+  </div>
+</section>
+<!-- =========================================
+Graphic content Section
+========================================== -->	
+<section class="graphic-content-area">			
+  <div class="graphic-image">
+      <div class="paralax-image"></div>
+      <div class="graphover"></div>
+  </div>
+  <div class="container featur">
+      <div class="row">
+          <div class="col-md-12">
+              
+                  <h2 class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms"><span style="color:#fef200"><i class="fa fa-bullhorn" aria-hidden="true"></i> ANNOUNCEMENT</span></h2>
+                  <p class="wow pulse" data-wow-duration="700ms" data-wow-delay="200ms">
+                    <span style="color:#ffffff">Connect with us and receive announcements directly to your mobile phone.</span> <a href="https://docs.google.com/forms/d/1DngdqxqVx6D_Jv03zNyPleX-IkV4OIyHuar4yddmHSI/viewform" target="_blank"><span style="color:#fef200">Sign up now!</span></a>
+                  </p>
+                  <h5 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="200ms"></h5>
+              
+          </div>
+      </div>
+  </div>
+</section>
+<!-- =========================================
+Our Service Section
+========================================== -->
+<section id="academics" class="servicer-section section-padding">
+  <div class="container">
+      <div class="row">
+           <div class="col-md-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="section-title">
+                  <div class="main-title">
+                      <h2>Academics</h2>
+                  </div>
+                  <div class="desc-title">
+                       <!-- <p>Short description of Academics</p> -->
+                  </div>
+              </div>
+          </div>
+      </div>
+      <div class="row">
+          <div class="col-md-6 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-duration="700ms" data-wow-delay="200ms">
+
+              <div class="service-content">
+
+                  <div class="hr-border">
+                      <span></span>
+                  </div>
+                  <div class="service-para">
+                       <h4>Basic Education</h4>
+                      <p>
+                           <strong>Programs</strong><br>
+                           Pre-Elementary (Nursery & Kindergarten)<br>
+                           Elementary (Grades 1 to 6)<br>
+                           Junior High School (Grades 7 to 10)<br>
+                           <a href="http://uc.edu.ph/index.php/basic-education-programs/"><span style="font-size:12px;color:#144d94">[read more]</span></a>
+                      </p>
+                  </div>
+                  <div class="hr-border">
+                      <span></span>
+                  </div>
+                  <div class="service-para">
+                       <h4>College</h4>
+                      <p>
+                           <strong>Course Listing</strong><br>
+                           Undergraduate programs<br>
+                           <a href="http://uc.edu.ph/index.php/college-course-listing/"><span style="font-size:12px;color:#144d94">[read more]</span></a>
+                      </p>
+                  </div>
+
+              </div>
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-12 wow fadeInRight" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="features-list service-list">
+                  <div class="more-about about-service">
+                      <div class="about-icon servicebase">
+                          <i class="fa fa-graduation-cap"></i>
+                      </div>
+                      <div class="about-content servic-content">
+                           <h4><a href="http://uc.edu.ph/index.php/uc-eteeap/">UC-ETEEAP</a></h4>
+                          <p>Gain the competitive edge to get ahead in your career with.</p>
+                          <p><a href="http://uc.edu.ph/index.php/uc-eteeap/"><span style="font-size:12px;color:#144d94">[read more]</span></a></p>
+                      </div>
+                  </div>
+                  <div class="more-about about-service">
+                      <div class="about-icon servicebase">
+                      <i class="fa fa-pencil-square-o"></i>
+                      </div>
+                      <div class="about-content servic-content">
+                          <h4><a href="http://uc.edu.ph/index.php/tesda-short-courses/">TESDA / SHORT COURSES</a></h4>
+                          <p>Technical Education Training & Assessment Center</p>
+                          <p><a href="http://uc.edu.ph/index.php/tesda-short-courses/"><span style="font-size:12px;color:#144d94">[read more]</span></a></p>
+                      </div>
+                  </div>
+                  <div class="more-about about-service">
+                      <div class="about-icon servicebase">
+                          <i class="fa fa-anchor"></i>
+                      </div>
+                      <div class="about-content servic-content">
+                          <h4><a href="http://uc.edu.ph/index.php/uc-maritime-training-center/">MARITIME TRAINING CENTER</a></h4>
+                          <p>Whether you are just to embark on your career on board a cruise ship or about to get your captain's license, we have just the right training program for you. <a href="http://uc.edu.ph/index.php/uc-maritime-training-center/"><span style="font-size:12px;color:#144d94">[read more]</span></a></p>
+                      </div>
+                  </div>
+
+              </div>
+          </div>
+      </div>
+      
+      <div class="row">
+          <div class="col-md-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="section-title">
+                  <div class="main-title">
+                    <h4 style="color:#000;"><a href="#">Graduate School</a></h4>
+                  </div>
+                  <div class="desc-title">
+                       <p>
+                           Doctor of Education (Ed. D.)<br>
+                           Doctor of Philosophy in Criminal Justice with specialization in Criminology (Ph. D.)<br>
+                           Doctor in Business Administration<br>
+                           Master of Business Administration (MBA) - Thesal and Non-thesal Program<br>
+                           Master of Science in Elementary Management (MSEM)<br>
+                           Master of Science in Criminal Justice with Specialization in Criminology (MSCJ)<br>
+                           Master of Arts in Nursing (MAN)<br>
+                           Master of Science in Teaching (MST)<br>
+                           MS Elementary School Management<br>
+                       </p>
+                       <a href="http://uc.edu.ph/index.php/uc-graduate-school/"><h5 style="color:#144d94;"><i class="fa fa-chevron-right" aria-hidden="true"></i><i class="fa fa-chevron-right" aria-hidden="true"></i> Read More About the UC Graduate School</h5></a>
+                  </div>
+              </div>
+          </div>
+      </div>
+       
+  </div>
+</section>
+<!-- =========================================
+Latest Project Section
+========================================== -->
+<section id="admissions" class="latest-project-area">
+  <div class="container">
+      <div class="row">
+          
+          <div class="col-md-8 col-md-offset-2 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="latest-title">
+                  <div class="main-title">
+                      <h2>Admissions</h2>
+                  </div>
+              </div>
+          </div>	
+          <div class="col-md-3 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+               <h4 style="color:#144d94;">New Student</h4>
+               <p style="color:#fff;font-size:12px;">
+               High School Report Card (F-138A)<br>
+               NSO Birth Certificate<br>
+               Certificate of Good Moral Character<br>
+               1 copy of 2 x 2 colored picture<br>
+               2 copies of 1 x 1 & 2 x 2 colored pictures (BSMT / BSMarE)<br>
+               </p>
+          </div>
+          <div class="col-md-3 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+               <h4 style="color:#144d94;">Transferees</h4>
+               <p style="color:#fff;font-size:12px;">
+               Certificate of Transfer Credential<br>
+               Transcript of Records for Evaluation<br>
+               NSO Birth Certificate<br>
+               Certificate of Good Moral Character<br>
+               1 copy of 2 x 2 colored picture<br>
+               2 copies of 1 x 1 & 2 x 2 colored picture (BSMT / BSMarE)<br>
+               </p>
+          </div>
+           <div class="col-md-3 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+               <h4 style="color:#144d94;">Returnees and Shiftees</h4>
+               <p style="color:#fff;font-size:12px;">
+               Informative Copy of Transcript of Records<br>
+               Returnee / Shiftee guidelines form
+               </p>
+          </div>
+           <div class="col-md-3 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+               <h4 style="color:#144d94;">Cross-Enrollee</h4>
+               <p style="color:#fff;font-size:12px;">
+               Cross-enrollment / Study Permit
+               </p>
+          </div>
+          <div class="col-md-8 col-md-offset-2 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="latest-title">
+                  <div class="main-title">
+                      <h3 style="color:#144d94;">For Foreign Student Applicant</h3>
+                      <p>
+                      Please call the Registrar or email at:<br>
+                      UC Main Campus (032) 255 7777 loc 137 marian.fajardo@uc.edu.ph<br>
+                      UC Mambaling Campus (032) 262 8888 loc 109 registrar.metc@uc.edu.ph<br>
+                      UC Banilad Campus (032) 233 8888 loc 105 ucbanilad_registrar@uc.edu.ph<br>
+                      UC Lapu-lapu Mandaue Campus (032) 345 6666 loc 204 registrar.lm@uc.edu.ph<br>
+                       </p>
+                  </div>
+              </div>
+          </div>
+           
+      </div>
+  </div>
+</section>
+<!-- =========================================
+Colleges Section
+========================================== -->
+<section id="colleges">
+  <div class="container">
+       
+      <div class="row">
+           <div class="col-md-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="section-title">
+                  <div class="main-title">
+                      <h3 style="color:#000000;">Basic Education</h3>
+                  </div>
+              </div>
+          </div>
+      </div>
+       
+      <div class="row">
+           <!-- Start of Basic Education Section -->
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-university"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/pre-school-and-elementary/">Pre School and Elementary</a></h5>
+                      <p>Developing life-long learners</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-users"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/junior-high-school/">Junior High School</a></h5>
+                      <p>Demonstrate skills and competencies</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-user"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/senior-high-school/">Senior High School</a></h5>
+                      <p>Display social accountability</p>
+                  </div>
+              </div>
+          </div>
+          <!-- End of Basic Education Section -->
+      </div>
+      <hr>
+      <div class="row">
+           <div class="col-md-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="section-title">
+                  <div class="main-title">
+                      <h3 style="color:#000000;">Colleges</h3>
+                  </div>
+              </div>
+          </div>
+      </div>
+       
+      <div class="row">
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">						
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-university"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/colleges/business-and-accountancy/">Business and Accountancy</a></h5>
+                      <p>Quality business education</p>
+                  </div>
+              </div>
+          </div>			
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">						
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-desktop"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/colleges/computer-studies/">Computer Studies</a></h5>
+                      <p>We envision being the hub of quality</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-shield"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/colleges/criminal-justice/">Criminal Justice</a></h5>
+                      <p>Quality Criminal Justice Education</p>
+                  </div>
+              </div>
+          </div> 
+       </div>
+       
+       <div class="row">
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-line-chart"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/colleges/customs-administration/">Customs Administration</a></h5>
+                      <p>Values-based education</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-calculator"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/colleges/allied-engineering/">Engineering</a></h5>
+                      <p>Foster technological advancement</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-tty"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/colleges/hospitality-management/">Hospitality Management</a></h5>
+                      <p>World-class hospitality graduates</p>
+                  </div>
+              </div>
+          </div>
+       </div>
+       
+       <div class="row">
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-book"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/colleges/liberal-arts/">Liberal Arts</a></h5>
+                      <p>Dynamic liberal arts education</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-ship"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/colleges/marine-engineering/">Marine Engineering</a></h5>
+                      <p></p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-anchor"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/colleges/marine-transportation/">Marine Transportation</a></h5>
+                      <p></p>
+                  </div>
+              </div>
+          </div>
+       </div>
+       <div class="row">
+          <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-pie-chart"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/colleges/teacher-education/">Teacher Education</a></h5>
+                      <p>Dedication and commitment</p>
+                  </div>
+              </div>
+          </div>
+          
+		  <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="feature-box-style2">
+                  <span class="bd-left"></span>
+                  <span class="bd-right"></span>
+                  <span class="bd-btm-left"></span>
+                  <span class="bd-btm-right"></span>
+                  <div class="feature-box-icon">
+                      <i class="fa fa-stethoscope"></i>
+                  </div>
+                  <div class="feature-box-containt">
+                      <h5 style="color:#144d94;"><a href="http://uc.edu.ph/index.php/colleges/nursing/">College of Nursing</a></h5>
+                      <p>Producing globally competent nurses</p>
+                  </div>
+              </div>
+          </div>
+       </div>
+
+       <hr>
+       <div class="row">
+           <div class="col-md-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms" align="center">
+              <div class="section-title">
+                  <div class="main-title">
+                      <h3 style="color:#000000;">UC School of Law</h3>
+                      <a href="http://banilad.uc.edu.ph/school-of-law/"><h5 style="color:#144d94;"><i class="fa fa-chevron-right" aria-hidden="true"></i><i class="fa fa-chevron-right" aria-hidden="true"></i> Read More About the UC School of Law</h5></a>
+                  </div>
+              </div>
+          </div>
+       </div>
+
+       <hr>
+       <div class="row">
+           <div class="col-md-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms" align="center">
+              <div class="section-title">
+                  <div class="main-title">
+                      <h3 style="color:#000000;">UC School of Medicine</h3>
+                      <a href="http://uc.edu.ph/index.php/uc-school-of-medicine/"><h5 style="color:#144d94;"><i class="fa fa-chevron-right" aria-hidden="true"></i><i class="fa fa-chevron-right" aria-hidden="true"></i> Read More About the UC School of Medicine</h5></a>
+                  </div>
+              </div>
+          </div>
+       </div>
+      </div>
+  </div>
+  <br>
+</section>	
+<!-- =========================================
+Our Team Section
+========================================== -->
+<section id="research" class="team-area">
+  <div class="container client">
+      <div class="row">
+          <div class="col-md-12 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="latest-title">
+                  <div class="main-title">
+                      <h2>Research</h2>
+                  </div>
+                  <div class="desc-title">
+                       <p>Collegiate work is characterized not only by serious study in the particular discipline but also reliance on scientific inquiry in the pursuit of academic excellence. Faculty members and students engaged in this endeavor constantly seek to advance the frontiers of knowledge by experimentation, research and publication (Philippine Association of Colleges and Universities Commission on Accreditation, 2012 Manual of Accreditation).</p>
+                  </div>
+              </div>
+               <div class="service-btn3">
+                      <a href="http://uc.edu.ph/index.php/research/">Read more</a>
+               </div>
+          </div>
+      </div>
+
+  </div>
+</section>
+<!-- =========================================
+Contact Information Section
+========================================== -->
+<section class="contact-info">
+  <div class="container">
+      <div class="row">
+          <div class="col-md-8 col-md-offset-2 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="200ms">
+              <div class="latest-title">
+                  <div class="main-title">
+                      <h2> <i class="fa fa-phone"></i> Call Us</h2>
+                  </div>
+                  <div class="desc-title">
+                       <p>032.255.7777 | UC MAIN CAMPUS </p>
+                       <p>032.345.6666 | UC LAPU-LAPU AND MANDAUE CAMPUS </p>
+                       <p>032.262.8888 | UC MAMBALING CAMPUS (Maritime Education) </p>
+                       <p>032.233.8888 | UC BANILAD CAMPUS </p>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+
+<!-- <div class="row"> -->
+     <div class="col-md-12 envelopes1">
+         <div class="skill-area">
+             <!-- 
+             <div class="our-skil">
+                 <h4>Our Skill</h4>
+             </div>
+             -->
+             <!--
+             <div class="progress-area">
+                 <h6>Graphic Design</h6>
+                 <div class="pro-exces">
+                     <div class="pro-width" data-percent="90%">
+                         <div class="pro-dev">
+                             <span>90%</span>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+             -->
+             <!--
+             <div class="progress-area">
+                 <h6>Web Design</h6>
+                 <div class="pro-exces">
+                     <div class="pro-width" data-percent="95%">
+                         <div class="pro-dev">
+                             <span>95%</span>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+             -->
+             <!--
+             <div class="progress-area">
+                 <h6>Wordpress Dev</h6>
+                 <div class="pro-exces">
+                     <div class="pro-width" data-percent="85%">
+                         <div class="pro-dev">
+                             <span>85%</span>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+             -->
+             <!--
+             <div class="progress-area">
+                 <h6>Joomla Dev</h6>
+                 <div class="pro-exces">
+                     <div class="pro-width" data-percent="80%">
+                         <div class="pro-dev">
+                             <span>80%</span>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+             -->
+
+             <div class="progress-area">
+                 <!-- <h6>Php Dev</h6> -->
+                 <!-- <div class="pro-exces"> -->
+                     <div class="pro-width" data-percent="87%">
+                         <!-- <div class="pro-dev"> -->
+                             <!-- <span>87%</span> -->
+                         <!-- </div> -->
+                     </div>
+                 <!-- </div> -->
+             </div>
+         </div>
+     </div>
+ <!-- </div> -->
+<!-- =========================================
+Footer Top Section
+========================================== -->
+<section class="footer-top-area">
+<div class="container">
+ <div class="row">
+     <div class="col-md-5 col-sm-4">
+         <div class="left-side">
+             <h3>The University of Cebu</h3>
+             <p>
+                 Democratize quality education. Be the visionary and industry leader. Give hope and transform lives.
+             </p>
+         </div>
+     </div>
+     <div class="col-md-3 col-sm-4">
+         <div class="quick-link">
+             <h4>Information About</h4>
+             <ul class="categories">
+                 <li><a href="http://ucmed.ph/" target="_blank">UCMED</a></li>
+                 <li><a href="http://www.svgh.ph/" target="_blank">SVGH</a></li>
+                 <li><a href="http://uc.edu.ph/index.php/about/history-of-uc/">HISTORY</a></li>
+                 <li><a href="http://uc.edu.ph/index.php/about/faculty/">FACULTY</a></li>
+             </ul>
+             <ul class="categories-right">
+                 <li><a href="http://uc.edu.ph/index.php/about/ucta/">UCTA</a></li>
+                 <li><a href="http://www.ucaai.org/">ALUMNI</a></li>
+                 <li><a href="http://uc.edu.ph/index.php/about/uc-college-of-law/">LAW</a></li>
+                 <li><a href="http://uc.edu.ph/index.php/about/uc-webmasters/">WEBMASTERS</a></li>
+             </ul>
+         </div>
+     </div>
+     <div class="col-md-4 col-sm-4">
+         <div class="right-side">
+             <h4>Updates</h4>
+              <p>This website is still in beta stage. Other contents and functionalities will be added soon.</p>
+              <p>Contact this site's <a href="mailto:gccataraja@uc.edu.ph?Subject=Inquiry" target="_top" style="color:#08c5fc;">webmaster.</a></p>
+         </div>
+     </div>
+ </div>
+</div>
+</section>
+<!-- =========================================
+Footer Section
+========================================== -->
+<footer class="footer-area">
+<div class="scroll-top-icon wow zoomIn" data-wow-duration="700ms" data-wow-delay="200ms">
+ <i class="fa fa-chevron-up"></i>
+</div>
+<br>
+<div class="container footer">
+ <div class="row">
+     <div class="col-md-6 col-sm-6 col-xs-12">
+         <div class="copyright-boot">
+              <p style="font-size:11px;"><span class="copyspan">&copy; University of Cebu 2016</span> &nbsp;&nbsp;<a href="http://uc.edu.ph/index.php/contact-us/">Contact us</a>  &nbsp;&nbsp;<a href="http://uc.edu.ph/index.php/about-this-site/">About this site</a>  &nbsp;&nbsp;<a href="http://uc.edu.ph/index.php/legal/">Legal</a>  &nbsp;&nbsp;<a href="http://uc.edu.ph/index.php/privacy-policy/">Privacy policy</a>  &nbsp;&nbsp;<a href="http://uc.edu.ph/index.php/cookie-statement/">Cookie statement</a></p>
+         </div>
+     </div>
+     <div class="col-md-6 col-sm-6 col-xs-12">
+         <div class="social-icons footer-social">
+             <ul>
+                 <li><a href="https://www.facebook.com/UniversityOfCebuWebmasters/" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+                 <li><a href="https://twitter.com/uc_webmasters/" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
+                 <li><a href="https://www.instagram.com/ucwebmaster/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+             </ul>
+         </div>
+     </div>
+ </div>
+</div>
+</footer>
+<!-- =========================================
+Script Section
+========================================== -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>
+<script type="text/javascript" src="http://uc.edu.ph/wp-content/themes/gccataraja7/js/jquery.animateNumber.min.js"></script>
+<script type="text/javascript" src="http://uc.edu.ph/wp-content/themes/gccataraja7/js/jquery.appear.js"></script>
+<script type="text/javascript" src="http://uc.edu.ph/wp-content/themes/gccataraja7/js/wow.min.js"></script>
+<script type="text/javascript" src="http://uc.edu.ph/wp-content/themes/gccataraja7/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="http://uc.edu.ph/wp-content/themes/gccataraja7/js/jquery.mixitup.min.js"></script>
+<script type="text/javascript" src="http://uc.edu.ph/wp-content/themes/gccataraja7/js/vendor/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://uc.edu.ph/wp-content/themes/gccataraja7/js/gmap.js"></script>
+<script src="http://uc.edu.ph/wp-content/themes/gccataraja7/js/plugins.js"></script>
+<script src="http://uc.edu.ph/wp-content/themes/gccataraja7/js/main.js"></script>
+</body>
+</html>

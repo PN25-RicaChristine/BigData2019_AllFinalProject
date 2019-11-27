@@ -1,0 +1,1711 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head><link rel="stylesheet" type="text/css" href="https://www.cit.edu/v6/wp-content/cache/minify/f3e96.css" media="all" />
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+<link rel="shortcut icon" type="ico" href="http://www.cit.edu/v6/wp-content/uploads/2015/06/favicon.gif">
+<title>Cebu Institute of Technology - University | Founded 1946</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.cit.edu/v6/xmlrpc.php" />
+<link rel="shortcut icon" type="ico" href="http://www.cit.edu/v6/wp-content/uploads/2015/06/favicon.gif">
+<!--[if lt IE 9]>
+<script src="https://www.cit.edu/v6/wp-content/themes/university/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if lte IE 9]>
+<link rel="stylesheet" type="text/css" href="https://www.cit.edu/v6/wp-content/themes/university/css/ie.css" />
+<![endif]-->
+<link rel='dns-prefetch' href='//maps.google.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cebu Institute of Technology - University &raquo; Feed" href="https://www.cit.edu/v6/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cebu Institute of Technology - University &raquo; Comments Feed" href="https://www.cit.edu/v6/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cit.edu\/v6\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+
+
+
+
+
+<style id='myc-style-inline-css' type='text/css'>
+
+		.myc-conversation-area .myc-icon-loading-dot {
+			color: #c42e1d;
+		}
+		.myc-conversation-response, .myc-conversation-response:after {
+			background-color: gold;
+			color: black;
+			font-weight: 400;
+		}
+		.myc-conversation-request, .myc-conversation-request:before  {
+			background-color: #c42e1d;
+			color: #fff;
+		}
+		.myc-content-overlay-header {
+			background-color: #800000;
+			color: #d4af37;
+			width: 100%;
+    		font-size: 16px;
+    		display: table;
+    		cursor: pointer;
+		}
+		.myc-conversation-bubble {
+			opacity: 0.8;
+    		filter: alpha(opacity=0 ); /* For IE8 and earlier */
+		}
+		.myc-is-active {
+			opacity: 1.0;
+    		filter: alpha(opacity=100); /* For IE8 and earlier */
+		}
+	
+			.myc-content-overlay-header .myc-icon-toggle-down, .myc-content-overlay-powered-by, .myc-content-overlay-container {
+				display: none;
+			}
+		
+</style>
+
+
+
+
+
+
+
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='simple-job-board-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i&#038;ver=2.6.0' type='text/css' media='all' />
+
+
+
+
+
+<link rel='stylesheet' id='google-font-css'  href='http://fonts.googleapis.com/css?family=Copperplate+Gothic+&#038;ver=4.9.10' type='text/css' media='all' />
+
+
+
+
+
+
+<style id='dry_awp_theme_style-inline-css' type='text/css'>
+@media screen and (max-width: 1024px) {	.csColumn {		clear: both !important;		float: none !important;		text-align: center !important;		margin-left:  10% !important;		margin-right: 10% !important;		width: 80% !important;	}	.csColumnGap {		display: none !important;	}}
+</style>
+
+
+
+<script type='text/javascript' src='http://maps.google.com/maps/api/js?sensor=false&#038;ver=4.9.10'></script>
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/d234f.js"></script>
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vlpp_vars = {"prettyPhoto_rel":"wp-video-lightbox","animation_speed":"fast","slideshow":"5000","autoplay_slideshow":"false","opacity":"0.80","show_title":"true","allow_resize":"true","allow_expand":"true","default_width":"640","default_height":"480","counter_separator_label":"\/","theme":"pp_default","horizontal_padding":"20","hideflash":"false","wmode":"opaque","autoplay":"false","modal":"false","deeplinking":"false","overlay_gallery":"true","overlay_gallery_max":"30","keyboard_shortcuts":"true","ie6_fallback":"true"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/f6589.js"></script>
+
+
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var chpcsArgs = {"auto_scroll":"false","circular":"false","easing_effect":"linear","item_align":"center","direction":"left","touch_swipe":"false","item_width":"180","time_out":"3000","duration":"500","css_transition":"false","infinite":"true","fx":"scroll"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/7aa68.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var myc_script_vars = {"access_token":"efb013de566242008c1e43f5882b5008","enable_welcome_event":"1","messaging_platform":"default","base_url":"https:\/\/api.dialogflow.com\/v1\/","version_date":"20170712","messages":{"internal_error":"An internal error occured","input_unknown":"I'm sorry I do not understand."},"session_id":"1df3441718421f14e7b5493732f033e0","show_time":"1","show_loading":"1","response_delay":"100","language":"en"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/ec06f.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var post_grid_ajax = {"post_grid_ajaxurl":"https:\/\/www.cit.edu\/v6\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/646c8.js"></script>
+
+
+
+
+
+
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.js?ver=all'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery.nicescroll/3.7.6/jquery.nicescroll.min.js?ver=all'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cbParallax = {"imageWidth":"0","imageHeight":"0","backgroundRepeat":"no-repeat","positionX":"center","positionY":"center","backgroundAttachment":"fixed","direction":"vertical","verticalScrollDirection":"to top","horizontalScrollDirection":"to the left","horizontalAlignment":"center","verticalAlignment":"center","overlayImage":"none","overlayOpacity":"default","backgroundColor":"","overlayColor":"","attachmentId":"","backgroundImageUrl":"","parallaxEnabled":"0","canParallax":"","noneString":"none","overlayPath":"https:\/\/www.cit.edu\/v6\/wp-content\/plugins\/cb-parallax\/public\/images\/overlays\/","pluginOptions":{"isGlobal":false,"doesAllowOverride":false,"isScrollingPreserved":false,"isDisabledOnMobile":false},"global":"0","allowOverride":"0","preserveScrolling":"0","disableOnMobile":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/e3dd6.js"></script>
+
+<link rel='https://api.w.org/' href='https://www.cit.edu/v6/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cit.edu/v6/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.cit.edu/v6/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.10" />
+<link rel="canonical" href="https://www.cit.edu/v6/" />
+<link rel='shortlink' href='https://wp.me/P6wqCW-2wB' />
+<link rel="alternate" type="application/json+oembed" href="https://www.cit.edu/v6/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cit.edu%2Fv6%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.cit.edu/v6/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cit.edu%2Fv6%2F&#038;format=xml" />
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = 'ee24b12b09';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"https://www.cit.edu/v6/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<script>
+            WP_VIDEO_LIGHTBOX_VERSION="1.8.5";
+            WP_VID_LIGHTBOX_URL="https://www.cit.edu/v6/wp-content/plugins/wp-video-lightbox";
+                        function wpvl_paramReplace(name, string, value) {
+                // Find the param with regex
+                // Grab the first character in the returned string (should be ? or &)
+                // Replace our href string with our new value, passing on the name and delimeter
+
+                var re = new RegExp("[\?&]" + name + "=([^&#]*)");
+                var matches = re.exec(string);
+                var newString;
+
+                if (matches === null) {
+                    // if there are no params, append the parameter
+                    newString = string + '?' + name + '=' + value;
+                } else {
+                    var delimeter = matches[0].charAt(0);
+                    newString = string.replace(re, delimeter + name + "=" + value);
+                }
+                return newString;
+            }
+            </script>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.cit.edu/v6/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Cebu Institute of Technology - University" />
+<meta property="og:description" content="Founded 1946" />
+<meta property="og:url" content="https://www.cit.edu/v6/" />
+<meta property="og:site_name" content="Cebu Institute of Technology - University" />
+<meta property="og:image" content="https://www.cit.edu/v6/wp-content/uploads/2015/06/1_MG_5574_50.png" />
+<meta property="og:image:width" content="1752" />
+<meta property="og:image:height" content="1168" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Cebu Institute of Technology - University" />
+<meta name="twitter:image" content="https://www.cit.edu/v6/wp-content/uploads/2015/06/1_MG_5574_50.png?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://www.cit.edu/v6/wp-content/uploads/2015/06/cropped-CIT-U-Logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.cit.edu/v6/wp-content/uploads/2015/06/cropped-CIT-U-Logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.cit.edu/v6/wp-content/uploads/2015/06/cropped-CIT-U-Logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.cit.edu/v6/wp-content/uploads/2015/06/cropped-CIT-U-Logo-270x270.png" />
+
+<!-- BEGIN ExactMetrics v5.3.5 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-100571509-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+<!-- custom css -->
+				<style type="text/css">    .main-color-1, .main-color-1-hover:hover, a:hover, a:focus,
+    header .multi-column > .dropdown-menu>li>a:hover,
+    header .multi-column > .dropdown-menu .menu-column>li>a:hover,
+    #main-nav.nav-style-2 .navbar-nav>li:hover>a,
+    #main-nav.nav-style-2 .navbar-nav>.current-menu-item>a,
+    #main-nav.nav-style-3 .navbar-nav>li:hover>a,
+    #main-nav.nav-style-3 .navbar-nav>.current-menu-item>a,
+    .item-meta a:not(.btn):hover,
+    .map-link.small-text,
+    .single-u_event .event-info .cat-link:hover,
+    .single-course-detail .cat-link:hover,
+    .related-event .ev-title a:hover,
+    #checkout-uni li.active a,
+    .woocommerce-review-link,
+    .woocommerce #content div.product p.price,
+    .woocommerce-tabs .active,
+    .woocommerce p.stars a, .woocommerce-page p.stars a,
+    .woocommerce .star-rating:before, .woocommerce-page .star-rating:before, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price,
+    .woocommerce .uni-thankyou-page .order_item .product-name,
+    .woocommerce .uni-thankyou-page .addresses h3,
+    .wpb_wrapper .wpb_content_element .wpb_tabs_nav li.ui-tabs-active, .wpb_wrapper .wpb_content_element .wpb_tabs_nav li:hover,
+    .wpb_wrapper .wpb_content_element .wpb_tabs_nav li.ui-tabs-active a, .wpb_wrapper .wpb_content_element .wpb_tabs_nav li:hover a,
+    li.bbp-topic-title .bbp-topic-permalink:hover, #bbpress-forums li.bbp-body ul.topic .bbp-topic-title:hover a, #bbpress-forums li.bbp-body ul.forum .bbp-forum-info:hover .bbp-forum-title,
+    #bbpress-forums li.bbp-body ul.topic .bbp-topic-title:hover:before, #bbpress-forums li.bbp-body ul.forum .bbp-forum-info:hover:before,
+    #bbpress-forums .bbp-body li.bbp-forum-freshness .bbp-author-name,
+    .bbp-topic-meta .bbp-topic-started-by a,
+    div.bbp-template-notice a.bbp-author-name,
+    #bbpress-forums .bbp-body li.bbp-topic-freshness .bbp-author-name,
+    #bbpress-forums #bbp-user-wrapper h2.entry-title,
+    .bbp-reply-header .bbp-meta a:hover,
+    .member-tax a:hover,
+    #bbpress-forums #subscription-toggle a,
+    .uni-orderbar .dropdown-menu li a:hover,
+    .main-menu.affix .sticky-gototop:hover{
+        color:#800000;
+    }
+    .related-item .price{color:#800000 !important;}
+    .main-color-1-bg, .main-color-1-bg-hover:hover,
+    input[type=submit],
+    table:not(.shop_table)>thead, table:not(.shop_table)>tbody>tr:hover>td, table:not(.shop_table)>tbody>tr:hover>th,
+    header .dropdown-menu>li>a:hover, header .dropdown-menu>li>a:focus,
+    header .multi-column > .dropdown-menu li.menu-item:hover,
+	header .multi-column > .dropdown-menu .menu-column li.menu-item:hover,
+    .un-icon:hover, .dark-div .un-icon:hover,
+    .woocommerce-cart .shop_table.cart thead tr,
+    .uni-addtocart .add-text,
+    .event-classic-item .item-thumbnail:hover a:before,
+    .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span,
+    .course-list-table>tbody>tr:hover>td, .course-list-table>tbody>tr:hover>th,
+    .project-item:hover .project-item-excerpt,
+    .navbar-inverse .navbar-nav>li>a:after, .navbar-inverse .navbar-nav>li>a:focus:after,
+    .topnav-sidebar #lang_sel_click ul ul a:hover,
+    div.bbp-submit-wrapper .button,
+	.topnav-sidebar #lang_sel ul ul a:hover{
+        background-color:#800000;
+    }
+    #sidebar .widget_nav_menu  #widget-inner ul li a:hover,
+    .main-color-1-border{
+        border-color:#800000;
+    }
+    .btn-primary, .un-button-2, .un-button-2-lg,
+    .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, 				    .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button,
+    .woocommerce #review_form #respond .form-submit input, .woocommerce-page #review_form #respond .form-submit input,
+    .wpb_wrapper .wpb_accordion .wpb_accordion_wrapper .ui-accordion-header-active, .wpb_wrapper .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header:hover,
+    .wpb_wrapper .wpb_toggle:hover, #content .wpb_wrapper h4.wpb_toggle:hover, .wpb_wrapper #content h4.wpb_toggle:hover,
+	.wpb_wrapper .wpb_toggle_title_active, #content .wpb_wrapper h4.wpb_toggle_title_active, .wpb_wrapper #content h4.wpb_toggle_title_active{
+    	background-color: #800000;
+    	border-color: #800000;
+    }
+    .woocommerce ul.products li.product .onsale, .woocommerce-page ul.products li.product .onsale,
+    .single-product.woocommerce .images span.onsale, .single-product.woocommerce-page .images span.onsale,
+    #sidebar .widget_nav_menu  #widget-inner ul li a:hover,
+    .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, 				    .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button,
+    .woocommerce #review_form #respond .form-submit input, .woocommerce-page #review_form #respond .form-submit input,
+    .main-menu.affix .navbar-nav>.current-menu-item>a,
+    .main-menu.affix .navbar-nav>.current-menu-item>a:focus,
+    #bbpress-forums li.bbp-header,
+    #bbpress-forums div.bbp-reply-author .bbp-author-role,
+    #bbp-search-form #bbp_search_submit,
+    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li:hover,
+    #main-nav .main-menu.affix .navbar-nav>li:hover>a{
+        background:#800000;
+    }
+    .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, 	    
+    .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button, .woocommerce a.button.alt, 
+    .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page a.button.alt,
+    .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page #content input.button.alt, 
+    .woocommerce #review_form #respond .form-submit input, .woocommerce-page #review_form #respond .form-submit input{background:#800000;}
+    .thumbnail-overlay {
+    	background: rgba(128,0,0,0.8);
+    }
+    
+    .event-default-red ,
+    .container.cal-event-list .event-btt:hover,
+    #calendar-options .right-options ul li ul li:hover, #calendar-options .right-options ul li ul li:hover a,
+    #stm-list-calendar .panel-group .panel .panel-heading .panel-title a.collapsed:hover { background:#800000 !important;}
+    
+    .cal-day-weekend span[data-cal-date],
+    #cal-slide-content a.event-item:hover, .cal-slide-content a.event-item:hover,
+    .container.cal-event-list .owl-controls .owl-prev:hover i:before, 
+    .container.cal-event-list .close-button:hover i:before,
+    #calendar-options a:hover,
+    .container.cal-event-list .owl-controls .owl-next:hover i:before,
+    #calendar-options a.active {color:#800000 !important;}
+    .container.cal-event-list .owl-controls .owl-prev:hover,
+    .container.cal-event-list .owl-controls .owl-next:hover,
+    .container.cal-event-list .close-button:hover{border-color: #800000 !important;}
+    #stm-list-calendar .panel-group .panel .panel-heading .panel-title a.collapsed > .arrow-down{border-top: 0px !important; border-left: 10px solid transparent !important;
+border-right: 10px solid transparent !important ;}
+#stm-list-calendar .panel-group .panel .panel-heading .panel-title a > .arrow-down{border-top: 10px solid #800000 !important;}
+	#stm-list-calendar .panel-group .panel .panel-heading .panel-title a{
+        background-color:#800000 !important;
+    }
+	.main-color-2, .main-color-2-hover:hover{
+        color:#ffd700;
+    }
+    .main-color-2-bg{
+        background-color:#ffd700;
+    }
+    footer.main-color-2-bg, .un-separator .main-color-2-bg, .main-color-2-bg.back-to-top{
+        background-color:#000000;
+    }
+	body {
+        font-size: 14px;
+    }
+    h1, .h1, .minion, .content-dropcap p:first-child:first-letter, .dropcap, #your-profile h3, #learndash_delete_user_data h2{
+        font-family: "Copperplate Gothic ", Times, serif;
+    }
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+	letter-spacing:0}
+#main-nav .navbar-nav>li>a {
+color: #800000;
+font-weight: bold;
+}
+#main-nav .navbar-nav > li > a:before {
+    border-left: 1px solid #800000;
+}
+#main-nav .navbar-nav>li>a:hover {
+    color: #FFFFFF;
+}</style>
+			<!-- end custom css -->			<style type="text/css" id="wp-custom-css">
+				@import url('https://fonts.googleapis.com/css?family=Raleway');			</style>
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1529566619891{margin-top: 10px !important;border-bottom-width: 10px !important;background-color: #800000 !important;}.vc_custom_1515731147980{margin-top: 0px !important;}.vc_custom_1529566649833{margin-top: 10px !important;margin-bottom: 10px !important;background-color: #800000 !important;}.vc_custom_1529566729760{margin-top: 10px !important;margin-bottom: 10px !important;background-color: #800000 !important;}.vc_custom_1515731098162{margin-top: 0px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="home page-template-default page page-id-9709 custom-background locale-en-us full-width custom-background-white university wpb-js-composer js-comp-ver-5.5.1 vc_responsive">
+<a name="top" style="height:0; position:absolute; top:0;" id="top-anchor"></a>
+<div id="body-wrap">
+    <div id="wrap">
+        <header>
+            			<div id="top-nav" class="dark-div nav-style-1">
+                <nav class="navbar navbar-inverse main-color-1-bg" role="navigation">
+                    <div class="container">
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="top-menu">
+                            <ul class="nav navbar-nav hidden-xs">
+                              <li id="nav-menu-item-4243" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent dropdown"><a href="https://www.cit.edu/v6/about-cit/" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown">About CIT-U </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-4258" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/about-cit/historical-background/" class="menu-link  sub-menu-link">History </a></li>
+	<li id="nav-menu-item-4261" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/about-cit/vision-goals/" class="menu-link  sub-menu-link">Vision, Mission, Goals &#038; Core Values </a></li>
+	<li id="nav-menu-item-4260" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/about-cit/the-cit-hymn/" class="menu-link  sub-menu-link">The CIT-U Motto and Hymn </a></li>
+	<li id="nav-menu-item-7257" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/obe-framework/" class="menu-link  sub-menu-link">CIT-University OBE Framework </a></li>
+	<li id="nav-menu-item-4256" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/about-cit/prospective-students/" class="menu-link  sub-menu-link">CIT-U Major Events </a></li>
+	<li id="nav-menu-item-4259" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/about-cit/information-directory/" class="menu-link  sub-menu-link">Information Directory </a></li>
+	<li id="nav-menu-item-8999" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/about-cit/cit-university-updates/" class="menu-link  sub-menu-link">CIT-University Updates </a></li>
+	<li id="nav-menu-item-4257" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/about-cit/contact-us/" class="menu-link  sub-menu-link">Contact Us </a></li>
+	<li id="nav-menu-item-7520" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/about-cit/frequently-asked-questions-faqs/" class="menu-link  sub-menu-link">Frequently Asked Questions (FAQs) </a></li>
+
+</ul>
+</li>
+<li id="nav-menu-item-4262" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent dropdown"><a href="https://www.cit.edu/v6/student-personnel-services/" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown">Student Services </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-4319" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/student-personnel-services/news-and-updates/" class="menu-link  sub-menu-link">News and Updates </a></li>
+	<li id="nav-menu-item-4268" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/student-personnel-services/student-affairs/" class="menu-link  sub-menu-link">Student Affairs </a></li>
+	<li id="nav-menu-item-4264" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/student-personnel-services/guidance-center/" class="menu-link  sub-menu-link">Guidance Center </a></li>
+	<li id="nav-menu-item-4266" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/student-personnel-services/other-student-services/" class="menu-link  sub-menu-link">Medical and Dental Services </a></li>
+	<li id="nav-menu-item-4267" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/student-personnel-services/safety-and-security-department/" class="menu-link  sub-menu-link">Safety and Security Department </a></li>
+	<li id="nav-menu-item-4263" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/student-personnel-services/athletics/" class="menu-link  sub-menu-link">Athletics </a></li>
+	<li id="nav-menu-item-6444" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/e-schedule/" class="menu-link  sub-menu-link">School Calendar </a></li>
+	<li id="nav-menu-item-6654" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent dropdown-submenu"><a href="https://www.cit.edu/v6/colleges/admission/" class="menu-link  sub-menu-link">Admissions and Scholarships </a>
+	<ul class="dropdown-menu menu-depth-2">
+		<li id="nav-menu-item-6659" class="sub-menu-item menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/colleges/admission/scholarships/" class="menu-link  sub-menu-link">Scholarships </a></li>
+
+	</ul>
+</li>
+	<li id="nav-menu-item-6655" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/colleges/enrolment-technical-office/" class="menu-link  sub-menu-link">Enrolment Technical Office </a></li>
+	<li id="nav-menu-item-6656" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/student-personnel-services/library/" class="menu-link  sub-menu-link">Library Learning and Resource Center (LLRC) </a></li>
+
+</ul>
+</li>
+<li id="nav-menu-item-6252" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/careers/" class="menu-link  main-menu-link">Careers </a></li>
+                            </ul>
+                            <button type="button" class="mobile-menu-toggle visible-xs">
+                            	<span class="sr-only">Menu</span>
+                            	<i class="fa fa-bars"></i>
+                            </button>
+                                                        <a class="navbar-right search-toggle collapsed" data-toggle="collapse" data-target="#nav-search" href="#"><i class="fa fa-search"></i></a>
+                                                                                    <div class="navbar-right topnav-sidebar">
+                            	<div id="apsi_widget-2" class=" col-md-12  widget_apsi_widget"><div class=" widget-inner"><div class="aps-social-icon-wrapper">
+                    <div class="aps-group-horizontal">
+                                    <div class="aps-each-icon icon-1-1" style='margin:px;' data-aps-tooltip='facebook' data-aps-tooltip-enabled="0" data-aps-tooltip-bg="#000" data-aps-tooltip-color="#fff">
+                    <a href="https://www.facebook.com/CITUniversity" target="_blank" class="aps-icon-link animated " data-animation-class="">
+                                                <img src="https://www.cit.edu/v6/wp-content/plugins/accesspress-social-icons/icon-sets/png/set1/facebook.png" alt="facebook"/>
+                                            </a>
+                    <span class="aps-icon-tooltip aps-icon-tooltip-left" style="display: none;"></span>
+                    <style class="aps-icon-front-style">.icon-1-1 img{height:20px;width:20px;opacity:0.75;-moz-box-shadow:0px 0px 0px 0 ;-webkit-box-shadow:0px 0px 0px 0 ;box-shadow:0px 0px 0px 0 ;padding:px;}.icon-1-1 .aps-icon-tooltip:before{border-color:#000}</style>                </div>
+                
+                            <div class="aps-each-icon icon-1-2" style='margin:px;' data-aps-tooltip='youtube' data-aps-tooltip-enabled="0" data-aps-tooltip-bg="#000" data-aps-tooltip-color="#fff">
+                    <a href="https://www.youtube.com/user/CITdotedu" target="_blank" class="aps-icon-link animated " data-animation-class="">
+                                                <img src="https://www.cit.edu/v6/wp-content/plugins/accesspress-social-icons/icon-sets/png/set1/youtube.png" alt="youtube"/>
+                                            </a>
+                    <span class="aps-icon-tooltip aps-icon-tooltip-left" style="display: none;"></span>
+                    <style class="aps-icon-front-style">.icon-1-2 img{height:20px;width:20px;opacity:0.75;-moz-box-shadow:0px 0px 0px 0 ;-webkit-box-shadow:0px 0px 0px 0 ;box-shadow:0px 0px 0px 0 ;padding:px;}.icon-1-2 .aps-icon-tooltip:before{border-color:#000}</style>                </div>
+                
+                            <div class="aps-each-icon icon-1-3" style='margin:px;' data-aps-tooltip='CIT Web Mail' data-aps-tooltip-enabled="0" data-aps-tooltip-bg="#000" data-aps-tooltip-color="#fff">
+                    <a href="http://portal.office.com" target="_blank" class="aps-icon-link animated " data-animation-class="">
+                                                <img src="http://www.cit.edu/v6/wp-content/uploads/2017/08/mailicon1-300x300.png" alt="webmail"/>
+                                            </a>
+                    <span class="aps-icon-tooltip aps-icon-tooltip-left" style="display: none;"></span>
+                    <style class="aps-icon-front-style">.icon-1-3 img{height:20px;width:20px;opacity:0.75;-moz-box-shadow:0px 0px 0px 0 ;-webkit-box-shadow:0px 0px 0px 0 ;box-shadow:0px 0px 0px 0 ;padding:px;}.icon-1-3 .aps-icon-tooltip:before{border-color:#000}</style>                </div>
+                                </div>
+                
+            </div></div></div>                            </div>
+                                                        <div id="nav-search" class="collapse dark-div">
+                            	<div class="container">
+                                <form action="https://www.cit.edu/v6">
+                                    <div class="input-group">
+                                        <input type="text" name="s" class="form-control search-field" placeholder="Search Here" autocomplete="off">
+                                        <span class="input-group-btn">
+                                            <button type="submit"><i class="fa fa-search fa-4x"></i>&nbsp;</button>
+                                        </span>
+                                        <span class="input-group-btn hidden-xs">
+                                            <button type="button" data-toggle="collapse" data-target="#nav-search">&nbsp;<i class="fa fa-times fa-2x"></i></button>
+                                        </span>
+                                    </div>
+                                </form>
+                                </div>
+                            </div>
+                                                    </div><!-- /.navbar-collapse -->
+                    </div>
+                </nav>
+            </div><!--/top-nap-->
+            <div id="main-nav" class="dark-div nav-style-1">
+                <nav class="navbar navbar-inverse main-color-2-bg" role="navigation">
+                    <div class="container">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                                                        <a class="logo" href="https://www.cit.edu/v6" title="Cebu Institute of Technology - University | Founded 1946"><img src="http://www.cit.edu/v6/wp-content/uploads/2015/06/CIT_logo1_sm.png" alt="Cebu Institute of Technology - University | Founded 1946"/></a>
+                                                        
+                                                    </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                                                <div class="main-menu hidden-xs  " >
+                                                    <ul class="nav navbar-nav navbar-right">
+                            	<li id="nav-menu-item-9871" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-9709 current_page_item"><a href="https://www.cit.edu/v6/" class="menu-link  main-menu-link">HOME </a></li>
+<li id="nav-menu-item-3897" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent dropdown"><a href="https://www.cit.edu/v6/colleges/" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown">ACADEMICS </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-4238" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent dropdown-submenu"><a href="https://www.cit.edu/v6/colleges/colleges/" class="menu-link  sub-menu-link">Colleges and Departments </a>
+	<ul class="dropdown-menu menu-depth-2">
+		<li id="nav-menu-item-4277" class="sub-menu-item menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/colleges/arts-sciences-education/" class="menu-link  sub-menu-link">College of Arts, Sciences, and Education </a></li>
+		<li id="nav-menu-item-4276" class="sub-menu-item menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/colleges/computer-studies/" class="menu-link  sub-menu-link">College of Computer Studies </a></li>
+		<li id="nav-menu-item-4275" class="sub-menu-item menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/colleges/engineering-and-architecture/" class="menu-link  sub-menu-link">College of Engineering and Architecture </a></li>
+		<li id="nav-menu-item-9806" class="sub-menu-item menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/colleges/commerce/" class="menu-link  sub-menu-link">College of Management, Business and Accountancy </a></li>
+		<li id="nav-menu-item-9807" class="sub-menu-item menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/colleges/nursing/" class="menu-link  sub-menu-link">College of Nursing </a></li>
+
+	</ul>
+</li>
+	<li id="nav-menu-item-9874" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/senior-high-school/" class="menu-link  sub-menu-link">Senior High School </a></li>
+	<li id="nav-menu-item-9875" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent dropdown-submenu"><a href="https://www.cit.edu/v6/colleges/basic-education/high-school/" class="menu-link  sub-menu-link">Junior High School </a>
+	<ul class="dropdown-menu menu-depth-2">
+		<li id="nav-menu-item-9819" class="sub-menu-item menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/colleges/basic-education/high-school/student-services/" class="menu-link  sub-menu-link">High School Student Services </a></li>
+
+	</ul>
+</li>
+	<li id="nav-menu-item-9801" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/colleges/basic-education/" class="menu-link  sub-menu-link">Basic Education </a></li>
+	<li id="nav-menu-item-9808" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/colleges/continuing-education/" class="menu-link  sub-menu-link">Continuing Education </a></li>
+
+</ul>
+</li>
+<li id="nav-menu-item-9876" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent dropdown"><a href="https://www.cit.edu/v6/linkages/" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown">LINKAGES </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-9880" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/citaa/" class="menu-link  sub-menu-link">Alumni Affairs </a></li>
+	<li id="nav-menu-item-9879" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/networking-and-linkages/" class="menu-link  sub-menu-link">Networking and Linkages </a></li>
+
+</ul>
+</li>
+<li id="nav-menu-item-9813" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent dropdown"><a href="https://www.cit.edu/v6/extension-services/" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown">EXTENSION SERVICES </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-9816" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/extension-services/access/" class="menu-link  sub-menu-link">ACCESS </a></li>
+	<li id="nav-menu-item-9817" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/extension-services/community-extension/" class="menu-link  sub-menu-link">Community Extension </a></li>
+	<li id="nav-menu-item-9815" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/extension-services/makerspace/" class="menu-link  sub-menu-link">Makerspace </a></li>
+	<li id="nav-menu-item-9814" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.cit.edu/v6/extension-services/wildcat-innovation-labs/" class="menu-link  sub-menu-link">Wildcat Innovation Labs </a></li>
+
+</ul>
+</li>
+                            </ul>
+                                                                                </div><!-- /.navbar-collapse -->
+                    </div>
+                </nav>
+            </div><!-- #main-nav -->		<div id="slider" class="header-bg-rev header-content-0 is-paralax">
+        
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#fff;padding:0px;margin-top:40px;margin-bottom:0px;max-height:500px;">
+<!-- START REVOLUTION SLIDER 4.6.93 fullwidth mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;max-height:500px;height:500px;">
+<ul>	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-fstransition="fade" data-fsmasterspeed="2000" data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="https://www.cit.edu/v6/wp-content/uploads/2015/06/CIT_banner.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="https://www.cit.edu/v6/wp-content/uploads/2015/06/CIT_banner.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+			
+
+			<style scoped></style>
+
+			<script type="text/javascript">
+
+				/******************************************
+					-	PREPARE PLACEHOLDER FOR SLIDER	-
+				******************************************/
+				
+
+				var setREVStartSize = function() {
+					var	tpopt = new Object();
+						tpopt.startwidth = 930;
+						tpopt.startheight = 500;
+						tpopt.container = jQuery('#rev_slider_1_1');
+						tpopt.fullScreen = "off";
+						tpopt.forceFullWidth="off";
+
+					tpopt.container.closest(".rev_slider_wrapper").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!="on")tpopt.height=tpopt.startheight;if(tpopt.fullScreen=="on"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(",");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(".rev_slider_wrapper").height(coh);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(coh);tpopt.container.css({height:"100%"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(".rev_slider_wrapper").height(tpopt.height);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(tpopt.height);}
+				};
+
+				/* CALL PLACEHOLDER */
+				setREVStartSize();
+
+
+				var tpj=jQuery;
+				tpj.noConflict();
+				var revapi1;
+
+				tpj(document).ready(function() {
+
+				if(tpj('#rev_slider_1_1').revolution == undefined){
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				}else{
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{	
+						startDelay: 2000,						dottedOverlay:"none",
+						delay:2000,
+						startwidth:930,
+						startheight:500,
+						hideThumbs:200,
+
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:1,
+						
+												
+						simplifyAll:"off",
+
+						navigationType:"none",
+						navigationArrows:"none",
+						navigationStyle:"round",
+
+						touchenabled:"on",
+						onHoverStop:"on",
+						nextSlideOnWindowFocus:"on",
+
+						swipe_threshold: 75,
+						swipe_min_touches: 1,
+						drag_block_vertical: false,
+						
+												
+												
+						keyboardNavigation:"off",
+
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+
+						shadow:0,
+						fullWidth:"on",
+						fullScreen:"off",
+
+												spinner:"spinner3",
+												
+						stopLoop:"on",
+						stopAfterLoops:0,
+						stopAtSlide:1,
+
+						shuffle:"off",
+
+						autoHeight:"off",
+						forceFullWidth:"off",
+						
+						
+						hideTimerBar:"on",
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,
+						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+
+												hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0					});
+
+
+
+									}
+				});	/*ready*/
+
+			</script>
+
+
+			<style type="text/css">
+	#rev_slider_1_1_wrapper .tp-loader.spinner3 div { background-color: #FFFFFF !important; }
+</style>
+</div><!-- END REVOLUTION SLIDER -->        </div><!--/slider-->
+		<style type="text/css" scoped="scoped">
+					#slider{ height:200pxpx; }
+				</style>
+        </header>	    <div class="page-heading">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-8">
+                    <h1></h1>
+                </div>
+                                <div class="pathway col-md-4 col-sm-4 hidden-xs text-right">
+                    <div class="breadcrumbs"><a href="https://www.cit.edu/v6/">Home</a></div>                </div>
+                            </div><!--/row-->
+        </div><!--/container-->
+    </div><!--/page-heading-->
+
+<div class="top-sidebar">
+    <div class="container">
+        <div class="row">
+                    </div><!--/row-->
+    </div><!--/container-->
+</div><!--/Top sidebar-->    
+    <div id="body">
+    	    	<div class="container">
+                	                <div class="row">
+                    <div id="content" class="col-md-12" role="main">
+                        <article class="single-page-content">
+                        	<div class="u_row">
+        	<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-9"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div>    			</div><!--/u_row-->
+			<div class="u_row">
+        	<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_shadow vc_sep_pos_align_center vc_separator_no_text vc_sep_color_black" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div>    	<section class="un-post-carousel un-post-carousel-3441 wpb_fadeIn wpb_animate_when_almost_visible" data-delay=0>
+        	<div class="section-inner">
+                <div class="post-carousel-wrap">
+                    <div class="is-carousel carousel-has-control no-overlay-bottom" data-items=4 data-navigation=1>
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/08/13/cit-university-tops-again-cit-university-congratulates-708th-topnotcher/" title="CIT University Tops Again! CIT University Congratulates 708th Topnotcher">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/08/magno-554x639.jpg" width="554" height="639" title="CIT University Tops Again! CIT University Congratulates 708th Topnotcher" alt="CIT University Tops Again! CIT University Congratulates 708th Topnotcher">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/08/13/cit-university-tops-again-cit-university-congratulates-708th-topnotcher/" title="CIT University Tops Again! CIT University Congratulates 708th Topnotcher">
+                                            <h4>CIT University Tops Again! CIT University Congratulates 708th Topnotcher</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">Congratulations Engr. Menard Roche Magno, TOP 9 of the</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/07/11/cit-tops-again-cit-university-congratulates-707th-topnotcher/" title="CIT Tops Again! CIT University Congratulates 707th Topnotcher">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/07/fantonial.jpg" width="480" height="480" title="CIT Tops Again! CIT University Congratulates 707th Topnotcher" alt="CIT Tops Again! CIT University Congratulates 707th Topnotcher">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/07/11/cit-tops-again-cit-university-congratulates-707th-topnotcher/" title="CIT Tops Again! CIT University Congratulates 707th Topnotcher">
+                                            <h4>CIT Tops Again! CIT University Congratulates 707th Topnotcher</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt"></div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/06/24/cit-university-congratulates-706th-topnotcher/" title="CIT University Congratulates 706th Topnotcher">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/06/guigayuma-554x674.jpg" width="554" height="674" title="CIT University Congratulates 706th Topnotcher" alt="CIT University Congratulates 706th Topnotcher">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/06/24/cit-university-congratulates-706th-topnotcher/" title="CIT University Congratulates 706th Topnotcher">
+                                            <h4>CIT University Congratulates 706th Topnotcher</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">CONGRATULATIONS to our 2019 Gear Awardee, Miss Shaila Mae</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/06/24/cit-university-congratulates-704th-topnotcher/" title="CIT University Congratulates 704th Topnotcher">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/06/57408058_2401233916573615_4102897883236270080_o-554x674.jpg" width="554" height="674" title="CIT University Congratulates 704th Topnotcher" alt="CIT University Congratulates 704th Topnotcher">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/06/24/cit-university-congratulates-704th-topnotcher/" title="CIT University Congratulates 704th Topnotcher">
+                                            <h4>CIT University Congratulates 704th Topnotcher</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">Congratulations to Engr. Charles Samuel Lasiste for being the</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/06/13/collegiate-calendar-for-the-academic-year-2019-2020/" title="Collegiate Calendar for the Academic Year 2019 &#8211; 2020">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/06/58378164_2417769758253364_4195661175305797632_o-554x674.jpg" width="554" height="674" title="Collegiate Calendar for the Academic Year 2019 &#8211; 2020" alt="Collegiate Calendar for the Academic Year 2019 &#8211; 2020">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/06/13/collegiate-calendar-for-the-academic-year-2019-2020/" title="Collegiate Calendar for the Academic Year 2019 &#8211; 2020">
+                                            <h4>Collegiate Calendar for the Academic Year 2019 &#8211; 2020</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt"></div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/05/21/cit-university-congratulates-705th-topnotcher/" title="CIT University Congratulates 705th Topnotcher">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/05/705th-topnotcher-554x674.jpg" width="554" height="674" title="CIT University Congratulates 705th Topnotcher" alt="CIT University Congratulates 705th Topnotcher">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/05/21/cit-university-congratulates-705th-topnotcher/" title="CIT University Congratulates 705th Topnotcher">
+                                            <h4>CIT University Congratulates 705th Topnotcher</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">Cebu Institute of Technology &#8211; University, represented by the</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/05/21/cit-university-recognized-by-the-ched-regional-office-vii/" title="CIT &#8211; University Recognized by the CHED Regional Office VII">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/05/ched-554x674.jpg" width="554" height="674" title="CIT &#8211; University Recognized by the CHED Regional Office VII" alt="CIT &#8211; University Recognized by the CHED Regional Office VII">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/05/21/cit-university-recognized-by-the-ched-regional-office-vii/" title="CIT &#8211; University Recognized by the CHED Regional Office VII">
+                                            <h4>CIT &#8211; University Recognized by the CHED Regional Office VII</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">CIT University TOPS AGAIN! CIT University was recognized, today,</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/05/10/cit-university-hosts-4th-central-visayas-health-research-and-innovation-conference/" title="CIT University hosts 4th Central Visayas Health Research and Innovation Conference">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/05/59724488_2446611762035830_8084732539752677376_n-554x639.jpg" width="554" height="639" title="CIT University hosts 4th Central Visayas Health Research and Innovation Conference" alt="CIT University hosts 4th Central Visayas Health Research and Innovation Conference">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/05/10/cit-university-hosts-4th-central-visayas-health-research-and-innovation-conference/" title="CIT University hosts 4th Central Visayas Health Research and Innovation Conference">
+                                            <h4>CIT University hosts 4th Central Visayas Health Research and Innovation Conference</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">With the theme, &#8221; Research Innovations for Improved Health</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/04/05/cit-university-offers-a-diploma-in-computing/" title="CIT &#8211; University offers a Diploma in Computing">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/04/diploma-in-computing-554x674.jpg" width="554" height="674" title="CIT &#8211; University offers a Diploma in Computing" alt="CIT &#8211; University offers a Diploma in Computing">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/04/05/cit-university-offers-a-diploma-in-computing/" title="CIT &#8211; University offers a Diploma in Computing">
+                                            <h4>CIT &#8211; University offers a Diploma in Computing</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">Be ready for the 4TH INDUSTRIAL REVOLUTION! If you</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/02/13/cit-university-elementary-department-for-winning-in-various-cesafi-academic-competitions/" title="CIT University Elementary Department for winning in various CESAFI academic competitions">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/02/elemc2-554x674.jpg" width="554" height="674" title="CIT University Elementary Department for winning in various CESAFI academic competitions" alt="CIT University Elementary Department for winning in various CESAFI academic competitions">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/02/13/cit-university-elementary-department-for-winning-in-various-cesafi-academic-competitions/" title="CIT University Elementary Department for winning in various CESAFI academic competitions">
+                                            <h4>CIT University Elementary Department for winning in various CESAFI academic competitions</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">#ShareThePride Congratulations to the CIT University Elementary Department for</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/02/13/cesafi-impromptu-speech-contest/" title="CESAFI Impromptu Speech Contest">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/02/ces1-554x674.jpg" width="554" height="674" title="CESAFI Impromptu Speech Contest" alt="CESAFI Impromptu Speech Contest">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/02/13/cesafi-impromptu-speech-contest/" title="CESAFI Impromptu Speech Contest">
+                                            <h4>CESAFI Impromptu Speech Contest</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">#ShareThePride CONGRATULATIONS! Mr. Lindl Michael “Mico” Enario is this</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/02/13/ar-justin-lei-germino-ramos-for-being-the-top-1-of-the-january-2019-architect-licensure-examination/" title="Ar. Justin Lei Germino Ramos for being the TOP 1 of the January 2019 Architect Licensure Examination.">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2018/06/CITUniversityTopsAgain.jpg" width="518" height="670" title="Ar. Justin Lei Germino Ramos for being the TOP 1 of the January 2019 Architect Licensure Examination." alt="Ar. Justin Lei Germino Ramos for being the TOP 1 of the January 2019 Architect Licensure Examination.">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/02/13/ar-justin-lei-germino-ramos-for-being-the-top-1-of-the-january-2019-architect-licensure-examination/" title="Ar. Justin Lei Germino Ramos for being the TOP 1 of the January 2019 Architect Licensure Examination.">
+                                            <h4>Ar. Justin Lei Germino Ramos for being the TOP 1 of the January 2019 Architect Licensure Examination.</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">#CITUniversityTopsAgain Congratulations to Ar. Justin Lei Germino Ramos for</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/02/13/earthquake-engineering-a-book-by-dr-nobuyoshi-yashima-of-nihon-university/" title="EARTHQUAKE ENGINEERING, a book by Dr. Nobuyoshi Yashima of Nihon University">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/02/jap-554x640.jpg" width="554" height="640" title="EARTHQUAKE ENGINEERING, a book by Dr. Nobuyoshi Yashima of Nihon University" alt="EARTHQUAKE ENGINEERING, a book by Dr. Nobuyoshi Yashima of Nihon University">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/02/13/earthquake-engineering-a-book-by-dr-nobuyoshi-yashima-of-nihon-university/" title="EARTHQUAKE ENGINEERING, a book by Dr. Nobuyoshi Yashima of Nihon University">
+                                            <h4>EARTHQUAKE ENGINEERING, a book by Dr. Nobuyoshi Yashima of Nihon University</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">EARTHQUAKE ENGINEERING, a book by Dr. Nobuyoshi Yashima of</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2019/02/04/philippine-programming-challenge-2018/" title="Philippine Programming Challenge 2018!">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2019/02/ppcjpg-554x674.jpg" width="554" height="674" title="Philippine Programming Challenge 2018!" alt="Philippine Programming Challenge 2018!">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2019/02/04/philippine-programming-challenge-2018/" title="Philippine Programming Challenge 2018!">
+                                            <h4>Philippine Programming Challenge 2018!</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">CIT University Tops Again! Congratulations to our 5 TEAMS</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2018/12/13/cit-tops-test-of-practical-competency-in-information-and-communications-technologies/" title="CIT TOPS Test of Practical Competency in Information and Communications Technologies">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2018/12/s-554x552.jpg" width="554" height="552" title="CIT TOPS Test of Practical Competency in Information and Communications Technologies" alt="CIT TOPS Test of Practical Competency in Information and Communications Technologies">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2018/12/13/cit-tops-test-of-practical-competency-in-information-and-communications-technologies/" title="CIT TOPS Test of Practical Competency in Information and Communications Technologies">
+                                            <h4>CIT TOPS Test of Practical Competency in Information and Communications Technologies</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">Mr. Andrew Oplas was hailed TOP 1 nationally in</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2018/12/12/heirits-technopreneurship-demo-day/" title="HEIRIT’s Technopreneurship Demo Day">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2018/12/demoday-554x674.jpg" width="554" height="674" title="HEIRIT’s Technopreneurship Demo Day" alt="HEIRIT’s Technopreneurship Demo Day">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2018/12/12/heirits-technopreneurship-demo-day/" title="HEIRIT’s Technopreneurship Demo Day">
+                                            <h4>HEIRIT’s Technopreneurship Demo Day</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">Engr. Ralph Laviste (TBI Manager) presents ISKO to a</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2018/12/12/makeblock-international-robotics/" title="Makeblock International Robotics">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2018/12/chingkwayla-554x640.jpg" width="554" height="640" title="Makeblock International Robotics" alt="Makeblock International Robotics">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2018/12/12/makeblock-international-robotics/" title="Makeblock International Robotics">
+                                            <h4>Makeblock International Robotics</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">Dr. Larmie Feliscuzo (Head of ACCESS and Chair of</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2018/12/05/android-masters-2018/" title="Android Masters 2018">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2018/12/ccccc-554x639.jpg" width="554" height="639" title="Android Masters 2018" alt="Android Masters 2018">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2018/12/05/android-masters-2018/" title="Android Masters 2018">
+                                            <h4>Android Masters 2018</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">#ShareThePride They were sent off as warriors and they</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2018/12/05/quality-education-through-accreditation/" title="QUALITY EDUCATION THROUGH ACCREDITATION">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2018/12/pacucu-554x674.png" width="554" height="674" title="QUALITY EDUCATION THROUGH ACCREDITATION" alt="QUALITY EDUCATION THROUGH ACCREDITATION">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2018/12/05/quality-education-through-accreditation/" title="QUALITY EDUCATION THROUGH ACCREDITATION">
+                                            <h4>QUALITY EDUCATION THROUGH ACCREDITATION</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">#CITUniversityTopsAgain #ShareThePride CIT University has been recognized by the</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                            <div class="post-carousel-item grid-item">
+                        	<div class="grid-item-inner">
+                            	<div class="grid-item-content event-item dark-div">
+                                	<div class="event-thumbnail">
+                                    	<a href="https://www.cit.edu/v6/2018/11/16/9440/" title="TEKNOYS IN TAIWAN">
+                                        	                                            <img src="https://www.cit.edu/v6/wp-content/uploads/2018/11/2-554x674.jpg" width="554" height="674" title="TEKNOYS IN TAIWAN" alt="TEKNOYS IN TAIWAN">
+                                        </a>
+                                    </div>
+                                                                        <div class="event-overlay">
+                                        <a class="overlay-top" href="https://www.cit.edu/v6/2018/11/16/9440/" title="TEKNOYS IN TAIWAN">
+                                            <h4>TEKNOYS IN TAIWAN</h4>
+                                                                                    </a>
+                                        <div class="overlay-bottom">
+                                        	                                            	<div class="course-exceprt">CIT University representatives (first picture, left to right) Dr.</div>
+                                                                                    </div>
+                                    </div>
+                                </div><!--/event-item-->
+                            </div>
+                        </div><!--/post-carousel-item-->
+                                        </div>
+                </div>
+            </div><!--/section-inner-->
+        </section><!--/u-post-carousel-->
+	</div></div></div></div>    			</div><!--/u_row-->
+			<div class="u_row">
+        	<div class="vc_row wpb_row vc_row-fluid vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_gallery wpb_content_element vc_clearfix" ><div class="wpb_wrapper"><div class="wpb_gallery_slides wpb_image_grid" data-interval="3"><ul class="wpb_image_grid_ul"><li class="isotope-item"><a href="v6/cit-u-board-exam-first-placers/" target="_blank"></a></li><li class="isotope-item"><a href="v6/cit-u-boardlicensure-examination-topnotchers/" target="_blank"></a></li><li class="isotope-item"></li><li class="isotope-item"></li></ul></div></div></div></div></div></div></div>    			</div><!--/u_row-->
+			<div class="u_row">
+        	<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="vc_wp_text wpb_content_element"><div class="widget widget_text">			<div class="textwidget"></p>
+<table style="height: 140px;" width="1200px">
+<tbody>
+<tr>
+<td style="width: 250px; background-color: #ffd801; border: 2px solid #fff;">
+<p style="text-align: center; line-height: 0.7;"><span style="font-family: helvetica, arial, sans-serif; font-size: 48pt; color: #8a1300;"><strong>83</strong></span></p>
+<p style="text-align: center; line-height: 0.7;"><strong><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt; color: #8a1300;">FIRST PLACERS</span></strong></p>
+</td>
+<td style="width: 250px; background-color: #ffd801; border: 2px solid #fff;">
+<p style="text-align: center; line-height: 0.7;"><span style="font-family: helvetica, arial, sans-serif; font-size: 48pt; color: #8a1300;"><strong><a style="text-decoration: none; color: #8a1300;" href="https://www.cit.edu/v6/cit-u-boardlicensure-examination-topnotchers/">700+</a></strong></span></p>
+<p style="text-align: center; line-height: 0.7;"><strong><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt; color: #8a1300;"><a style="text-decoration: none; color: #8a1300;" href="https://www.cit.edu/v6/cit-u-boardlicensure-examination-topnotchers/">BOARD TOPNOTCHERS</a></span></strong></p>
+</td>
+<td style="width: 250px; background-color: #ffd801; border: 2px solid #fff;">
+<p style="text-align: center; line-height: 0.7;"><span style="font-family: helvetica, arial, sans-serif; font-size: 48pt; color: #8a1300;"><strong><a style="text-decoration: none; color: #8a1300;" href="https://www.cit.edu/v6/colleges/admission/scholarships/">100+</a></strong> </span></p>
+<p style="text-align: center; line-height: 0.7;"><span style="font-family: helvetica, arial, sans-serif; font-size: 12pt; color: #8a1300;"><a style="text-decoration: none; color: #8a1300;" href="https://www.cit.edu/v6/colleges/admission/scholarships/"><strong>ACADEMIC SCHOLARS</strong></a></span></p>
+</td>
+<td style="width: 250px; background-color: #ffd801; border: 2px solid #fff;">
+<p style="text-align: center; line-height: 0.7;"><span style="font-size: 48pt; color: #8a1300;"><strong><span style="font-family: helvetica, arial, sans-serif;">340+</span></strong></span></p>
+<p style="text-align: center; line-height: 0.7;"><span style="font-family: helvetica, arial, sans-serif; font-size: 10pt; color: #8a1300;"><a style="text-decoration: none; color: #8a1300;" href="https://www.cit.edu/v6/colleges/admission/scholarships/"><strong><span style="font-size: 9pt;">SPECIAL AND NON-ACADEMIC SCHOLARS</span></strong></a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+</div>
+		</div></div></div></div></div></div>    			</div><!--/u_row-->
+			<div class="u_row">
+        	<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1529566619891" >
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center; font-family: Bookman;"><span style="color: #ffcc00; font-family: arial, helvetica, sans-serif; font-size: 16pt;"><a style="color: #ffcc00;" href="http://www.cit.edu/v6/bbb-blogs-by-berns/">Blogs By Berns</a></span></h2>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1515731147980">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="http://www.cit.edu/v6/bbb-blogs-by-berns/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://www.cit.edu/v6/wp-content/uploads/2018/01/ggggggg-350x320.png" width="350" height="320" alt="Blogs By Berns" title="Blogs By Berns" /></a>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1529566649833" >
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center; font-family: Bookman;"><span style="color: #ffcc00; font-family: arial, helvetica, sans-serif; font-size: 16pt;"><a style="color: #ffcc00;" href="http://www.cit.edu/v6/we-heard-you/">E-Suggestion Box</a></span></h2>
+
+		</div>
+	</div>
+<noscript class="ninja-forms-noscript-message">
+    Notice: JavaScript is required for this content.</noscript><div id="nf-form-1-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-1" aria-describedby="nf-form-errors-1" role="form">
+
+    <div class="nf-loading-spinner"></div>
+
+</div>
+        <!-- TODO: Move to Template File. -->
+        <script>var formDisplay=1;var nfForms=nfForms||[];var form=[];form.id='1';form.settings={"objectType":"Form Setting","editActive":true,"title":"E-Suggestion Box","key":"","created_at":"2016-08-24 16:39:20","default_label_pos":"hidden","conditions":[],"show_title":0,"clear_complete":0,"hide_complete":0,"wrapper_class":"","element_class":"","add_submit":"1","logged_in":"","not_logged_in_msg":"","sub_limit_number":"","sub_limit_msg":"","calculations":[],"formContentData":["website_subject","message","submit","html_1515381042631"],"container_styles_background-color":"","container_styles_border":"","container_styles_border-style":"","container_styles_border-color":"","container_styles_color":"","container_styles_height":"","container_styles_width":"","container_styles_font-size":"","container_styles_margin":"","container_styles_padding":"","container_styles_display":"","container_styles_float":"","container_styles_show_advanced_css":"0","container_styles_advanced":"","title_styles_background-color":"","title_styles_border":"","title_styles_border-style":"","title_styles_border-color":"","title_styles_color":"","title_styles_height":"","title_styles_width":"","title_styles_font-size":"","title_styles_margin":"","title_styles_padding":"","title_styles_display":"","title_styles_float":"","title_styles_show_advanced_css":"0","title_styles_advanced":"","row_styles_background-color":"","row_styles_border":"","row_styles_border-style":"","row_styles_border-color":"","row_styles_color":"","row_styles_height":"","row_styles_width":"","row_styles_font-size":"","row_styles_margin":"","row_styles_padding":"","row_styles_display":"","row_styles_show_advanced_css":"0","row_styles_advanced":"","row-odd_styles_background-color":"","row-odd_styles_border":"","row-odd_styles_border-style":"","row-odd_styles_border-color":"","row-odd_styles_color":"","row-odd_styles_height":"","row-odd_styles_width":"","row-odd_styles_font-size":"","row-odd_styles_margin":"","row-odd_styles_padding":"","row-odd_styles_display":"","row-odd_styles_show_advanced_css":"0","row-odd_styles_advanced":"","success-msg_styles_background-color":"","success-msg_styles_border":"","success-msg_styles_border-style":"","success-msg_styles_border-color":"","success-msg_styles_color":"","success-msg_styles_height":"","success-msg_styles_width":"","success-msg_styles_font-size":"","success-msg_styles_margin":"","success-msg_styles_padding":"","success-msg_styles_display":"","success-msg_styles_show_advanced_css":"0","success-msg_styles_advanced":"","error_msg_styles_background-color":"","error_msg_styles_border":"","error_msg_styles_border-style":"","error_msg_styles_border-color":"","error_msg_styles_color":"","error_msg_styles_height":"","error_msg_styles_width":"","error_msg_styles_font-size":"","error_msg_styles_margin":"","error_msg_styles_padding":"","error_msg_styles_display":"","error_msg_styles_show_advanced_css":"0","error_msg_styles_advanced":"","changeEmailErrorMsg":"Please enter a valid email address!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","currency":"","drawerDisabled":false,"unique_field_error":"A form with this value has already been submitted.","ninjaForms":"Ninja Forms","changeDateErrorMsg":"Please enter a valid date!","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"&#8369;","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"currency_symbol":"","beforeForm":"","beforeFields":"","afterFields":"","afterForm":""};form.fields=[{"objectType":"Field","objectDomain":"fields","editActive":false,"order":1,"label":"Subject","key":"website_subject","type":"textbox","created_at":"2016-08-24 16:39:20","label_pos":"hidden","required":0,"placeholder":"Subject","default":"","wrapper_class":"","element_class":"","container_class":"","input_limit":"","input_limit_type":"word","input_limit_msg":"Character(s) left","manual_key":true,"disable_input":"","admin_label":"","help_text":"<p><\/p>","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","wrap_styles_background-color":"","wrap_styles_border":"","wrap_styles_border-style":"","wrap_styles_border-color":"","wrap_styles_color":"","wrap_styles_height":"","wrap_styles_width":"","wrap_styles_font-size":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_display":"","wrap_styles_float":"","wrap_styles_show_advanced_css":0,"wrap_styles_advanced":"","label_styles_background-color":"","label_styles_border":"","label_styles_border-style":"","label_styles_border-color":"","label_styles_color":"","label_styles_height":"","label_styles_width":"","label_styles_font-size":"","label_styles_margin":"","label_styles_padding":"","label_styles_display":"","label_styles_float":"","label_styles_show_advanced_css":0,"label_styles_advanced":"","element_styles_background-color":"","element_styles_border":"","element_styles_border-style":"","element_styles_border-color":"","element_styles_color":"","element_styles_height":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_display":"","element_styles_float":"","element_styles_show_advanced_css":0,"element_styles_advanced":"","cellcid":"c3277","drawerDisabled":false,"id":1,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":2,"label":"Message","key":"message","type":"textarea","created_at":"2016-08-24 16:39:20","label_pos":"hidden","required":0,"placeholder":"Message","default":"","wrapper_class":"","element_class":"","container_class":"","input_limit":"","input_limit_type":"characters","input_limit_msg":"Character(s) left","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","textarea_rte":"","disable_rte_mobile":"","textarea_media":"","wrap_styles_background-color":"","wrap_styles_border":"","wrap_styles_border-style":"","wrap_styles_border-color":"","wrap_styles_color":"","wrap_styles_height":"","wrap_styles_width":"","wrap_styles_font-size":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_display":"","wrap_styles_float":"","wrap_styles_show_advanced_css":0,"wrap_styles_advanced":"","label_styles_background-color":"","label_styles_border":"","label_styles_border-style":"","label_styles_border-color":"","label_styles_color":"","label_styles_height":"","label_styles_width":"","label_styles_font-size":"","label_styles_margin":"","label_styles_padding":"","label_styles_display":"","label_styles_float":"","label_styles_show_advanced_css":0,"label_styles_advanced":"","element_styles_background-color":"","element_styles_border":"","element_styles_border-style":"","element_styles_border-color":"","element_styles_color":"","element_styles_height":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_display":"","element_styles_float":"","element_styles_show_advanced_css":0,"element_styles_advanced":"","cellcid":"c3284","drawerDisabled":false,"id":3,"beforeField":"","afterField":"","parentType":"textarea","element_templates":["textarea","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":3,"label":"Submit","key":"submit","type":"submit","created_at":"2016-08-24 16:39:20","processing_label":"Processing","container_class":"one-half first","element_class":"","wrap_styles_background-color":"","wrap_styles_border":"","wrap_styles_border-style":"","wrap_styles_border-color":"","wrap_styles_color":"","wrap_styles_height":"","wrap_styles_width":"","wrap_styles_font-size":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_display":"","wrap_styles_float":"","wrap_styles_show_advanced_css":0,"wrap_styles_advanced":"","label_styles_background-color":"","label_styles_border":"","label_styles_border-style":"","label_styles_border-color":"","label_styles_color":"","label_styles_height":"","label_styles_width":"","label_styles_font-size":"","label_styles_margin":"","label_styles_padding":"","label_styles_display":"","label_styles_float":"","label_styles_show_advanced_css":0,"label_styles_advanced":"","element_styles_background-color":"","element_styles_border":"","element_styles_border-style":"","element_styles_border-color":"","element_styles_color":"","element_styles_height":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_display":"","element_styles_float":"","element_styles_show_advanced_css":0,"element_styles_advanced":"","submit_element_hover_styles_background-color":"","submit_element_hover_styles_border":"","submit_element_hover_styles_border-style":"","submit_element_hover_styles_border-color":"","submit_element_hover_styles_color":"","submit_element_hover_styles_height":"","submit_element_hover_styles_width":"","submit_element_hover_styles_font-size":"","submit_element_hover_styles_margin":"","submit_element_hover_styles_padding":"","submit_element_hover_styles_display":"","submit_element_hover_styles_float":"","submit_element_hover_styles_show_advanced_css":0,"submit_element_hover_styles_advanced":"","cellcid":"c3287","drawerDisabled":false,"id":4,"beforeField":"","afterField":"","label_pos":"hidden","parentType":"textbox","element_templates":["submit","button","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":999,"type":"html","label":"HTML","default":"<h4><a href=\"http:\/\/www.cit.edu\/v6\/we-heard-you\/\" style=\"color: rgb(102, 0, 0);\"><b>WE HEARD YOU!<\/b><\/a><\/h4>","container_class":"one-half","element_class":"","key":"html_1515381042631","drawerDisabled":false,"id":33,"beforeField":"","afterField":"","label_pos":"hidden","parentType":"html","value":"<h4><a href=\"http:\/\/www.cit.edu\/v6\/we-heard-you\/\" style=\"color: rgb(102, 0, 0);\"><b>WE HEARD YOU!<\/b><\/a><\/h4>","element_templates":["html","input"],"old_classname":"","wrap_template":"wrap"}];nfForms.push(form);</script>
+        </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1529566729760" >
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center; font-family: Bookman;"><span style="color: #ffcc00; font-family: arial, helvetica, sans-serif; font-size: 16pt;"><a style="color: #ffcc00;" href="http://www.cit.edu/v6/cit-u-tours/?preview=true">Campus Tour</a></span></h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1515731098162" >
+		<div class="wpb_wrapper">
+			
+                
+            <div id="wpgmza_map" data-settings='{&quot;id&quot;:&quot;1&quot;,&quot;map_title&quot;:&quot;CIT&quot;,&quot;map_width&quot;:&quot;100&quot;,&quot;map_height&quot;:&quot;360&quot;,&quot;map_start_lat&quot;:&quot;10.294364&quot;,&quot;map_start_lng&quot;:&quot;123.881479&quot;,&quot;map_start_location&quot;:&quot;10.294363578966442,123.88147855410352&quot;,&quot;map_start_zoom&quot;:&quot;20&quot;,&quot;default_marker&quot;:&quot;0&quot;,&quot;type&quot;:&quot;3&quot;,&quot;alignment&quot;:&quot;3&quot;,&quot;directions_enabled&quot;:&quot;1&quot;,&quot;styling_enabled&quot;:&quot;0&quot;,&quot;styling_json&quot;:&quot;&quot;,&quot;active&quot;:&quot;0&quot;,&quot;kml&quot;:&quot;&quot;,&quot;bicycle&quot;:&quot;2&quot;,&quot;traffic&quot;:&quot;2&quot;,&quot;dbox&quot;:&quot;1&quot;,&quot;dbox_width&quot;:&quot;100&quot;,&quot;listmarkers&quot;:&quot;0&quot;,&quot;listmarkers_advanced&quot;:&quot;0&quot;,&quot;filterbycat&quot;:&quot;0&quot;,&quot;ugm_enabled&quot;:&quot;0&quot;,&quot;ugm_category_enabled&quot;:&quot;0&quot;,&quot;fusion&quot;:&quot;&quot;,&quot;map_width_type&quot;:&quot;%&quot;,&quot;map_height_type&quot;:&quot;px&quot;,&quot;mass_marker_support&quot;:&quot;1&quot;,&quot;ugm_access&quot;:&quot;0&quot;,&quot;order_markers_by&quot;:&quot;1&quot;,&quot;order_markers_choice&quot;:&quot;2&quot;,&quot;show_user_location&quot;:&quot;0&quot;,&quot;default_to&quot;:&quot;&quot;,&quot;other_settings&quot;:&quot;a:12:{s:21:\&quot;store_locator_enabled\&quot;;i:2;s:22:\&quot;store_locator_distance\&quot;;i:2;s:28:\&quot;store_locator_default_radius\&quot;;s:2:\&quot;10\&quot;;s:31:\&quot;store_locator_not_found_message\&quot;;s:52:\&quot;No results found in this location. Please try again.\&quot;;s:20:\&quot;store_locator_bounce\&quot;;i:1;s:26:\&quot;store_locator_query_string\&quot;;s:14:\&quot;ZIP \/ Address:\&quot;;s:29:\&quot;store_locator_default_address\&quot;;s:0:\&quot;\&quot;;s:29:\&quot;wpgmza_store_locator_restrict\&quot;;s:2:\&quot;ph\&quot;;s:12:\&quot;map_max_zoom\&quot;;s:2:\&quot;20\&quot;;s:15:\&quot;transport_layer\&quot;;i:2;s:17:\&quot;wpgmza_theme_data\&quot;;s:0:\&quot;\&quot;;s:30:\&quot;wpgmza_show_points_of_interest\&quot;;i:1;}&quot;}' style="display:block; overflow:auto; width:100%; height:360px; float:right;">
+            
+            </div>
+        
+		</div>
+	</div>
+</div></div></div></div>    			</div><!--/u_row-->
+			<div class="u_row">
+        	<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<hr />
+<h3 style="text-align: center;"><span style="color: #800000;"><a style="color: #800000;" href="http://www.cit.edu/v6/frequently-asked-questions-faqs/">Frequently Asked Questions (FAQs) | Cebu Institute of Technology &#8211; University</a></span></h3>
+<hr />
+
+		</div>
+	</div>
+</div></div></div></div>    			</div><!--/u_row-->
+	</p>
+<noscript class="ninja-forms-noscript-message">
+    Notice: JavaScript is required for this content.</noscript><div id="nf-form-1-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-1" aria-describedby="nf-form-errors-1" role="form">
+
+    <div class="nf-loading-spinner"></div>
+
+</div>
+        <!-- TODO: Move to Template File. -->
+        <script>var formDisplay=1;var nfForms=nfForms||[];var form=[];form.id='1';form.settings={"objectType":"Form Setting","editActive":true,"title":"E-Suggestion Box","key":"","created_at":"2016-08-24 16:39:20","default_label_pos":"hidden","conditions":[],"show_title":0,"clear_complete":0,"hide_complete":0,"wrapper_class":"","element_class":"","add_submit":"1","logged_in":"","not_logged_in_msg":"","sub_limit_number":"","sub_limit_msg":"","calculations":[],"formContentData":["website_subject","message","submit","html_1515381042631"],"container_styles_background-color":"","container_styles_border":"","container_styles_border-style":"","container_styles_border-color":"","container_styles_color":"","container_styles_height":"","container_styles_width":"","container_styles_font-size":"","container_styles_margin":"","container_styles_padding":"","container_styles_display":"","container_styles_float":"","container_styles_show_advanced_css":"0","container_styles_advanced":"","title_styles_background-color":"","title_styles_border":"","title_styles_border-style":"","title_styles_border-color":"","title_styles_color":"","title_styles_height":"","title_styles_width":"","title_styles_font-size":"","title_styles_margin":"","title_styles_padding":"","title_styles_display":"","title_styles_float":"","title_styles_show_advanced_css":"0","title_styles_advanced":"","row_styles_background-color":"","row_styles_border":"","row_styles_border-style":"","row_styles_border-color":"","row_styles_color":"","row_styles_height":"","row_styles_width":"","row_styles_font-size":"","row_styles_margin":"","row_styles_padding":"","row_styles_display":"","row_styles_show_advanced_css":"0","row_styles_advanced":"","row-odd_styles_background-color":"","row-odd_styles_border":"","row-odd_styles_border-style":"","row-odd_styles_border-color":"","row-odd_styles_color":"","row-odd_styles_height":"","row-odd_styles_width":"","row-odd_styles_font-size":"","row-odd_styles_margin":"","row-odd_styles_padding":"","row-odd_styles_display":"","row-odd_styles_show_advanced_css":"0","row-odd_styles_advanced":"","success-msg_styles_background-color":"","success-msg_styles_border":"","success-msg_styles_border-style":"","success-msg_styles_border-color":"","success-msg_styles_color":"","success-msg_styles_height":"","success-msg_styles_width":"","success-msg_styles_font-size":"","success-msg_styles_margin":"","success-msg_styles_padding":"","success-msg_styles_display":"","success-msg_styles_show_advanced_css":"0","success-msg_styles_advanced":"","error_msg_styles_background-color":"","error_msg_styles_border":"","error_msg_styles_border-style":"","error_msg_styles_border-color":"","error_msg_styles_color":"","error_msg_styles_height":"","error_msg_styles_width":"","error_msg_styles_font-size":"","error_msg_styles_margin":"","error_msg_styles_padding":"","error_msg_styles_display":"","error_msg_styles_show_advanced_css":"0","error_msg_styles_advanced":"","changeEmailErrorMsg":"Please enter a valid email address!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","currency":"","drawerDisabled":false,"unique_field_error":"A form with this value has already been submitted.","ninjaForms":"Ninja Forms","changeDateErrorMsg":"Please enter a valid date!","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"&#8369;","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"currency_symbol":"","beforeForm":"","beforeFields":"","afterFields":"","afterForm":""};form.fields=[{"objectType":"Field","objectDomain":"fields","editActive":false,"order":1,"label":"Subject","key":"website_subject","type":"textbox","created_at":"2016-08-24 16:39:20","label_pos":"hidden","required":0,"placeholder":"Subject","default":"","wrapper_class":"","element_class":"","container_class":"","input_limit":"","input_limit_type":"word","input_limit_msg":"Character(s) left","manual_key":true,"disable_input":"","admin_label":"","help_text":"<p><\/p>","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","wrap_styles_background-color":"","wrap_styles_border":"","wrap_styles_border-style":"","wrap_styles_border-color":"","wrap_styles_color":"","wrap_styles_height":"","wrap_styles_width":"","wrap_styles_font-size":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_display":"","wrap_styles_float":"","wrap_styles_show_advanced_css":0,"wrap_styles_advanced":"","label_styles_background-color":"","label_styles_border":"","label_styles_border-style":"","label_styles_border-color":"","label_styles_color":"","label_styles_height":"","label_styles_width":"","label_styles_font-size":"","label_styles_margin":"","label_styles_padding":"","label_styles_display":"","label_styles_float":"","label_styles_show_advanced_css":0,"label_styles_advanced":"","element_styles_background-color":"","element_styles_border":"","element_styles_border-style":"","element_styles_border-color":"","element_styles_color":"","element_styles_height":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_display":"","element_styles_float":"","element_styles_show_advanced_css":0,"element_styles_advanced":"","cellcid":"c3277","drawerDisabled":false,"id":1,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":2,"label":"Message","key":"message","type":"textarea","created_at":"2016-08-24 16:39:20","label_pos":"hidden","required":0,"placeholder":"Message","default":"","wrapper_class":"","element_class":"","container_class":"","input_limit":"","input_limit_type":"characters","input_limit_msg":"Character(s) left","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","textarea_rte":"","disable_rte_mobile":"","textarea_media":"","wrap_styles_background-color":"","wrap_styles_border":"","wrap_styles_border-style":"","wrap_styles_border-color":"","wrap_styles_color":"","wrap_styles_height":"","wrap_styles_width":"","wrap_styles_font-size":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_display":"","wrap_styles_float":"","wrap_styles_show_advanced_css":0,"wrap_styles_advanced":"","label_styles_background-color":"","label_styles_border":"","label_styles_border-style":"","label_styles_border-color":"","label_styles_color":"","label_styles_height":"","label_styles_width":"","label_styles_font-size":"","label_styles_margin":"","label_styles_padding":"","label_styles_display":"","label_styles_float":"","label_styles_show_advanced_css":0,"label_styles_advanced":"","element_styles_background-color":"","element_styles_border":"","element_styles_border-style":"","element_styles_border-color":"","element_styles_color":"","element_styles_height":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_display":"","element_styles_float":"","element_styles_show_advanced_css":0,"element_styles_advanced":"","cellcid":"c3284","drawerDisabled":false,"id":3,"beforeField":"","afterField":"","parentType":"textarea","element_templates":["textarea","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":3,"label":"Submit","key":"submit","type":"submit","created_at":"2016-08-24 16:39:20","processing_label":"Processing","container_class":"one-half first","element_class":"","wrap_styles_background-color":"","wrap_styles_border":"","wrap_styles_border-style":"","wrap_styles_border-color":"","wrap_styles_color":"","wrap_styles_height":"","wrap_styles_width":"","wrap_styles_font-size":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_display":"","wrap_styles_float":"","wrap_styles_show_advanced_css":0,"wrap_styles_advanced":"","label_styles_background-color":"","label_styles_border":"","label_styles_border-style":"","label_styles_border-color":"","label_styles_color":"","label_styles_height":"","label_styles_width":"","label_styles_font-size":"","label_styles_margin":"","label_styles_padding":"","label_styles_display":"","label_styles_float":"","label_styles_show_advanced_css":0,"label_styles_advanced":"","element_styles_background-color":"","element_styles_border":"","element_styles_border-style":"","element_styles_border-color":"","element_styles_color":"","element_styles_height":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_display":"","element_styles_float":"","element_styles_show_advanced_css":0,"element_styles_advanced":"","submit_element_hover_styles_background-color":"","submit_element_hover_styles_border":"","submit_element_hover_styles_border-style":"","submit_element_hover_styles_border-color":"","submit_element_hover_styles_color":"","submit_element_hover_styles_height":"","submit_element_hover_styles_width":"","submit_element_hover_styles_font-size":"","submit_element_hover_styles_margin":"","submit_element_hover_styles_padding":"","submit_element_hover_styles_display":"","submit_element_hover_styles_float":"","submit_element_hover_styles_show_advanced_css":0,"submit_element_hover_styles_advanced":"","cellcid":"c3287","drawerDisabled":false,"id":4,"beforeField":"","afterField":"","label_pos":"hidden","parentType":"textbox","element_templates":["submit","button","input"],"old_classname":"","wrap_template":"wrap-no-label"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":999,"type":"html","label":"HTML","default":"<h4><a href=\"http:\/\/www.cit.edu\/v6\/we-heard-you\/\" style=\"color: rgb(102, 0, 0);\"><b>WE HEARD YOU!<\/b><\/a><\/h4>","container_class":"one-half","element_class":"","key":"html_1515381042631","drawerDisabled":false,"id":33,"beforeField":"","afterField":"","label_pos":"hidden","parentType":"html","value":"<h4><a href=\"http:\/\/www.cit.edu\/v6\/we-heard-you\/\" style=\"color: rgb(102, 0, 0);\"><b>WE HEARD YOU!<\/b><\/a><\/h4>","element_templates":["html","input"],"old_classname":"","wrap_template":"wrap"}];nfForms.push(form);</script>
+                                </article>
+                    </div><!--/content-->
+                                    </div><!--/row-->
+                            </div><!--/container-->
+            </div><!--/body-->
+        <section id="bottom-sidebar">
+            <div class="container">
+                <div class="row normal-sidebar">
+                                    </div>
+            </div>
+        </section>
+        <footer class="dark-div main-color-2-bg">
+            <section id="bottom">
+                <div class="section-inner">
+                    <div class="container">
+                        <div class="row normal-sidebar">
+                            <div id="text-4" class=" col-md-12  widget widget_text"><div class=" widget-inner">			<div class="textwidget">Address: N. Bacalso Avenue, Cebu<br>
+Telephone: 261-7741<br>
+Fax: 261-7743</div>
+		</div></div>                        </div>
+                    </div>
+                </div>
+            </section>
+            <div id="bottom-nav">
+                <div class="container">
+                    <div class="text-center line-under">
+                                            <a class="btn btn-default main-color-2-bg back-to-top" href="#top">CIT-UNIVERSITY</a>
+                       
+                    </div>
+                    <div class="row footer-content">
+                        <div class="copyright col-md-6">
+                                                       </div>
+                        <nav class="col-md-6 footer-social">
+                            
+                            <ul class="list-inline pull-right social-list">
+                                                            </ul>
+                        </nav>
+                    </div><!--/row-->
+                </div><!--/container-->
+            </div>
+        </footer>
+        </div><!--wrap-->
+    </div><!--/body-wrap-->
+    <div class="mobile-menu-wrap dark-div visible-xs">
+        <a href="#" class="mobile-menu-toggle"><i class="fa fa-times-circle"></i></a>
+        <ul class="mobile-menu">
+            <li id="menu-item-9871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-9709 current_page_item menu-item-9871"><a href="https://www.cit.edu/v6/">HOME</a></li>
+<li id="menu-item-3897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent menu-item-3897"><a href="https://www.cit.edu/v6/colleges/">ACADEMICS</a>
+<ul class="sub-menu">
+	<li id="menu-item-4238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent menu-item-4238"><a href="https://www.cit.edu/v6/colleges/colleges/">Colleges and Departments</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4277"><a href="https://www.cit.edu/v6/colleges/arts-sciences-education/">College of Arts, Sciences, and Education</a></li>
+		<li id="menu-item-4276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4276"><a href="https://www.cit.edu/v6/colleges/computer-studies/">College of Computer Studies</a></li>
+		<li id="menu-item-4275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4275"><a href="https://www.cit.edu/v6/colleges/engineering-and-architecture/">College of Engineering and Architecture</a></li>
+		<li id="menu-item-9806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9806"><a href="https://www.cit.edu/v6/colleges/commerce/">College of Management, Business and Accountancy</a></li>
+		<li id="menu-item-9807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9807"><a href="https://www.cit.edu/v6/colleges/nursing/">College of Nursing</a></li>
+	</ul>
+</li>
+	<li id="menu-item-9874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9874"><a href="https://www.cit.edu/v6/senior-high-school/">Senior High School</a></li>
+	<li id="menu-item-9875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent menu-item-9875"><a href="https://www.cit.edu/v6/colleges/basic-education/high-school/">Junior High School</a>
+	<ul class="sub-menu">
+		<li id="menu-item-9819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9819"><a href="https://www.cit.edu/v6/colleges/basic-education/high-school/student-services/">High School Student Services</a></li>
+	</ul>
+</li>
+	<li id="menu-item-9801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9801"><a href="https://www.cit.edu/v6/colleges/basic-education/">Basic Education</a></li>
+	<li id="menu-item-9808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9808"><a href="https://www.cit.edu/v6/colleges/continuing-education/">Continuing Education</a></li>
+</ul>
+</li>
+<li id="menu-item-9876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent menu-item-9876"><a href="https://www.cit.edu/v6/linkages/">LINKAGES</a>
+<ul class="sub-menu">
+	<li id="menu-item-9880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9880"><a href="https://www.cit.edu/v6/citaa/">Alumni Affairs</a></li>
+	<li id="menu-item-9879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9879"><a href="https://www.cit.edu/v6/networking-and-linkages/">Networking and Linkages</a></li>
+</ul>
+</li>
+<li id="menu-item-9813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent menu-item-9813"><a href="https://www.cit.edu/v6/extension-services/">EXTENSION SERVICES</a>
+<ul class="sub-menu">
+	<li id="menu-item-9816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9816"><a href="https://www.cit.edu/v6/extension-services/access/">ACCESS</a></li>
+	<li id="menu-item-9817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9817"><a href="https://www.cit.edu/v6/extension-services/community-extension/">Community Extension</a></li>
+	<li id="menu-item-9815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9815"><a href="https://www.cit.edu/v6/extension-services/makerspace/">Makerspace</a></li>
+	<li id="menu-item-9814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9814"><a href="https://www.cit.edu/v6/extension-services/wildcat-innovation-labs/">Wildcat Innovation Labs</a></li>
+</ul>
+</li>
+            <li id="menu-item-4243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent menu-item-4243"><a href="https://www.cit.edu/v6/about-cit/">About CIT-U</a>
+<ul class="sub-menu">
+	<li id="menu-item-4258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4258"><a href="https://www.cit.edu/v6/about-cit/historical-background/">History</a></li>
+	<li id="menu-item-4261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4261"><a href="https://www.cit.edu/v6/about-cit/vision-goals/">Vision, Mission, Goals &#038; Core Values</a></li>
+	<li id="menu-item-4260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4260"><a href="https://www.cit.edu/v6/about-cit/the-cit-hymn/">The CIT-U Motto and Hymn</a></li>
+	<li id="menu-item-7257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7257"><a href="https://www.cit.edu/v6/obe-framework/">CIT-University OBE Framework</a></li>
+	<li id="menu-item-4256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4256"><a href="https://www.cit.edu/v6/about-cit/prospective-students/">CIT-U Major Events</a></li>
+	<li id="menu-item-4259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4259"><a href="https://www.cit.edu/v6/about-cit/information-directory/">Information Directory</a></li>
+	<li id="menu-item-8999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8999"><a href="https://www.cit.edu/v6/about-cit/cit-university-updates/">CIT-University Updates</a></li>
+	<li id="menu-item-4257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4257"><a href="https://www.cit.edu/v6/about-cit/contact-us/">Contact Us</a></li>
+	<li id="menu-item-7520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7520"><a href="https://www.cit.edu/v6/about-cit/frequently-asked-questions-faqs/">Frequently Asked Questions (FAQs)</a></li>
+</ul>
+</li>
+<li id="menu-item-4262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent menu-item-4262"><a href="https://www.cit.edu/v6/student-personnel-services/">Student Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-4319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4319"><a href="https://www.cit.edu/v6/student-personnel-services/news-and-updates/">News and Updates</a></li>
+	<li id="menu-item-4268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4268"><a href="https://www.cit.edu/v6/student-personnel-services/student-affairs/">Student Affairs</a></li>
+	<li id="menu-item-4264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4264"><a href="https://www.cit.edu/v6/student-personnel-services/guidance-center/">Guidance Center</a></li>
+	<li id="menu-item-4266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4266"><a href="https://www.cit.edu/v6/student-personnel-services/other-student-services/">Medical and Dental Services</a></li>
+	<li id="menu-item-4267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4267"><a href="https://www.cit.edu/v6/student-personnel-services/safety-and-security-department/">Safety and Security Department</a></li>
+	<li id="menu-item-4263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4263"><a href="https://www.cit.edu/v6/student-personnel-services/athletics/">Athletics</a></li>
+	<li id="menu-item-6444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6444"><a href="https://www.cit.edu/v6/e-schedule/">School Calendar</a></li>
+	<li id="menu-item-6654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent menu-item-6654"><a href="https://www.cit.edu/v6/colleges/admission/">Admissions and Scholarships</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6659"><a href="https://www.cit.edu/v6/colleges/admission/scholarships/">Scholarships</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6655"><a href="https://www.cit.edu/v6/colleges/enrolment-technical-office/">Enrolment Technical Office</a></li>
+	<li id="menu-item-6656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6656"><a href="https://www.cit.edu/v6/student-personnel-services/library/">Library Learning and Resource Center (LLRC)</a></li>
+</ul>
+</li>
+<li id="menu-item-6252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6252"><a href="https://www.cit.edu/v6/careers/">Careers</a></li>
+        </ul>
+    </div>
+   
+<script type="text/javascript">( function () {window.__Bottr = { u: "5aa093c4b261ff464c9ddf5c" };var url = "https://d279m54f1qquet.cloudfront.net/embed/bottr.js?" + Date.now();var element = document.createElement("script");element.id = "bottr-init-js";element.type = "text/javascript";element.dataset.cfasync = "false"; element.src = url;document.getElementsByTagName("body")[0].appendChild(element);})();</script><div class="myc-content-overlay myc-toggle-closed" style="right: 1%">
+	<div class="myc-content-overlay-header">
+		<div style="display: table-cell;width: 70px;">
+        	<div style="background-color: transparent;background-image: url(https://cit-cris-chatbot.000webhostapp.com/wp-content/plugins/my-chatbot/assets/images/avatar.png);background-repeat: no-repeat;background-position: center;background-size: cover;width: 62px;height: 82px;left: 10px;position: absolute;top: -32px;">
+       		</div>
+    	</div>
+	<div class="myc-content-overlay-header-text" style="display: table-cell;line-height: 50px;font-weight: 700;font-size: 19px;position: absolute;">Ask Tiknay</div>
+	<span class="myc-icon-toggle-up" title="Open" style="width: auto; position: inherit;"></span>
+	<span class="myc-icon-toggle-down" title="Close" style="width: auto; position: inherit;"></span>
+	</div>
+	<div class="myc-content-overlay-container"><div id="myc-container-0" class="myc-container">
+
+	
+	<div class="myc-conversation-area"></div>
+	<div id="myc-input-area">
+		<input class="myc-text" type="text" placeholder="Ask anything..."></input>
+	</div>
+
+</div>
+
+</div>
+</div>
+	<div style="display:none">
+	</div>
+
+
+
+
+<style id='wpgmaps-style-inline-css' type='text/css'>
+.wpgmza_map img { max-width:none; } .wpgmza_widget { overflow: auto; }
+</style>
+
+
+
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201936'></script>
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/4738a.js"></script>
+
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Sepaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/15762.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"\u20b1","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"]};
+var nfFrontEnd = {"adminAjax":"https:\/\/www.cit.edu\/v6\/wp-admin\/admin-ajax.php","ajaxNonce":"98d82b95a2","requireBaseUrl":"https:\/\/www.cit.edu\/v6\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":""};
+var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"\u20b1","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"]};
+var nfFrontEnd = {"adminAjax":"https:\/\/www.cit.edu\/v6\/wp-admin\/admin-ajax.php","ajaxNonce":"98d82b95a2","requireBaseUrl":"https:\/\/www.cit.edu\/v6\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/35ee8.js"></script>
+
+<script type='text/javascript' src='//maps.google.com/maps/api/js?v=3.31&#038;language=en&#038;key=AIzaSyBxgyUlI2euZK9dsyxMlFj6VeO-D_kbTkY&#038;libraries=geometry%2Cplaces%2Cvisualization&#038;ver=4.9.10'></script>
+
+
+
+
+
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/9416f.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGMZA_localized_data = {"ajaxurl":"https:\/\/www.cit.edu\/v6\/wp-admin\/admin-ajax.php","settings":{"wpgmza_settings_marker_pull":"0","engine":"google-maps","google_maps_api_key":"AIzaSyBxgyUlI2euZK9dsyxMlFj6VeO-D_kbTkY","default_marker_icon":"\/\/maps.gstatic.com\/mapfiles\/api-3\/images\/spotlight-poi2.png","developer_mode":false,"wpgmza_gdpr_enabled":1,"wpgmza_gdpr_notice":"I agree for my personal data to be processed by {COMPANY_NAME}.\r\n\t\t\r\nI agree for my personal data, provided via map API calls, to be processed by the API provider, for the purposes of geocoding (converting addresses to coordinates), reverse geocoding and generating directions.\r\n\r\nSome visual components of WP Google Maps use 3rd party libraries which are loaded over the network. At present the libraries are Google Maps, Open Street Map, jQuery DataTables and FontAwesome. When loading resources over a network, the 3rd party server will receive your IP address and User Agent string amongst other details. Please refer to the Privacy Policy of the respective libraries for details on how they use data and the process to exercise your rights under the GDPR regulations.\r\n\r\nWP Google Maps uses jQuery DataTables to display sortable, searchable tables, such as that seen in the Advanced Marker Listing and on the Map Edit Page. jQuery DataTables in certain circumstances uses a cookie to save and later recall the \"state\" of a given table - that is, the search term, sort column and order and current page. This data is help in local storage and retained until this is cleared manually. No libraries used by WP Google Maps transmit this information.\r\n\r\nPlease <a href=\"https:\/\/developers.google.com\/maps\/terms\">see here<\/a> and <a href=\"https:\/\/maps.google.com\/help\/terms_maps.html\">here<\/a> for Google's terms. Please also see <a href=\"https:\/\/policies.google.com\/privacy?hl=en-GB&gl=uk\">Google's Privacy Policy<\/a>. We do not send the API provider any personally identifying information, or information that could uniquely identify your device.\r\n\r\nWhere this notice is displayed in place of a map, agreeing to this notice will store a cookie recording your agreement so you are not prompted again.","wpgmza_gdpr_retention_purpose":"presenting the data you have submitted on the map."},"localized_strings":{"unsecure_geolocation":"Many browsers are no longer allowing geolocation from unsecured origins. You will need to secure your site with an SSL certificate (HTTPS) or this feature may not work for your visitors"},"api_consent_html":"<div><p class='wpgmza-centered'><button class='wpgmza-api-consent'>I agree<\/button><\/div><\/p>","basic_version":"7.10.16\r","_isProVersion":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/b8073.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpgmza_circle_data_array = [];
+var wpgmza_rectangle_data_array = [];
+var wpgmaps_mapid = "1";
+var wpgmaps_localize = {"1":{"id":"1","map_title":"CIT","map_width":"100","map_height":"360","map_start_lat":"10.294364","map_start_lng":"123.881479","map_start_location":"10.294363578966442,123.88147855410352","map_start_zoom":"20","default_marker":"0","type":"3","alignment":"3","directions_enabled":"1","styling_enabled":"0","styling_json":"","active":"0","kml":"","bicycle":"2","traffic":"2","dbox":"1","dbox_width":"100","listmarkers":"0","listmarkers_advanced":"0","filterbycat":"0","ugm_enabled":"0","ugm_category_enabled":"0","fusion":"","map_width_type":"%","map_height_type":"px","mass_marker_support":"1","ugm_access":"0","order_markers_by":"1","order_markers_choice":"2","show_user_location":"0","default_to":"","other_settings":{"store_locator_enabled":2,"store_locator_distance":2,"store_locator_default_radius":"10","store_locator_not_found_message":"No results found in this location. Please try again.","store_locator_bounce":1,"store_locator_query_string":"ZIP \/ Address:","store_locator_default_address":"","wpgmza_store_locator_restrict":"ph","map_max_zoom":"20","transport_layer":2,"wpgmza_theme_data":"","wpgmza_show_points_of_interest":1}}};
+var wpgmaps_localize_polygon_settings = [];
+var wpgmaps_localize_polyline_settings = [];
+var wpgmaps_markerurl = "\/\/www.cit.edu\/v6\/wp-content\/uploads\/wp-google-maps\/1markers.xml";
+var wpgmaps_localize_marker_data = {"2":{"map_id":"1","marker_id":"2","title":"","address":"Cebu Institute of Technology University, Philippines","desc":"","pic":"","icon":"","linkd":"","lat":"10.294337","lng":"123.881411","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""},"3":{"map_id":"1","marker_id":"3","title":"","address":"10.294408364828472, 123.88111109146848","desc":"","pic":"","icon":"","linkd":"","lat":"10.294408","lng":"123.881111","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""},"4":{"map_id":"1","marker_id":"4","title":"","address":"10.294733062146443, 123.88050357112661","desc":"","pic":"","icon":"","linkd":"","lat":"10.2947330621","lng":"123.8805035711","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""},"5":{"map_id":"1","marker_id":"5","title":"","address":"10.295261161093451, 123.88080129632726","desc":"","pic":"","icon":"","linkd":"","lat":"10.2952611611","lng":"123.8808012963","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""},"6":{"map_id":"1","marker_id":"6","title":"","address":"10.295100678821445, 123.88025546679273","desc":"","pic":"","icon":"","linkd":"","lat":"10.2951006788","lng":"123.8802554668","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""},"7":{"map_id":"1","marker_id":"7","title":"","address":"10.295647437855216, 123.8798357010819","desc":"","pic":"","icon":"","linkd":"","lat":"10.2956474379","lng":"123.8798357011","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""},"8":{"map_id":"1","marker_id":"8","title":"","address":"10.296364007986623, 123.8805746496655","desc":"","pic":"","icon":"","linkd":"","lat":"10.296364008","lng":"123.8805746497","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""},"9":{"map_id":"1","marker_id":"9","title":"","address":"10.296412525697097, 123.87993762502447","desc":"","pic":"","icon":"","linkd":"","lat":"10.2964125257","lng":"123.879937625","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""},"10":{"map_id":"1","marker_id":"10","title":"","address":"10.295709018164835, 123.88094881782308","desc":"","pic":"","icon":"","linkd":"","lat":"10.2957090182","lng":"123.8809488178","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""},"11":{"map_id":"1","marker_id":"11","title":"","address":"10.29606357122869, 123.88036141404882","desc":"","pic":"","icon":"","linkd":"","lat":"10.2960635712","lng":"123.880361414","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""},"12":{"map_id":"1","marker_id":"12","title":"","address":"10.296237115477824, 123.87953261146322","desc":"","pic":"","icon":"","linkd":"","lat":"10.2962371155","lng":"123.8795326115","anim":"0","retina":"0","category":"","infoopen":"0","other_data":""}};
+var wpgmaps_localize_global_settings = {"wpgmza_settings_marker_pull":"0"};
+var wpgmaps_lang_km_away = "km away";
+var wpgmaps_lang_m_away = "miles away";
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cit.edu/v6/wp-content/cache/minify/b2c99.js"></script>
+
+<script type='text/javascript' src='https://stats.wp.com/e-201936.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.2.1',blog:'96386870',post:'9709',tz:'8',srv:'www.cit.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '96386870', '9709' ]);
+</script>
+<script id="tmpl-nf-layout" type="text/template">
+	<span id="nf-form-title-{{{ data.id }}}" class="nf-form-title">
+		{{{ ( 1 == data.settings.show_title ) ? '<h3>' + data.settings.title + '</h3>' : '' }}}
+	</span>
+	<div class="nf-form-wrap ninja-forms-form-wrap">
+		<div class="nf-response-msg"></div>
+		<div class="nf-debug-msg"></div>
+		<div class="nf-before-form"></div>
+		<div class="nf-form-layout"></div>
+		<div class="nf-after-form"></div>
+	</div>
+</script>
+
+<script id="tmpl-nf-empty" type="text/template">
+
+</script>
+<script id="tmpl-nf-before-form" type="text/template">
+	{{{ data.beforeForm }}}
+</script><script id="tmpl-nf-after-form" type="text/template">
+	{{{ data.afterForm }}}
+</script><script id="tmpl-nf-before-fields" type="text/template">
+    <div class="nf-form-fields-required">{{{ data.renderFieldsMarkedRequired() }}}</div>
+    {{{ data.beforeFields }}}
+</script><script id="tmpl-nf-after-fields" type="text/template">
+    {{{ data.afterFields }}}
+    <div id="nf-form-errors-{{{ data.id }}}" class="nf-form-errors" role="alert"></div>
+    <div class="nf-form-hp"></div>
+</script>
+<script id="tmpl-nf-before-field" type="text/template">
+    {{{ data.beforeField }}}
+</script><script id="tmpl-nf-after-field" type="text/template">
+    {{{ data.afterField }}}
+</script><script id="tmpl-nf-form-layout" type="text/template">
+	<form>
+		<div>
+			<div class="nf-before-form-content"></div>
+			<div class="nf-form-content {{{ data.element_class }}}"></div>
+			<div class="nf-after-form-content"></div>
+		</div>
+	</form>
+</script><script id="tmpl-nf-form-hp" type="text/template">
+	<label for="nf-field-hp-{{{ data.id }}}" aria-hidden="true">
+		{{{ nfi18n.formHoneypot }}}
+		<input id="nf-field-hp-{{{ data.id }}}" name="nf-field-hp" class="nf-element nf-field-hp" type="text" value=""/>
+	</label>
+</script>
+<script id="tmpl-nf-field-layout" type="text/template">
+    <div id="nf-field-{{{ data.id }}}-container" class="nf-field-container {{{ data.type }}}-container {{{ data.renderContainerClass() }}}">
+        <div class="nf-before-field"></div>
+        <div class="nf-field"></div>
+        <div class="nf-after-field"></div>
+    </div>
+</script>
+<script id="tmpl-nf-field-before" type="text/template">
+    {{{ data.beforeField }}}
+</script><script id="tmpl-nf-field-after" type="text/template">
+    <#
+    /*
+     * Render our input limit section if that setting exists.
+     */
+    #>
+    <div class="nf-input-limit"></div>
+    <#
+    /*
+     * Render our error section if we have an error.
+     */
+    #>
+    <div id="nf-error-{{{ data.id }}}" class="nf-error-wrap nf-error" role="alert"></div>
+    <#
+    /*
+     * Render any custom HTML after our field.
+     */
+    #>
+    {{{ data.afterField }}}
+</script>
+<script id="tmpl-nf-field-wrap" type="text/template">
+	<div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
+		<#
+		/*
+		 * This is our main field template. It's called for every field type.
+		 * Note that must have ONE top-level, wrapping element. i.e. a div/span/etc that wraps all of the template.
+		 */
+        #>
+		<#
+		/*
+		 * Render our label.
+		 */
+        #>
+		{{{ data.renderLabel() }}}
+		<#
+		/*
+		 * Render our field element. Uses the template for the field being rendered.
+		 */
+        #>
+		<div class="nf-field-element">{{{ data.renderElement() }}}</div>
+		<#
+		/*
+		 * Render our Description Text.
+		 */
+        #>
+		{{{ data.renderDescText() }}}
+	</div>
+</script>
+<script id="tmpl-nf-field-wrap-no-label" type="text/template">
+    <div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
+        <div class="nf-field-label"></div>
+        <div class="nf-field-element">{{{ data.renderElement() }}}</div>
+        <div class="nf-error-wrap"></div>
+    </div>
+</script>
+<script id="tmpl-nf-field-wrap-no-container" type="text/template">
+
+        {{{ data.renderElement() }}}
+
+        <div class="nf-error-wrap"></div>
+</script>
+<script id="tmpl-nf-field-label" type="text/template">
+	<div class="nf-field-label"><label for="nf-field-{{{ data.id }}}"
+	                                   id="nf-label-field-{{{ data.id }}}"
+	                                   class="{{{ data.renderLabelClasses() }}}">{{{ data.label }}} {{{ ( 'undefined' != typeof data.required && 1 == data.required ) ? '<span class="ninja-forms-req-symbol">*</span>' : '' }}} {{{ data.maybeRenderHelp() }}}</label></div>
+</script>
+<script id="tmpl-nf-field-error" type="text/template">
+	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
+</script><script id="tmpl-nf-form-error" type="text/template">
+	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
+</script><script id="tmpl-nf-field-input-limit" type="text/template">
+    {{{ data.currentCount() }}} {{{ nfi18n.of }}} {{{ data.input_limit }}} {{{ data.input_limit_msg }}}
+</script><script id="tmpl-nf-field-null" type="text/template">
+</script><script id="tmpl-nf-field-textbox" type="text/template">
+	<input
+			type="text"
+			value="{{{ data.value }}}"
+			class="{{{ data.renderClasses() }}} nf-element"
+			{{{ data.renderPlaceholder() }}}
+			{{{ data.maybeDisabled() }}}
+			{{{ data.maybeInputLimit() }}}
+
+			id="nf-field-{{{ data.id }}}"
+			<# if( ! data.disable_browser_autocomplete && -1 < [ 'city', 'zip' ].indexOf( data.type ) ){ #>
+				name="{{ data.custom_name_attribute || 'nf-field-' + data.id + '-' + data.type }}"
+				autocomplete="on"
+			<# } else { #>
+				name="{{ data.custom_name_attribute || 'nf-field-' + data.id }}"
+				{{{ data.maybeDisableAutocomplete() }}}
+			<# } #>
+
+			aria-invalid="false"
+			aria-describedby="nf-error-{{{ data.id }}}"
+			aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+			{{{ data.maybeRequired() }}}
+	>
+</script>
+<script id='tmpl-nf-field-input' type='text/template'>
+    <input id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" aria-invalid="false" aria-describedby="nf-error-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element" type="text" value="{{{ data.value }}}" {{{ data.renderPlaceholder() }}} {{{ data.maybeDisabled() }}}
+           aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+            {{{ data.maybeRequired() }}}
+    >
+</script>
+<script id="tmpl-nf-field-textarea" type="text/template">
+    <textarea id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" aria-invalid="false" aria-describedby="nf-error-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element" {{{ data.renderPlaceholder() }}} {{{ data.maybeDisabled() }}} {{{ data.maybeDisableAutocomplete() }}} {{{ data.maybeInputLimit() }}}
+        aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+        {{{ data.maybeRequired() }}}
+    >{{{ data.value }}}</textarea>
+</script>
+
+<!-- Rich Text Editor Templates -->
+
+<script id="tmpl-nf-rte-media-button" type="text/template">
+    <span class="dashicons dashicons-admin-media"></span>
+</script>
+
+<script id="tmpl-nf-rte-link-button" type="text/template">
+    <span class="dashicons dashicons-admin-links"></span>
+</script>
+
+<script id="tmpl-nf-rte-unlink-button" type="text/template">
+    <span class="dashicons dashicons-editor-unlink"></span>
+</script>
+
+<script id="tmpl-nf-rte-link-dropdown" type="text/template">
+    <div class="summernote-link">
+        URL
+        <input type="url" class="widefat code link-url"> <br />
+        Text
+        <input type="url" class="widefat code link-text"> <br />
+        <label>
+            <input type="checkbox" class="link-new-window"> {{{ nfi18n.fieldsTextareaOpenNewWindow }}}
+        </label>
+        <input type="button" class="cancel-link extra" value="Cancel">
+        <input type="button" class="insert-link extra" value="Insert">
+    </div>
+</script>
+<script id="tmpl-nf-field-submit" type="text/template">
+	<input id="nf-field-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element " type="button" value="{{{ data.label }}}" {{{ ( data.disabled ) ? 'disabled' : '' }}}>
+</script><script id='tmpl-nf-field-button' type='text/template'>
+    <button id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.classes }}} nf-element">
+        {{{ data.label }}}
+    </button>
+</script><script id="tmpl-nf-field-html" type="text/template">
+    {{{ data.value }}}
+</script>
+
+
+        <script>
+            var post_max_size = '260';
+            var upload_max_filesize = '256';
+            var wp_memory_limit = '40';
+        </script>
+        </body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+Minified using disk
+
+Served from: www.cit.edu @ 2019-09-04 13:19:16 by W3 Total Cache
+-->

@@ -1,0 +1,1861 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>UNIVERSITY OF SOUTHERN PHILIPPINES FOUNDATION</title>
+<meta name="description" content="">
+<meta name="author" content="">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="keywords" content="Universities in Cebu, 21st Century Learning, Online Course, Computer Studies, Pharmacy">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/animate.css">
+<link rel="stylesheet" href="css/font-awesome.min.css">
+<link rel="stylesheet" href="css/owl.theme.css">
+<link rel="stylesheet" href="css/owl.carousel.css">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126271624-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126271624-1');
+</script>
+
+
+<!-- Main css -->
+<link rel="stylesheet" href="css/style.css">
+
+<!-- Google Font -->
+<link href='https://fonts.googleapis.com/css?family=Poppins:400,500,600' rel='stylesheet' type='text/css'>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+<!--number-->
+
+
+
+</head>
+<body data-spy="scroll" data-offset="50" data-target=".navbar-collapse">
+
+
+<!-- =========================
+     PRE LOADER
+============================== -->
+<div class="preloader">
+
+	<div class="sk-rotating-plane"></div>
+
+</div>
+
+<?php
+function redirectTohttps() {
+    if ($_SERVER['HTTPS']!="on") {
+        $redirect= "https://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+        header("Location:$redirect"); 
+    } 
+}
+?>
+<!-- =========================
+     NAVIGATION LINKS
+============================== -->
+
+<header class="cd-header">
+	<div class="cd-logo"><a href="http://uspf.edu.ph/"><img src="images/logo-01.png" class="Logo"></a></div>
+
+	<nav>
+		<ul class="cd-Firstary-nav">
+			<li><a href="index.html" >About Us<span class="cd-menu-icon"></span></a></li>
+			<li><a href="generaladmission.html">Admissions</a></li>
+			<li><a href="academic.html">Academic Offerings</a></li>
+			<li><a href="research.html">Research</a></li>
+			<li><a href="services.html">Cloud Services</a></li>
+			<li><a href="alumni.html">Linkages</a></li>
+			<li><a href="contact.html">Contact Us</a></li>
+		</ul>
+	</nav> <!-- cd-nav -->
+
+	<a class="cd-primary-nav-trigger" href="#0">
+		<span class="cd-menu-text"></span><span class="cd-menu-icon"></span>
+	</a> <!-- cd-primary-nav-trigger -->
+</header>
+
+<nav>
+	<ul class="cd-primary-nav">
+			<div class="container">
+				<div class="row">
+
+					<h2>University of Southern Philippines Foundation</h2>
+					<div class="wow bounceIn col-md-12 col-sm-12">
+					</div>
+                            
+                            
+					<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6 animated" data-wow-delay="0.3s" style="visibility: visible;animation-delay: 0.3s;animation-name: fadeInUp;margin-top: 20px;margin-bottom: 35px;">
+						<h2>About Us</h2>
+						<a href="welcome.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Welcome</a><br/>
+						<a href="about.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">History</a><br/>
+						<a href="accreditation.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Accreditation</a><br/>
+						Board of Trustees<br/>
+						<a href="officials.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">University Official</a><br/>
+						<a href="learningatuspf.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Learning at USPF</a><br/>
+						<a href="ict.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Information Technology</a><br/>
+						<a href="contact.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Contact Us</a>
+					</div>
+
+					<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6 animated" data-wow-delay="0.3s" style="visibility: visible;animation-delay: 0.3s;animation-name: fadeInUp;margin-top: 20px;margin-bottom: 35px;">
+						<h2>Admissions</h2>
+						<a href="enrolmentprocess.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Enrollment Process</a><br/>
+						<a href="http://uspf.pinnacle.com.ph/uspf/applicants/" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Application Module</a><br/>
+						School Calendar<br/>
+						Scholarship Program<br/>
+						<a href="https://docs.google.com/forms/d/e/1FAIpQLSfOpxxFoDgar4Grkjs3MnN2pixgNsPFxifnrlTcd1DbpKR9Dw/viewform" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">CHED-UNIFAST Tertiary Education Subsidy (TES)</a><br/>
+					</div>
+
+					<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6 animated" data-wow-delay="0.3s" style="visibility: visible;animation-delay: 0.3s;animation-name: fadeInUp;margin-top: 20px;margin-bottom: 35px;">
+						<h2>Courses Offered</h2>
+						<a href="academic.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Programs and Courses</a><br/>
+						<h2>Research</h2>
+						<a href="research.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Research Works</a><br/>
+						<a href="research.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Authors</a><br/>
+					</div>
+
+					<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6 animated" data-wow-delay="0.3s" style="visibility: visible;animation-delay: 0.3s;animation-name: fadeInUp;margin-top: 20px;margin-bottom: 35px;">
+						<h2>Data Privacy Policy</h2>
+						<a href="privacypolicyandtermsofagreement.pdf" target="_BLANK" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">For Applicants, Students, and Alumni</a><br/>
+						<a href="websitepolicy.pdf" target="_BLANK" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Privacy Policy for Website</a><br/>
+					</div>
+
+					<div class="wow bounceIn col-md-12 col-sm-12">
+					</div>
+
+					<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6 animated" data-wow-delay="0.3s" style="visibility: visible;animation-delay: 0.3s;animation-name: fadeInUp;margin-top: 20px;margin-bottom: 35px;">
+						<h2>Cloud Services</h2>
+						Campus Tour<br/>
+						Google Earth Video<br/>
+						<a href="http://uspf.pinnacle.com.ph/uspf/students/" target="_blank" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Student Module</a><br/>
+						<a href="http://uspf.pinnacle.com.ph/uspf/faculty/" target="_blank" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Faculty Module</a><br/>
+						<a href="https://forms.gle/wuKsff2sJVYNQYTa6" target="_blank" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Guidance Appointment Scheduler</a><br/>
+					</div>
+
+					<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6 animated" data-wow-delay="0.3s" style="visibility: visible;animation-delay: 0.3s;animation-name: fadeInUp;margin-top: 20px;margin-bottom: 35px;">
+						<h2>Alumni</h2>
+						<a href="alumni.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">All About Alumni and External Relations</a><br/>
+						<a href="http://uspf.edu.ph/alexofficialpage/" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Alumni Website</a><br/>
+					</div>
+
+					<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6 animated" data-wow-delay="0.3s" style="visibility: visible;animation-delay: 0.3s;animation-name: fadeInUp;margin-top: 20px;margin-bottom: 35px;">
+						<h2>Contact Us</h2>
+						<a href="contact.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Contact for Lahug Campus</a><br/>
+						<a href="contact.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Contact for Mabini Campus</a><br/>
+					</div>
+
+					<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6 animated" data-wow-delay="0.3s" style="visibility: visible;animation-delay: 0.3s;animation-name: fadeInUp;margin-top: 20px;margin-bottom: 35px;">
+						<h2>Linkages</h2>
+						<a href="http://overseasvidhya.com" target="_blank" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Overseas Vidhya</a><br/>
+						<a href="http://uspf.instructure.com" target="_blank" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Canvas LMS</a><br/>
+						<a href="https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin" target="_blank" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Google</a><br/>
+					</div>
+
+
+
+
+				</div>
+
+			</div>
+
+	</ul>
+</nav></div>
+</div>
+
+<!-- =========================
+    INTRO SECTION
+============================== -->
+<section id="intro" class="parallax-section">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-12 col-sm-12">
+			    
+			   
+				<h3 class="wow bounceIn" data-wow-delay="0.9s">
+					<img src="images/panthers-01.png" class="responsive" width="250" height="200" style="width:200px;height:auto;">
+				</h3>
+              
+				<div class="container1">
+				  <div class="text"></div>
+				</div>
+          
+
+				<a href="https://www.messenger.com/t/235025053573085" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="2.3s">MESSAGE US ON FACEBOOK</a>
+				<a href="http://uspf.pinnacle.com.ph/uspf/applicants/" class="btn btn-lg btn-default smoothScroll wow fadeInUp" data-wow-delay="2.3s">APPLY ONLINE NOW</a><br/>
+				<a href="websitepolicy.pdf" target="_BLANK" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2.3s">Data Privacy Policy</a><br/>
+			    <!--
+				<ul class="social-icon1">
+					<li><a href="#" class="fa fa-facebook wow fadeInUp" data-wow-delay="1s"></a></li>
+					<li><a href="#" class="fa fa-twitter wow fadeInUp" data-wow-delay="1.3s"></a></li>
+					<li><a href="#" class="fa fa-dribbble wow fadeInUp" data-wow-delay="1.6s"></a></li>
+					<li><a href="#" class="fa fa-behance wow fadeInUp" data-wow-delay="1.9s"></a></li>
+					<li><a href="#" class="fa fa-google-plus wow fadeInUp" data-wow-delay="2s"></a></li>
+				</ul>
+				-->
+			</div>
+
+			<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'></script>
+
+
+
+			<script  src="js/index.js"></script>
+
+		</div>
+	</div>
+</section>
+
+<!-- =========================
+    OVERVIEW SECTION
+============================== -->
+<!-- =========================
+    VIDEO SECTION
+============================== -->
+
+
+<!-- =========================
+    DETAIL SECTION
+============================== -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+<script src="jquery.counterup.min.js"></script>
+<script>
+	 jQuery(document).ready(function( $ ) {
+			 $('.counter').counterUp({
+					 delay: 1,
+					 time: 1000
+			 });
+	 });
+</script>
+
+<section id="detail" class="parallax-section">
+	<div class="container">
+		<div class="row">
+            <br/>
+			<div class="wow fadeInLeft col-md-4 col-sm-4" data-wow-delay="0.3s">
+				<i class="fa fa-group"></i>
+
+
+				<h3> <span class="counter">6000 </span>+&nbsp;Enrollees</h3>
+				<p>Home to more than 8000 culturally diverse enrollees both local and international students</p>
+			</div>
+
+			<div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.6s">
+				<i class="fa fa-university"></i>
+				<h3> <span class="counter">24 </span>+&nbsp; Academic Programs</h3>
+				<p>DepEd, CHED and TESDA recognized programs with PACUCOA Accreditation</p>
+			</div>
+
+			<div class="wow fadeInRight col-md-4 col-sm-4" data-wow-delay="0.9s">
+				<i class="fa fa-mortar-board"></i>
+				<h3> <span class="counter">50 </span>+&nbsp; Scholars</h3>
+				<p>Philanthropic Gateway for Academic, Athletic, and Cultural Scholars</p>
+			</div>
+
+		</div>
+	</div>
+</section>
+
+<section id="whybackground" class="parallax-section">
+	<div class="container">
+		<div class="row">
+
+			<div class="wow fadeInUp col-md-6 col-sm-10" data-wow-delay="1.3s">
+				<h2>Why study at USPF</h2>
+				<ul style="font-size:16px;">
+					<li margin-bottom: 10px;>10 PACUCOA Accredited Programs</li>
+					<li>2 Candidate status for PACUCOA Accreditation</li>
+					<li>Industry Seasoned Teachers</li>
+					<li>Accessible, Safe and Secure Campus</li>
+					<li>International Partnership and Linkages</li>
+					<li>Highly Competitive Graduates</li>
+					<li>1st Unbreakable University Internet in the Philippines with an estimated of 100Mbps per User</li>
+					<li>Equipped Instructional Media Center</li>
+					<li>International Students and Partner-Friendly School</li>
+					<li>Alternative Learning Programs</li>
+					<li>Frontrow of New and Emerging Technologies</li>
+				</ul>
+			</div>
+
+		</div>
+	</div>
+</section>
+
+
+<section id="welcomepresident" class="parallax-section">
+	<div class="container">
+		<div class="row">
+
+			<div class="wow fadeInLeft col-md-offset-1 col-md-5 col-sm-8" data-wow-delay="0.9s">
+				<h3>Welcome Message<br/>
+Office of the University President
+</h3>
+				<p>
+			University of Southern Philippines Foundation (USPF) extends its warm welcome to you as it
+begins the new Academic Year 2019-2020 and appreciates your interest, either as visitor,
+potential student, student, alumna or alumnus, to know more about the University.<br/><br/>
+USPF takes pride of its continuing existence and sustaining itself as an educational institution
+since 1927 and as a university since 1949 that has produced tens of thousands of responsible
+citizens and productive professionals who contributed hugely to their respective communities.<br/><br/>
+Per its vision, “USPF is a 21st century transformative learning environment of global lifelong
+learners,” with management, staff and faculty who commit themselves to its mission in
+providing “a value-laden quality education that nurtures ethical, creative, competent, and social
+responsible individuals.”. USPF aims to transform itself “into a dynamic high-tech, high-touch
+learning organization in keeping with global standards in education and workplace
+requirements.”<br/><br/>
+In line with the vision, mission and goal of the institution, USPF has provided and maintained a
+campus-wide WIFI connection which expands easy access to internet and web-based on line
+resources for use by students faculty and researchers, as well as the university-wide use of its
+learning management system (LMS), particularly CANVAS, and which provides an on-line
+communication between the university, personnel, faculty, students and their parents. USPF
+has achieved to have majority of its curricular programs PACUCOA accredited and is now
+preparing for further visits this year and next year to improve further their accreditation levels.
+USPF is also preparing for the Institutional Sustainability Assessment (ISA) to be conducted by
+CHED in mid July, and the establishment of its Quality Management System (QMS) for better
+strategic management and operation of the University, which is an integral part of the
+preparations for ISO certification which the current administration will propose to the USPF
+Board of Trustees to pursue.<br/><br/>
+To prepare for the opening of the new academic year, USPF had embarked on the process of
+retooling and sharpening the administrators’ management skills and the faculty’s teaching
+competencies and strategies in a three-week in-service training.<br/><br/>
+The historic Mabini campus houses the newly renovated Jose Rizal Museum with its original
+memorabilia of the national hero which is now in its 2 nd phase, with the upgraded and brighter
+lobby and repainted school buildings that pre-school, kindergarten, elementary, junior high
+school and senior high school students and alumni can be truly proud of.<br/><br/>
+In its more expansive and green Lahug campus, the completion of the new machine shop for
+the College of Engineering and Architecture, and the Eriberto S. Jueco Sr. Building that houses
+the Senior High School, College of Pharmacy and College of Social Work with a 21 st century
+
+library environment through its Learning Commons as well as science laboratories for physics,
+chemistry, pharmaceutics, and biology and microbiology including the research, quality control
+and instrumentation rooms, will provide outstanding instruction and outcomes-based student
+learning.<br/><br/>
+USPF is now offering the recently CHED-approved Expanded Tertiary Education Equivalency and
+Accreditation (ETEEAP) in business management courses that offers an opportunity to
+individuals to have their extensive commercial, business, management and corporate
+knowledge, experience and skills learned from relevant work to be recognized, credited and
+given equivalences, and complete the other required subjects, thus obtaining an appropriate
+college degree among the various business management programs in a relatively shorter
+period. In addition to the current Graduate School programs in Education and Social Work, the
+Master of Business Administration (MBA) course will also be offered starting this school year.
+Applications for the opening of two new courses in BS Criminology and BS in Library Science
+next academic year are now being prepared for submission to CHED.<br/><br/>
+In line with its thrust to provide quality education, after one semester of preparation and initial
+implementation, USPF will commence this First Semester the full implementation of the
+institutional Board and Bar Operations Program that aims to effectively and intensively prepare
+the students of courses with government licensure examinations from day one to the last day
+of their college studies to pass the board and bar examinations. The complete positive effect of
+this program will be felt four years from now all across the courses in Social Work, Nursing,
+Education, Engineering, Architecture, Accountancy and Law.<br/><br/>
+All of these and other developments, which are proof of our commitment to sustain the legacy
+of the USPF Founder, Don Agustin Jereza, will definitely enhance and significantly promote the
+improving quality of education the University is giving to its students, providing them
+opportunities to do more and be more in everything that they do in a broader and engaging
+pedagogical environment while they are in its campuses and when they will face the challenges
+of life after leaving the hallowed grounds of USPF.<br/><br/>
+Indeed, USPF is simply a great place for students to build and realize their dreams, and prepare
+them, having been imbued with the core values of professionalism, integrity, excellence and
+social responsibility as well as possessing the essential soft and hard skills, for the challenging
+life ahead.<br/><br/>
+For USPF and all its stakeholders, may the Academic Year 2019-2020 be abundantly blessed by
+the Almighty.       <br/><br/>          
+                        
+                        
+                        
+                        </p>
+
+<h2>ATTY. PAULINO A. YABAO</h2>
+University President
+			</div>
+
+		</div>
+	</div>
+</section>
+
+
+
+
+<!-- =========================
+    PROGRAM SECTION
+============================== -->
+<section id="program" class="parallax-section">
+	<div class="container">
+		<div class="row">
+
+			<div class="wow fadeInUp col-md-12 col-sm-12" data-wow-delay="0.6s">
+				<div class="section-title">
+					<h2>News and Updates</h2>
+					<p>Subsribe to our News and Updates at University of Southern Philippines Foundation</p>
+				</div>
+			</div>
+
+			<div class="wow fadeInUp col-md-10 col-sm-10" data-wow-delay="0.9s">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+					<li class="active"><a href="#fday" aria-controls="fday" role="tab" data-toggle="tab">University News</a></li>
+					<li><a href="#sday" aria-controls="sday" role="tab" data-toggle="tab">Research & Development</a></li>
+					<li><a href="#tday" aria-controls="tday" role="tab" data-toggle="tab">ICT News & Updates</a></li>
+					<li><a href="#aday" aria-controls="tday" role="tab" data-toggle="tab">Administration News</a></li>
+					<li><a href="#acday" aria-controls="tday" role="tab" data-toggle="tab">Academic Updates</a></li>
+				</ul>
+				<!-- tab panes -->
+				<div class="tab-content">
+
+
+					<div role="tabpanel" class="tab-pane active" id="fday">
+					    
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/600233130385607/?type=3&theater">	<img src="images/News/65212937_602054626870124_1213995003253096448_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> June 15, 2019 09:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> Brgy. Buhisan, Cebu City</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/600233130385607/?type=3&theater">
+Tree Planting and Growing
+
+</a></h3>
+							<h4>By IMO</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>Because USPF cares for Mother Earth...<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/600233130385607/?type=3&theater">Click the Link for more details</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/600233130385607/?type=3&theater">	<img src="images/panthers-01.png" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> June 15, 2019 09:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> University of Southern Philippines Foundation</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/600233130385607/?type=3&theater">
+Certified Public Accountants | May 2019
+
+</a></h3>
+							<h4>By IMO</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>Congratulations to our new Certified Public Accountants for passing the May 2019 CPA Licensure Examination<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/600233130385607/?type=3&theater">Click the Link for more details</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfcelar/photos/a.1683178935306292/2133045176986330/?type=3&theater">	<img src="images/News/64297917_2133045183652996_3010715183359197184_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> June 15, 2019 09:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> USPF Center for External Linkages & Alumni Relations</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfcelar/photos/a.1683178935306292/2133045176986330/?type=3&theater">
+USPFAA Inc officers and trustees were sworn into office tonight
+
+</a></h3>
+							<h4>By USPF Center for External Linkages & Alumni Relations</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>USPFAA Inc officers and trustees were sworn into office tonight, 15th of June 2019 at Marco Polo Plaza Hotel, Cebu City.<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfcelar/photos/a.1683178935306292/2133045176986330/?type=3&theater">Click the Link for more details</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+				
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/593290254413228/?type=3&theater">	<img src="images/News/64628874_593290257746561_5288512812044255232_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> June 13, 2019 09:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> University of Southern Philippines Foundation</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/593290254413228/?type=3&theater">
+USPF Graduate School Program takes on Blended Learning! 
+
+</a></h3>
+							<h4>By IMO</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>In its continued pursuit of becoming a dynamic high-tech, high-touch learning organization and in keeping with global standards in education and workplace requirements, the University of Southern Philippines Foundation (USPF)<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/593290254413228/?type=3&theater">Click the Link for more details</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfict/posts/329944417698635?__xts__[0]=68.ARBT4-0Vuajxy0uqlsOcBExegVtowKSn6QxUIWHXzdEEQoZDy6i1s1c5LiXnyJnIS30FUCQ4Y19li9WvOxR9zghMz8xlkjxdWd_YSHrjm6fspsRwsQlB4-PW4Z_EO8t3vPUFIwzLcCc_Y4hc5XYykbsrpyxMGGR0FeLNMEcLDVaQ41VNYMej4YUncOvZ8VHExUDNcJm0KVmg7L2XlFIyyGgfbg1_r-CNXcJXII94eyP0f2gYOSnS7QJc_d08E0cx90mqC8Ck6-yQehoC3m4AVYKCKsGTHHYuR0u1dpINZq44XspktGRA5rrSAiwgbL0DDAaqNMhhhhaUh3jCSE8XfohOMkKhsHlqzePIZxX6LoLJ1cxH0Ib5bLGUbgXBsv7Hzq45IHxZUiZ7CDGGZDcB4byO9Pq7qToCXMhZQAWKe_ybWMVdhB1COb9OgplCe8NuVJwqLDikqK-oCnao_Ud_SGqBC3JnQhpZ-zOl_MhM4JSNv8VF5nU&__tn__=C-R">	<img src="images/News/61435311_329944287698648_7058975035276394496_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> May 29,2019 09:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> UNIVERSITY OF SOUTHERN PHILIPPINES FOUNDATION</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfict/posts/329944417698635?__xts__[0]=68.ARBT4-0Vuajxy0uqlsOcBExegVtowKSn6QxUIWHXzdEEQoZDy6i1s1c5LiXnyJnIS30FUCQ4Y19li9WvOxR9zghMz8xlkjxdWd_YSHrjm6fspsRwsQlB4-PW4Z_EO8t3vPUFIwzLcCc_Y4hc5XYykbsrpyxMGGR0FeLNMEcLDVaQ41VNYMej4YUncOvZ8VHExUDNcJm0KVmg7L2XlFIyyGgfbg1_r-CNXcJXII94eyP0f2gYOSnS7QJc_d08E0cx90mqC8Ck6-yQehoC3m4AVYKCKsGTHHYuR0u1dpINZq44XspktGRA5rrSAiwgbL0DDAaqNMhhhhaUh3jCSE8XfohOMkKhsHlqzePIZxX6LoLJ1cxH0Ib5bLGUbgXBsv7Hzq45IHxZUiZ7CDGGZDcB4byO9Pq7qToCXMhZQAWKe_ybWMVdhB1COb9OgplCe8NuVJwqLDikqK-oCnao_Ud_SGqBC3JnQhpZ-zOl_MhM4JSNv8VF5nU&__tn__=C-R">
+1st Certified Apple Teacher
+
+</a></h3>
+							<h4>By Information and Communications Technology</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>Congratulations to our very own Mr. Boi Archivald Ranay for a well deserved recognition!!! 1st Apple Certified Teacher of USPF<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfict/posts/329944417698635?__xts__[0]=68.ARBT4-0Vuajxy0uqlsOcBExegVtowKSn6QxUIWHXzdEEQoZDy6i1s1c5LiXnyJnIS30FUCQ4Y19li9WvOxR9zghMz8xlkjxdWd_YSHrjm6fspsRwsQlB4-PW4Z_EO8t3vPUFIwzLcCc_Y4hc5XYykbsrpyxMGGR0FeLNMEcLDVaQ41VNYMej4YUncOvZ8VHExUDNcJm0KVmg7L2XlFIyyGgfbg1_r-CNXcJXII94eyP0f2gYOSnS7QJc_d08E0cx90mqC8Ck6-yQehoC3m4AVYKCKsGTHHYuR0u1dpINZq44XspktGRA5rrSAiwgbL0DDAaqNMhhhhaUh3jCSE8XfohOMkKhsHlqzePIZxX6LoLJ1cxH0Ib5bLGUbgXBsv7Hzq45IHxZUiZ7CDGGZDcB4byO9Pq7qToCXMhZQAWKe_ybWMVdhB1COb9OgplCe8NuVJwqLDikqK-oCnao_Ud_SGqBC3JnQhpZ-zOl_MhM4JSNv8VF5nU&__tn__=C-R">Click the Link for more details</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+					    
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/pcb.583852035357050/583849328690654/?type=3&theater">	<img src="images/News/61117671_583849332023987_3062582239217844224_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> May 24,2019 09:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> UNIVERSITY OF SOUTHERN PHILIPPINES FOUNDATION | Rizaliana Museum</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/pcb.583852035357050/583849328690654/?type=3&theater">
+GABII SA KABILIN 2019
+
+</a></h3>
+							<h4>By IMO</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>Gabii Sa Kabilin 2019 saw many visitors checking out the Rizal Museum at USPF Mabini Campus. Photo shows visitors who continued to pour into the campus at 10:30 PM.<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/pcb.583852035357050/583849328690654/?type=3&theater">Click the Link for more details</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+					    
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/580707969004790?__xts__%5B0%5D=68.ARA5GEaPeTi7ii69RzhRiVE1HuBvk6YszSeO1cF-FRm6vs5L7ffhosAeVFjwRU2Q_bnfcRnuqJWQFS5MPuOqp-LK4fTYZylRUQAarcxkHtK7bAbWc3ZOamyjhbcTCXTX7p1JwH5qIUYK8Hv5DbKw40vWPqM_oTai4qMDd1FKq5taRZPBHvHxrlNFgvdQjbmY7scBbXXoa47SGWedxI3QUxuxTbv-WCDW0SatwvbOVwnb7r2kleSmPcU7lKbFbEmR4dQD7P0O9V2TNk_O-S4vGdJeiCWGcxzhqUp0n4Ws-r0GcZ81uFrEv79mRMnNLACwybpx2JzBz2SMrnZqE3tU7xE&__tn__=K-R">	<img src="images/News/19800101000809 .jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> May 21,2019 03:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> UNIVERSITY OF SOUTHERN PHILIPPINES FOUNDATION</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/580707969004790?__xts__%5B0%5D=68.ARA5GEaPeTi7ii69RzhRiVE1HuBvk6YszSeO1cF-FRm6vs5L7ffhosAeVFjwRU2Q_bnfcRnuqJWQFS5MPuOqp-LK4fTYZylRUQAarcxkHtK7bAbWc3ZOamyjhbcTCXTX7p1JwH5qIUYK8Hv5DbKw40vWPqM_oTai4qMDd1FKq5taRZPBHvHxrlNFgvdQjbmY7scBbXXoa47SGWedxI3QUxuxTbv-WCDW0SatwvbOVwnb7r2kleSmPcU7lKbFbEmR4dQD7P0O9V2TNk_O-S4vGdJeiCWGcxzhqUp0n4Ws-r0GcZ81uFrEv79mRMnNLACwybpx2JzBz2SMrnZqE3tU7xE&__tn__=K-R">
+USPF CHRISTENS ITS NEW FACILITIES
+
+</a></h3>
+							<h4>By Information and Communications Technology</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>The University of Southern Philippines Foundation (USPF) marked another milestone when it
+formally inaugurated the Eriberto S. Jueco, Sr. Building on May 21, 2019. The event was commenced with a Holy Mass followed by the Ribbon-Cutting and Blessing Rites for the new building and the new Expanded Tertiary Education Equivalence and Accreditation Program (ETEEAP) Office adjacent to it. The inauguration program was highlighted by the unveiling of
+the portrait of the late Mr. Jueco, Sr. and inspiring messages from USPF President Atty. Paulino
+A. Yabao and by Mrs. Anita Jueco-Rosal, Mr. Jueco Sr.’s youngest daughter. Mrs. Aurora Entece-
+Briones, a former student of the late
+USP Mabini principal also shared her
+fond memories and impressions of
+her mentor.<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/580707969004790?__xts__%5B0%5D=68.ARA5GEaPeTi7ii69RzhRiVE1HuBvk6YszSeO1cF-FRm6vs5L7ffhosAeVFjwRU2Q_bnfcRnuqJWQFS5MPuOqp-LK4fTYZylRUQAarcxkHtK7bAbWc3ZOamyjhbcTCXTX7p1JwH5qIUYK8Hv5DbKw40vWPqM_oTai4qMDd1FKq5taRZPBHvHxrlNFgvdQjbmY7scBbXXoa47SGWedxI3QUxuxTbv-WCDW0SatwvbOVwnb7r2kleSmPcU7lKbFbEmR4dQD7P0O9V2TNk_O-S4vGdJeiCWGcxzhqUp0n4Ws-r0GcZ81uFrEv79mRMnNLACwybpx2JzBz2SMrnZqE3tU7xE&__tn__=K-R">Click the Link for more details</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+					    
+					    
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/559871431088444">	<img src="images/News/IMG_0173.JPG" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> April 8,2019 09:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> UNIVERSITY OF SOUTHERN PHILIPPINES FOUNDATION</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/559871431088444">
+Commission on Higher Education
+
+Technical Committee for Business Administration Entrepreneurship and Office Administration (TCBAEOA)
+
+</a></h3>
+							<h4>By Information and Communications Technology</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>Technical Committee for Business Administration Entrepreneurship and Office Administration (TCBAEOA)
+
+Antonio M. Lopez, Co-Chair
+Prof. Leonardo Quinito, Member, TCBAEOA
+Ms. Lucita B. Mejia, Project Technical Staff, OPSD<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/559871431088444">Click the Link for more details</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+					    
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://hilo.hawaii.edu/conferences/icmfs-2019/?fbclid=IwAR1RTsZErQL9k1O5cJ8y-8DixnZyfiGDq4vxdPpCcCuLHt5ibraMfFf5nfc">	<img src="images/News/safe_image.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> February 10,2019 12:50 PM</span>
+								<span><i class="fa fa-map-marker"></i> UNIVERSITY OF HAWAI`I | HILO</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://hilo.hawaii.edu/conferences/icmfs-2019/?fbclid=IwAR1RTsZErQL9k1O5cJ8y-8DixnZyfiGDq4vxdPpCcCuLHt5ibraMfFf5nfc">
+3rd International Conference on Multidisciplinary Filipino Studies</a></h3>
+							<h4>By UNIVERSITY OF HAWAI`I | HILO</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>University of Southern Philippines Foundation, Cebu City, Philippines in partnership with University of Hawai?i at Hilo Hawai?i, United States of America will Host the 3rd International Conference on Multidisciplinary Filipino Studies on November 22-24, 2019<br/>
+
+										<a target="_blank" href="https://hilo.hawaii.edu/conferences/icmfs-2019/?fbclid=IwAR1RTsZErQL9k1O5cJ8y-8DixnZyfiGDq4vxdPpCcCuLHt5ibraMfFf5nfc">Click the Link for more details</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+						
+					     <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="images/News/Grand Alumni Homecoming 2019 (1).JPG">	<img src="images/News/Grand-Alumni-Homecoming-2019-(2).jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> February 10,2019 4:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> BALLROOM 1 & 2 GRAND CONVENTION CENTER, CEBU CITY</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/groups/1573347019443756/">
+GRAND ALUMNI HOMECOMING 2019</a></h3>
+							<h4>By CELAR</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>REMINISCE. RECONNECT. RELIVE<br/>
+
+										<a target="_blank" href="https://www.facebook.com/groups/1573347019443756/">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+					    
+					    
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/526554404420147">	<img src="images/News/50916969_526554297753491_3357302306658844672_n.png" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> January 28, 2019 11:28 AM</span>
+								<span><i class="fa fa-map-marker"></i> USPF Board Room</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/526554404420147">
+USPF and NILS-ESL Ink 5-year Partnership Renewal today</a></h3>
+							<h4>By Mrs. Grace Clabesillas IMO</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>UNewtype International Language School, Inc. ESL led by its COO Miss Yuko Tsushima has just renewed its Memorandum of Understanding with USPF English Language Training led by Ms. Grace Clabesillas for another 5 years of fruitful partnership.<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/526554404420147">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/videos/340894609822338/">	<img src="images/panthers-01.png" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> November 16, 2018 11:28 AM</span>
+								<span><i class="fa fa-map-marker"></i> De La Salle University Cavite</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/videos/340894609822338/">
+ICMF 2018 | De La Salle University Cavite</a></h3>
+							<h4>By Dr.Kathleen B. Solon, Lester B. Gastala and Boi Archievald A. Ranay, ICT | IMO</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>USPF AVP for ICMF 2019 presented at De La Salle University Cavite <br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/videos/340894609822338/">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						<div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/cebudailynews/photos/a.10150869125974589/10157101995329589/?type=3&theater">	<img src="images/News/45733487_10157101995364589_2896439641349554176_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> November 10, 2018 12:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> USPF LAHUG</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/cebudailynews/photos/a.10150869125974589/10157101995329589/?type=3&theater">
+Champion CESAFI 2018 Boys' Volleyball | USPF Baby Panthers</a></h3>
+							<h4>By Cebu Daily News</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>Congratulations University of Southern Philippines Foundation, the 2018 CESAFI boys volleyball champions.<br/>
+
+										<a target="_blank" href="https://www.facebook.com/cebudailynews/photos/a.10150869125974589/10157101995329589/?type=3&theater">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/pcb.480796888995899/480796565662598/?type=3&theater">	<img src="images/News/44701913_480796572329264_4739315760516562944_o.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> October 22, 2018 9:42 PM</span>
+								<span><i class="fa fa-map-marker"></i> USPF LAHUG</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/pcb.480796888995899/480796565662598/?type=3&theater">
+5th Consultative Meeting on the Philippine Qualifications Framework</a></h3>
+							<h4>By Lester B. Gastala</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+5th Consultative Meeting on the Philippine Qualifications Framework for the Social Work Profession with PRC Board of Examiners, DSWD, PASWEI, NASWEI and CHED. <br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/pcb.480796888995899/480796565662598/?type=3&theater">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/479007939174794/?type=3&theater">	<img src="images/News/44159421_479007942508127_2161384803574743040_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> October 18, 2018 12:54 PM</span>
+								<span><i class="fa fa-map-marker"></i> USPF LAHUG</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/479007939174794/?type=3&theater">
+BARANGAY HIPODROMO FIRE VICTIMS 286 FAMILIES RECEIVES RELIEF GOODS FROM USPF ELEMENTARY SCHOOL LAHUG CAMPUS THROUGH ITS COMMUNITY OUTREACH PROGRAM</a></h3>
+							<h4>By Dr. Alvin E. Zamora, IMO</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>Akong dakong pasalamat ni Dr. Elaine May S. Patino ug sa tanang magtutudlo sa USPF-Elementary School Lahug Campus sa inyong gipadangat nga hinabang ug donasyon alang kanamong nasunugan ug na biktima sa maung katalagman. <br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/479007939174794/?type=3&theater">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/477998882609033/?type=3&theater">	<img src="images/News/43770574_277578892963935_2569858557319053312_n-01.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> October 15, 2018 1:54 PM</span>
+								<span><i class="fa fa-map-marker"></i> USPF LAHUG</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/477998882609033/?type=3&theater">
+TESDA Certified - Travel Services NCII Passers</a></h3>
+							<h4>By Grace Clabesillas, IMO</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>CONGRATULATIONS!<br/>
+
+TESDA Certified - Travel Services NCII Passers
+Assessment Center : International Skills Republic Academy, Inc. (ISRA)
+Date : October 11, 2018<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/477998882609033/?type=3&theater">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/475940546148200">	<img src="images/News/43452102_475940076148247_1771240097644019712_o.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> October 9, 2018 12:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> BRGY. HIPPODROMO</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/475940546148200">
+USPF JUNIOR HIGH SCHOOL DONATES RELIEF GOODS TO FIRE VICTIMS OF BARANGAY HIPODROMO</a></h3>
+							<h4>By Mr. Lester B. Gastala</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>A fire alarm was responded by fire investigators of Mabolo Fire Station at round 1510H. It was reported through a telephone call via Florian by a certain Chai Forea that there was a fire alarm at Sitio Nalcaba and Cahipa, Brgy. Hipodromo, Cebu City. Involved were residential houses mostly made up of light materials.<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/475940546148200">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+					    
+					    
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/468612363547685?__tn__=K-R">	<img src="images/News/42133567_468612343547687_6502554157994475520_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> October 1, 2018 12:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> USPF BOARD ROOM</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/468612363547685?__tn__=K-R">Discussion on Short Study and Dual Degree Program.</a></h3>
+							<h4>By Press Conference</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>A good SIGNAL of Academic opportunity and partnership. The CUE: Commission on Higher Education, University of Southern Philippines Foundation, and Education Centre of Australia. Discussion on Short Study and Dual Degree Program.<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/468612363547685?__tn__=K-R">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+					    
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.sunstar.com.ph/article/1763606/Cebu/Sports/USPF-panthers-eye-4TH-straight-win">	<img src="images/News/41510385_465620307180224_1720142085744492544_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> September 13, 2018 12:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> CESAFI 2018</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.sunstar.com.ph/article/1763606/Cebu/Sports/USPF-panthers-eye-4TH-straight-win">USPF Panthers eye 4TH Straight Win</a></h3>
+							<h4>By Sunstar</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>ThE unbeaten University of Southern Philippines-Foundation (USP-F) Panthers will gun for the solo lead when they face the University of San Jose-Recoletos (USJ-R) Jaguars in the Cebu Schools Athletic Foundation Inc. (Cesafi) men’s division basketball tournament today in the Cebu Coliseum.<br/>
+
+										<a target="_blank" href="https://www.sunstar.com.ph/article/1763606/Cebu/Sports/USPF-panthers-eye-4TH-straight-win">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+					    
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/465603617181893/?type=3&theater">	<img src="images/News/41512437_465603623848559_8201142835127255040_o.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> September 13, 2018 12:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> UNIVERSITY OF SOUTHERN PHILIPPINES FOUNDATION</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/465603617181893/?type=3&theater">USPF and PINOYCARE VISA
+Orientation for Graduating USPians
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>USPF and PINOYCARE VISA
+Orientation for Graduating USPians<br/>
+September 13 (Thurs)<br/>
+3:00-5:00 PM
+@Main Function Room, USPF Lahug campus<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/465603617181893/?type=3&theater">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+					    
+					    
+					    
+					     <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/462726734136248/?type=3&theater">	<img src="images/News/40608121_462726737469581_5887042459229224960_n.png" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> September 3, 2018 12:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> UNIVERSITY OF SOUTHERN PHILIPPINES FOUNDATION</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/462726734136248/?type=3&theater">MOST OUTSTANDING ATHLETE - Milo Little Olympics 2018</a></h3>
+							<h4>By Boi Archievald A. Ranay</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>Congratulations JUNIOR HIGH SCHOOL LAHUG CAMPUS<br/>
+
+JULIENNE REY METANTE<br/>
+GOLD MEDALIST<br/>
+
+MOST OUTSTANDING ATHLETE<br/>
+KARATEDO (Secondary Girls)<br/>
+Milo Little Olympics 2018<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/462726734136248/?type=3&theater">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/462714094137512/?type=3&theater">	<img src="images/News/40683801_462714097470845_6898504525838024704_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> September 3, 2018 12:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> UNIVERSITY OF SOUTHERN PHILIPPINES FOUNDATION</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/462714094137512/?type=3&theater">First Runner-Up -  - Milo Little Olympics 2018</a></h3>
+							<h4>By Boi Archievald A. Ranay</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>Congratulations to JUNIOR HIGH -LAHUG CAMPUS MS. MILO 2018 - <br/>SHANICE HEART M. YSMAEL 
+For Winning the following awards:<br/>
+
+- FIRST RUNNER-UP<br/>
+- BEST IN PERSONALITY<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922/462714094137512/?type=3&theater">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+					    
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.240329476375976/460698644339057/?type=3&theater">	<img src="images/News/40281899_460698647672390_1300757710614036480_o.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> August 28, 2018 12:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> USPF THEATRE</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.240329476375976/460698644339057/?type=3&theater">USPF MEMORIAL LECTURE</a></h3>
+							<h4>By Dr. Kathleen B. Solon-Villanueza</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>(L-R) University President Atty. Paulino A. Yabao, Trustee Mrs. Lourdes Jereza, Keynote Speaker Ms. Patricia C. Dalmas, Board of Trustees Chair Mrs. Teresita Villa Ponce, Tribute Speakers Dr. Vicente L. Villa, Jr. and Mr. Agustin Fitzgerald D. Jereza, Vice President for ICT Mr. Lester Barcillo Gastala
+____________________<br/><br/>
+The 2018 Don Agustin M. Jereza Memorial Lecture
+August 28 (Tuesday)
+10:00 a.m. -12:00 nn 
+@Dr. Ronald R. Duterte Theater for the Performing Arts, USPF Lahug campus<br/>
+
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.240329476375976/460698644339057/?type=3&theater">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+					    
+					    
+					    
+					    
+					    
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfaai.run/posts/2094323374164986">	<img src="images/News/37902373_2094323340831656_830100642969157632_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> August 1, 2018 10:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> USPF</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfaai.run/posts/2094323374164986">USPF-AAI Joint Fun Run 2018</a></h3>
+							<h4>By Cebu Daily News</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>AFTER a four-year hiatus, the University of Southern Philippines Foundation (USPF)-Alumni Association Incorporated (AAI) will be bringing back its USPF-AAI Run on August 26.
+The race starts and finish at the USPF-Lahug campus.<br/>
+
+The main goal of this running event is to raise funds to support USPF’s athletic squad and also to help USPF-AAI’s scholarship program.<br/>
+
+										<a target="_blank" href="http://cebudailynews.inquirer.net/186497/uspf-aai-run-returns-aug-26-four-year-break">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/graceclabesillas/posts/10209991342340669">	<img src="images/News/IMG_6926.JPG" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> August 1, 2018 10:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> USPF BOARD ROOM</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/graceclabesillas/posts/10209991342340669">University of Southern Philippines Foundation and Newtype International Language School, Inc. for an English Language Immersion Program 2018.</a></h3>
+							<h4>By Lester B. Gastala, VP-ICT</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+Memorandum of Agreement inked yesterday, July 30, 2018, by the University of Southern Philippines Foundation and Newtype International Language School, Inc. for an English Language Immersion Program 2018.<br/><br/>
+
+Left to right : Mr. Charles Roy Baguio (USPF College of Arts & Science Dean), Dr. Ernesto L. Alolor (USPF VP for Academic Affairs), Atty. Paulino A. Yabao (USPF President), Ms. Sherley T. Sevilla (NILS Institution Head), Ms. Jonalyn E Martinez (NILS Head Teacher), and Ms. Grace C. Clabesillas (USPF ELT Program Head Coordinator)
+										<a target="_blank" href="https://www.facebook.com/graceclabesillas/posts/10209991342340669">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/422136361528619">	<img src="images/News/37188934_422136071528648_3303444318710136832_o.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> July 16, 2018 10:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> USPF BOARD ROOM</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/422136361528619">The University of Southern Philippines Foundation and Hosei University from Tokyo, Japan signed a Memorandum of Agreement </a></h3>
+							<h4>By Boi Archievald A. Ranay</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>The University of Southern Philippines Foundation and Hosei University from Tokyo, Japan signed a Memorandum of Agreement for this year's English Language Training Program!
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/422136361528619">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+					    <div class="col-md-2 col-sm-2">
+							<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/393936034348652">	<img src="images/maamalice.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> June 9, 2018 5:08 PM</span>
+								<span><i class="fa fa-map-marker"></i> Dusit Thani Hotel, Makati City, Manila PH.</span>
+							</h6>
+							<h3>	<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/393936034348652">EDUCATION LEADERSHIP AWARD</a></h3>
+							<h4>By Dr. Kathleen B. Solon-Villaneza</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+					DR. ALICIA P. CABATINGAN, immediate past USPF University President now Academic Consultant, is the recipient of the EDUCATION LEADERSHIP AWARD at the Philippines Education Leadership Awards 2018 held on June 8, 2018 at Dusit Thani Hotel, Makati City, Manila PH.
+<br/><br/>CONGRATULATIONS, Ma'am Alice! Your USPF Family is so proud of you!
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/393936034348652">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+					    <div class="col-md-2 col-sm-2">
+							<img src="images/panthers-01.png" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> June 8, 2018 5:08 PM</span>
+								<span><i class="fa fa-map-marker"></i> Office of the University President</span>
+							</h6>
+							<h3>USPF First Day of Classes on All Levels</h3>
+							<h4>By Atty. Paulino A. Yabao, University President</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+										See you all on June 11,2018 (USPF First Day of Classes)<br/><br/>
+										Official Announcement from the Office of the University President.
+										<a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922.1073741828.235025053573085/393468557728733/?type=3&theater">Read More</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+					    <div class="col-md-2 col-sm-2">
+							<img src="images/News/34562244_392724207803168_1629582743258005504_n.jpg" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> June 6, 2018 3:28 PM</span>
+								<span><i class="fa fa-map-marker"></i> Mayor's Office, Cebu City</span>
+							</h6>
+							<h3>USPF represents academe sector on approved anti-discrimination ordinance</h3>
+							<h4>By Dr. Kathleen B. Solon-Villaneza</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+										USPF thru Mrs. Rosario Estrada Sequitin, chairperson of the USPF department of social work, represents the academe sector and stands with the commissioners of the Cebu City Anti-Discrimination Commission on June 5, 2018 in a discourse with the press on the approved Implementing Rules and Regulations (IRR) of City Ordinance No. 2399 which prohibits discrimination on the basis of disability, age, health status, sexual orientation and gender identity, ethnicity and religion. The ordinance champions human dignity and respect for human rights on its way to making Cebu a discrimination-free city.<br/><br/>
+
+*photo © Alvin Dizon courtesy of Mrs. Rosario Estrada Sequitin
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+						<div class="col-md-2 col-sm-2">
+							<img src="images/News/socialwork.png" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> June 4, 2018 5:50 PM</span>
+								<span><i class="fa fa-map-marker"></i> USPF Social Work Department</span>
+							</h6>
+							<h3>USPF leads Danish student interns placement in Cebu</h3>
+							<h4>By Dr. Kathleen B. Solon-Villaneza</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+										USPF Social Work department headed by Mrs. Rosario Sequitin led the placement of eight (8) Danish interns from University College Lillebaelt (UCL) College in Odense, Kingdom of Denmark for June to November 2018. <br/><br/>
+
+Under the six months internship program are interns: Sissel Westergaard Pøtzsch, 23 years old; Stine Bonde Ølund, 23; Paulina Landtved Rasmussen, 22; Isabel Juliette Jensen, 23; Stephanie Franka Hardy, 25; Theis Smith, 29; Christian Albrecht Rasmussen, 28; and, Emma Therese Wridt Hessellund, 22.<br/><br/>
+
+USPF Social Work department placed the Danish interns to long-time local partner agencies and schools, including: NPO Seven Spirit in Parian thru USPian alumna social worker Dorothy Fortuna, JPIC-IDC Mobile School in Pelaez thru education officer Genna Annabelle Buot, St. Francis of Assisi School at Peace Valley thru school principal Gilbert Jatayna, Gawad Kalinga Day Care at Budlaan thru teacher-in-charge Merlinda Batiancila, and at USPF’s own Kindergarten program in Lahug thru elementary school principal Dr. Elaine May Patiño.<br/><br/>
+
+Danish students’ internship in Cebu is one of the best partnership practices of USPF and Denmark under the cross cultural exchange as stipulated in the memorandum of agreement. <br/><br/>
+
+For more information on the USPF Department of Social Work activities, please stay in touch with Mrs. Sequitin at rsequitin@uspf.edu.ph.<br/><br/>
+
+*photos courtesy of Mrs. Sequitin
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						<!-- program speaker here -->
+						<div class="col-md-2 col-sm-2">
+							<img src="images/News/33995539_390647938010795_6497109337759023104_n.jpg" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> May 25, 2018 6:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> USPF MABINI CAMPUS</span>
+							</h6>
+							<h3>USPF joins Gabii sa Kabilin 2018 (Opening of the new Rizaliana Museum) | USPF Mabini Campus</h3>
+							<h4>By Philstar, The Freeman</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+											CEBU, Philippines — After its two-year closure, University of Southern Philippines Foundation’s (USPF) Rizaliana Museum is reopening its doors to the public in its Mabini campus. It had its soft opening last Tuesday, May 22, and will have its grand opening tonight, on “Gabii sa Kabilin.”
+											
+										Read More: <a href="https://www.philstar.com/the-freeman/cebu-lifestyle/2018/05/25/1818516/new-uspf-rizaliana-museum-opens-tonight"> The Freeman</a>
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						<div class="col-md-2 col-sm-2">
+							<img src="images/News/31957040_382834302125492_6986991722697850880_n.jpg" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> May 8, 2018 1:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> Cebu Normal University</span>
+							</h6>
+							<h3>USPF joins MOA signing</h3>
+							<h4>By Kathleen Solon-Villaneza, Director for Alumni and External Relations</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+											Just in: USPF joins MOA signing among 10 new school members of Central Visayas Consortium on Health & Research Development (CVCHRD) — at Cebu Normal University.
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+
+						<!-- program divider -->
+						<div class="program-divider col-md-12 col-sm-12"></div>
+
+						<!-- program speaker here -->
+						<div class="col-md-2 col-sm-2">
+							<img src="images/News/31445066_379365502472372_6421781748895449088_n.jpg" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> April 28, 2018 10:00 AM</span>
+								<span><i class="fa fa-map-marker"></i> Park Mall Cebu</span>
+							</h6>
+							<h3>Innovation Island Blast (Innovation fair) </h3>
+							<h4>By Lester B. Gastala, Vice-President for ICT</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+											USPF IMO and ICT Team with Paulino C. Llido “paul” - An Ace Computational Linguist and Silicon Valley Dot.comer at the 1st Innovation Island Blast 2018 @ Parkmall — with Clabe Grace and Archievald Ranay.
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+
+						<!-- program divider -->
+						<div class="program-divider col-md-12 col-sm-12"></div>
+
+						<!-- program speaker here -->
+						<div class="col-md-2 col-sm-2">
+							<img src="images/News/30714125_375938356148420_4433666513135730688_n.jpg" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> April 18 at 7:32pm</span>
+								<span><i class="fa fa-map-marker"></i> USPF BOARD ROOM</span>
+							</h6>
+							<h3>Tripartite MOU Signing with EmployNZ Ltd., USPF and PinoyCare</h3>
+							<h4>By Kathleen Solon-Villaneza, Director for Alumni and External Relations</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+
+The Tripartite Memorandum of Understanding among EmployNZ Ltd., USPF and PinoyCare is officially forged today!
+
+University President ATTY. PAULINO A. YABAO with select members of the University Council welcomed JAY BANNER, Managing Director of EmployNZ Ltd. in Tauranga, New Zealand and MS. AL of PinoyCare Visa Center.
+
+The business meeting opened with formal introductions followed by Jay Banner's presentation on EmployNZ Tertiary Institute and dialogue related to the curriculum and partnership in general. It concluded with the Tripartite MOU signing. The campus tour and welcome luncheon ensued.
+										</p>
+
+									</div>
+							 </div>
+
+
+
+						</div>
+
+						<!-- program divider -->
+						<div class="program-divider col-md-12 col-sm-12"></div>
+
+
+					</div>
+
+
+					<div role="tabpanel" class="tab-pane" id="sday">
+						<!-- program speaker here -->
+						<div class="col-md-2 col-sm-2">
+							<img src="images/resar.jpg" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> 09.00 AM</span>
+								<span><i class="fa fa-map-marker"></i> USPF Main Function Room</span>
+							</h6>
+							<h3>Research Congress 2018 for Student Category</h3>
+							<h4>By Odilon B. Maglasang, Director for Research</h4>
+							<p>Board of Adjudicators @ the 13th University Research Congress (Student Category)
+#universityresearchcongress</p>
+						</div>
+
+						<!-- program divider -->
+						<div class="program-divider col-md-12 col-sm-12"></div>
+
+						<!-- program speaker here -->
+						<div class="col-md-2 col-sm-2">
+							<img src="images/research.jpg" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> 01.00 PM</span>
+								<span><i class="fa fa-map-marker"></i> Room 450</span>
+							</h6>
+							<h3>Research Congress 2018 for Teaching and Non-teaching Staff</h3>
+							<h4>By Odilon B. Maglasang, Director for Research</h4>
+							<p>Board of Adjudicators @ the 13th University Research Congress (Teaching and Non-Teaching Category)
+#universityresearchcongress</p>
+						</div>
+
+					</div>
+
+					<div role="tabpanel" class="tab-pane" id="tday">
+						<!-- program speaker here -->
+						
+						<div class="col-md-2 col-sm-2">
+							<a href="https://www.facebook.com/uspfofficialpage/posts/468201263588795"><img src="images/News/41884497_468201193588802_4296880244368867328_n.jpg" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> July 12, 2018 1:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> USPF iLab</span>
+							</h6>
+							<h3><a href="https://www.facebook.com/uspfofficialpage/posts/468201263588795">Child Protection and Anti Cyberbullying Symposium 2018</a></h3>
+							<h4>By Cebu Innovations Network</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+USPF SHS and VP ICT is very grateful and privileged for the usual support of the Cebu Innovation Network in the Child Protection and Anti Cyberbullying Symposium 2018. Thank you Mikee Morado,Raymond Olavides and Ron Michael Khu for sharing your expertise and valuable time with us. Congratulations SHS SAS for organizing this worthwhile event.
+
+                                            <a target="_blank" href="https://www.facebook.com/uspfofficialpage/posts/468201263588795">Read More</a>
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						
+						<div class="col-md-2 col-sm-2">
+							<a href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922.1073741828.235025053573085/418949075180681/?type=3&theater"><img src="images/panthers-01.png" class="img-responsive" alt="program"></a>
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> July 12, 2018 1:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> USPF iLab</span>
+							</h6>
+							<h3><a href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922.1073741828.235025053573085/418949075180681/?type=3&theater">Android Forum 1.0</a></h3>
+							<h4>By Boi Archievald A. Ranay</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+											USPF Animation Forum 1.0 @ iLAB - a Successful afternoon with the Cebu Innovation Network and Cebu Animation Guild! — with Anbu Tumz, Paul Llideau, Nathaniel Libres Cilocilo, An Drie, Archievald Ranay, Emot Amodia and Dean Archivist.
+
+                                            <a target="_blank" href="https://www.facebook.com/uspfofficialpage/photos/a.236033350138922.1073741828.235025053573085/418949075180681/?type=3&theater">Read More</a>
+										</p>
+
+									</div>
+							 </div>
+						</div>
+						
+						<div class="col-md-2 col-sm-2">
+							<img src="images/News/32423190_10156682355894610_4338732883897221120_n.jpg" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> May 14, 2018 1:00 PM</span>
+								<span><i class="fa fa-map-marker"></i> USPF iLab</span>
+							</h6>
+							<h3>USPF Celebrates Arduino Day with Cebu Innovations Network</h3>
+							<h4>By Boi Archievald A. Ranay</h4>
+							<div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+									<div class="panel-body">
+										<p>
+											With Sir Lester Barcillo Gastala, VP of ICT, USP Foundation. Congratulations to Lionelle Patigue Diaz for winning the soldering challenge. #ArduinoD18 #IoTCebu #CIN #CebuInnovationNetwork #InnovationIsland — attending Arduino Day 2018 - Cebu with Lester Barcillo Gastala, Karl Mark Bas Acha, Lionelle Patigue Diaz and Beau Hisoler at University of Southern Philippines Foundation.
+
+										</p>
+
+									</div>
+							 </div>
+						</div>
+
+						<!-- program divider -->
+						<div class="program-divider col-md-12 col-sm-12"></div>
+
+						<!-- program speaker here -->
+						<div class="col-md-2 col-sm-2">
+							<img src="images/ict.jpg" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> 12.00 PM</span>
+								<span><i class="fa fa-map-marker"></i> USPF Moot Court</span>
+							</h6>
+							<h3>iPad Learning Experience</h3>
+							<h4>By Information and Communications Technology</h4>
+							<p></p>
+						</div>
+
+						<!-- program divider -->
+						<div class="program-divider col-md-12 col-sm-12"></div>
+
+						<!-- program speaker here -->
+						<div class="col-md-2 col-sm-2">
+							<img src="images/ict2.jpg" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> 03.00 PM</span>
+								<span><i class="fa fa-map-marker"></i> USPF Main Entrance</span>
+							</h6>
+							<h3>USPF RFID Launching</h3>
+							<h4>By Information and Communications Technology</h4>
+							<p>The USPF RFID software is developed by ICT professionals composed of USPian alumni and employees: Mr. Archievald Ranay, senior programmer and USPian BSIT alumnus class of 2014; Mr. John Andrie Pareja, junior programmer and USPian BSIT alumnus class of 2014; Engr. Clark Tumanda, technical support group head; Engr. Benjamin de la Cerna III, network engineer; Mr. Nathaniel Cilocilo, technical support specialist and USPian BSIT alumnus class of 2014; Mr. Nino Lane, helpdesk support staff; and, Mr. Lester Gastala, chief information officer and overall project manager for the 1st RFID In-House System Development of USPF.</p>
+						</div>
+
+					</div>
+
+					<div role="tabpanel" class="tab-pane" id="aday">
+						<!-- program speaker here -->
+						<div class="col-md-2 col-sm-2">
+							<img src="images/admin.jpg" class="img-responsive" alt="program">
+						</div>
+						<div class="col-md-10 col-sm-10">
+							<h6>
+								<span><i class="fa fa-clock-o"></i> 12.00 PM</span>
+								<span><i class="fa fa-map-marker"></i> Ayala Road</span>
+							</h6>
+							<h3>USPF Goes Fun Run</h3>
+							<h4>By Administration</h4>
+							<p></p>
+						</div>
+
+					</div>
+
+				</div>
+
+		</div>
+	</div>
+</section>
+
+
+
+
+<!-- =========================
+   REGISTER SECTION
+============================== -->
+<section id="register" class="parallax-section">
+	<div class="container">
+		<div class="row">
+
+			<div class="wow fadeInUp col-md-7 col-sm-7" data-wow-delay="0.6s">
+				<h2>Subscribe Here</h2>
+				<h3>Fill out all the required details and we will send updates to your e-mail</h3>
+				<a href="websitepolicy.pdf" target="_BLANK"> <input name="submit"  type="submit"  class="form-control" id="submit" value="Data Privacy Policy"></a>
+				<p>You will be receiving email notifications and text with our latest trends, news and updates of the university</p>
+				
+			</div>
+
+			<div class="wow fadeInUp col-md-5 col-sm-5" data-wow-delay="1s">
+				<form action="#" method="post">
+					<input name="firstname" type="text" class="form-control" id="firstname" placeholder="First Name">
+					<input name="lastname" type="text" class="form-control" id="lastname" placeholder="Last Name">
+					<input name="phone" type="telephone" class="form-control" id="phone" placeholder="Phone Number">
+					<input name="email" type="email" class="form-control" id="email" placeholder="Email Address">
+					<div class="col-md-offset-6 col-md-6 col-sm-offset-1 col-sm-10">
+						<input name="submit" type="submit" class="form-control" id="submit" value="REGISTER">
+					</div>
+				</form>
+			</div>
+
+			<div class="col-md-1"></div>
+
+		</div>
+	</div>
+</section>
+
+
+<!-- =========================
+    FAQ SECTION
+============================== -->
+<section id="faq" class="parallax-section">
+	<div class="container">
+		<div class="row">
+
+			<!-- Section title
+			================================================== -->
+			<div class="wow bounceIn col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10 text-center">
+				<div class="section-title">
+					<h2>Frequently Asked Questions</h2>
+					<p>How may we help you?</p>
+				</div>
+			</div>
+
+			<div class="wow fadeInUp col-md-offset-1 col-md-10 col-sm-offset-1 col-sm-10" data-wow-delay="0.9s">
+				<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+  					<div class="panel panel-default">
+   						<div class="panel-heading" role="tab" id="headingOne">
+      						<h4 class="panel-title">
+        						<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          							 What are the requirements for enrollment?
+        						</a>
+      						</h4>
+    					</div>
+   						<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      						<div class="panel-body">
+										<p>
+											<a href="AdmissionRequirements.pdf">Printer-Friendly Version</a><br/>
+											KINDERGARTEN<br/>
+											NEW ENROLLEE<br/>
+											1. Birth Certificate (NSO Authenticated)<br/>
+											2. Medical Certificate<br/>
+											3. 1×1 ID pictures (4 copies)<br/>
+											4. Interview<br/>
+											5. Fill up medical data sheet<br/><br/>
+
+											ELEMENTARY<br/>
+											TRANSFEREE (GRADE 1-6)<br/>
+											1. Photocopy of NSO Birth Certificate (2 copies)<br/>
+											2. 1×1 ID pictures (4 copies)<br/>
+											3. Medical Certificate<br/>
+											4. FORM 138 (Report Card)<br/>
+											5. Certification of Good Moral Character<br/>
+											6. Interview (for those with an average grade of 85 above or as recommended by the enrollment committee<br/>
+											7. Entrance Exam (for those with an average of below 85 or as recommended<br/>
+											8. Transferees with unsatisfactory grades and those who failed in the entrance exam may be accepted on probation and a written waiver.<br/>
+											9. Probationary period is 2 months or 1st grading period)<br/><br/>
+
+											JUNIOR HIGH SCHOOL<br/>
+											FOR FRESHMEN<br/>
+											1. Card/Photocopy Form 137 for evaluation purposes<br/>
+											2. Photocopy of NSO Birth Certificate<br/>
+											3. Certification of Good Moral Character<br/>
+											4. 1×1 ID pictures (4 copies)<br/>
+											5. Interview/Entrance Exam<br/><br/>
+											
+											TRANSFEREE (GRADE 7 & 10)<br/>
+											1. Report Card<br/>
+											2. Photocopy of NSO Birth Certificate<br/>
+											3. Certification of Good Moral Character<br/>
+											4. 1×1 ID pictures (4 copies)<br/>
+											5. Interview/Entrance Exam<br/><br/>
+											
+											SENIOR HIGH SCHOOL<br/>
+											FOR FRESHMEN<br/>
+											1. Card/Photocopy Form 137 for evaluation purposes<br/>
+											2. Photocopy of NSO Birth Certificate<br/>
+											3. Certification of Good Moral Character<br/>
+											4. 1×1 ID pictures (4 copies)<br/>
+											5. Interview/Entrance Exam<br/><br/>
+
+											TERTIARY<br/>
+											FOR FRESHMEN<br/>
+											1. FORM 138 (Report Card) <br/>
+											2. 1×1 ID pictures (4 copies, colored) <br/>
+											3. Certification of Good Moral Character 4. Birth Certificate (NSO Authenticate<br/><br/>
+											TRANSFEREES<br/>
+											1. Certificate of Transfer Credentials <br/>
+											2. 1×1 ID pictures (4 copies, colored) <br/>
+											3. Certification of Good Moral Character<br/>
+											4. Birth Certificate (NSO Authenticated)<br/>
+
+										</p>
+      						</div>
+   						 </div>
+ 					</div>
+
+    				<div class="panel panel-default">
+   						<div class="panel-heading" role="tab" id="headingTwo">
+      						<h4 class="panel-title">
+        						<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          							I am a new student, how can I apply Online?
+        						</a>
+      						</h4>
+    					</div>
+   						<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      						<div class="panel-body">
+                            	<p>For new applicant and applicants who have not completed the requirements, visit uspf.edu.ph under Online Services</p>
+
+      						</div>
+   						 </div>
+ 					</div>
+
+ 					<div class="panel panel-default">
+   						<div class="panel-heading" role="tab" id="headingThree">
+      						<h4 class="panel-title">
+        						<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          							I'm a USPF Student, how can I view my grades online?
+        						</a>
+      						</h4>
+    					</div>
+   						<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      						<div class="panel-body">
+                            	<p>For students who wants to view their grades online visit uspf.edu.ph under online services</p>
+      						</div>
+   						 </div>
+ 					 </div>
+
+ 				 </div>
+			</div>
+
+		</div>
+	</div>
+</section>
+
+
+<section id="welcomeresearch" class="parallax-section">
+	<div class="container">
+		<div class="row">
+
+			<div class="wow fadeInLeft col-md-offset-1 col-md-5 col-sm-8" data-wow-delay="0.9s">
+				<h2>Center for Research, Planning and Development</h2>
+
+				<p>
+Serving as USPF’s development planning body and chief policy formulator in the area of research
+education, the Center for Research, Planning and Development (CRPD) is making a bold effort in creating
+a supportive environment for research where innovation, discoveries, creativity and excellence of
+scholarly activities flourish and produce significant outcomes in the improvement of the quality of life. 
+<br/><br/>
+The CRPD streamlined the procedures in availing the Institutional Research Grants for the faculty and
+non-teaching personnel. From proposal development to presentation, publication and technology
+transfer, the Center supports the researchers at every stage of each research process through capability
+building.
+<br/><br/>
+The Center also engages in multiple discipline collaboration with government and non-government
+agencies, joint ventures with industries, and forming a new partnership with other research institutions.
+<br/><br/>
+I am pleased and excited to invite you all to be part of our journey towards becoming a 21st-century
+research university!<br/></p>
+
+<h3>PHILIP JOEL D.R. MACUGAY, PhD, DSS</h3>
+Director, Center for Research, Planning and Development
+			</div>
+
+		</div>
+	</div>
+</section>
+
+
+<section id="detail" class="parallax-section">
+	<div class="container">
+		<div class="row">
+
+			<div class="section-title">
+				<h2>Academic Offerings</h2>
+				<h3>Preparing Students To Make Meaningful Contributions To Society As Engaged Citizens And Leaders In A Complex World</h3>
+				<a href="academic.html" data-slot-name="main7" data-feature-name="Astro Link" data-display-name="AOS: environment" class="more">Learn More About Academic Offerings</a>
+			</div>
+
+			<div class="wow fadeInLeft col-md-4 col-sm-4" data-wow-delay="0.3s">
+				<h3>Computer Studies</h3>
+				<p>Innovate Technology for a Smarter World</p>
+			</div>
+
+			<div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.6s">
+				<h3>Engineering & Architecture</h3>
+				<p>Competitive Technical Career within Your Reach</p>
+			</div>
+
+			<div class="wow fadeInRight col-md-4 col-sm-4" data-wow-delay="0.9s">
+				<h3>Education</h3>
+				<p>Be a Globally Competitive Teacher</p>
+			</div>
+
+			<div class="wow fadeInLeft col-md-4 col-sm-4" data-wow-delay="0.3s">
+				<h3>Pharmacy</h3>
+				<p>Be Trained by Industry's Best</p>
+			</div>
+
+			<div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.6s">
+				<h3>Accountancy</h3>
+				<p>Home of Top Notch, trustworthy nation builders and changemakers</p>
+			</div>
+
+			<div class="wow fadeInRight col-md-4 col-sm-4" data-wow-delay="0.9s">
+				<h3>Arts and Sciences</h3>
+				<p>CAS offers opportunity for holistic development and professional integrity</p>
+			</div>
+			<div class="wow fadeInLeft col-md-4 col-sm-4" data-wow-delay="0.3s">
+				<h3>Business & Management</h3>
+				<p>Be a World-Class Manager and Entrepreneur</p>
+			</div>
+
+			<div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.6s">
+				<h3>Senior High School</h3>
+				<p>Braving New Height and Insatiable Scholarly Discoveries</p>
+			</div>
+
+			<div class="wow fadeInRight col-md-4 col-sm-4" data-wow-delay="0.9s">
+				<h3>Law</h3>
+				<p>The Leader in the Weekend Class Program</p>
+			</div>
+			<div class="wow fadeInLeft col-md-4 col-sm-4" data-wow-delay="0.3s">
+				<h3>Nursing</h3>
+				<p>Be a Globally Competitive Nurse</p>
+			</div>
+
+			<div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.6s">
+				<h3>Basic Education</h3>
+				<p>We nurture the multiple intelligences of Your child</p>
+			</div>
+
+			<div class="wow fadeInRight col-md-4 col-sm-4" data-wow-delay="0.9s">
+				<h3>AB Music</h3>
+				<p>Elevate. Be a World-Class Music Professionale a Globally Competitive Teacher</p>
+			</div>
+			<div class="wow fadeInLeft col-md-4 col-sm-4" data-wow-delay="0.3s">
+				<h3>Learning Resource Center</h3>
+				<p>USPF - TESDA brand of excellence is the leading producer of world class, highly skilled professionals</p>
+			</div>
+
+			<div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.6s">
+				<h3>Graduate School</h3>
+				<p>Advance your professional growth in an innovative and dynamic educational program</p>
+			</div>
+
+
+
+
+		</div>
+	</div>
+</section>
+
+<section id="welcomealumni" class="parallax-section">
+	<div class="container">
+		<div class="row">
+
+			<div class="wow fadeInLeft col-md-offset-1 col-md-5 col-sm-8" data-wow-delay="0.9s">
+				<h2>Center for External Linkages and Alumni Relations
+</h2>
+				Website: <a href="alumni.html">uspf.edu.ph/alexofficialpage</a>
+				<p>Dear USPian students, alumni and friends,<br/>
+I am so excited to welcome you to our new USPF Alumni & External Relations (ALEX) official page! ALEX works closely with the ICT department to give you the outmost experience and signature exhale of home.<br/><br/>
+Cheers!</p>
+
+<h3>Dr. Kathleen B. Solon-Villaneza</h3>
+Director, Alumni and External Relations
+			</div>
+
+		</div>
+	</div>
+</section>
+
+<section id="venue" class="parallax-section">
+	<div class="container">
+		<div class="row">
+
+			<div class="wow fadeInLeft col-md-offset-1 col-md-5 col-sm-8" data-wow-delay="0.9s">
+				<h2>Contact Us</h2>
+				<p>E-mail Address: helpdesk@uspf.edu.ph</p>
+				<h4>Mabini Campus Address</h4>
+  				<h4>Mabini Street Cebu City</h4>
+				<h4>Tel: 412-1600</h4>
+				<br/>
+				<h4>Lahug Campus Address</h4>
+  				<h4>Salinas Drive, Lahug, Cebu City</h4>
+				<h4>Tel: 414-8773</h4>
+			</div>
+
+		</div>
+	</div>
+</section>
+
+
+<section id="whyfooter" class="parallax-section">
+	<div class="container">
+		<div class="row">
+
+			<div class="wow fadeInUp col-md-6 col-sm-10" data-wow-delay="1.3s">
+
+				<ul>
+					<h3>Vision</h3>
+					<li margin-bottom: 10px;><p>University of Southern Philippines Foundation is a 21st century transformative learning environment of global lifelong learners.</p></li>
+					<h3>Mission</h3>
+					<li margin-bottom: 10px;><p>We commit ourselves to a value-laden quality education that nurtures ethical, creative, competent, and socially responsive individuals</p>
+					</li>
+
+				</ul>
+			</div>
+
+			<div class="wow fadeInUp col-md-6 col-sm-10" data-wow-delay="1.3s">
+
+				<ul>
+					<h3>Goal</h3>
+					<li margin-bottom: 10px;><p>Transform USPF into a dynamic high-tech, high-touch learning organization in keeping with global standards in education and workplace requirements.</p></li>
+
+				</ul>
+			</div>
+
+
+		</div>
+	</div>
+</section>
+
+<footer>
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-12 col-sm-12">
+				<p style="color:white" class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2018 University of Southern Philippines Foundation
+
+                    | Design: <a rel="nofollow" href="ict.html" target="_parent">Information and Communications Technology</a></p>
+
+				<p style="color:white" class="wow fadeInUp" data-wow-delay="0.6s">Salinas Drive, Lahug, Cebu City</p>
+			
+
+			</div>
+
+		</div>
+	</div>
+</footer>
+
+
+<!-- Back top -->
+<a href="#back-top" class="go-top"><i class="fa fa-angle-up"></i></a>
+
+
+<!-- =========================
+     SCRIPTS
+============================== -->
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.parallax.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/smoothscroll.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/custom.js"></script>
+
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+
+</body>
+</html>

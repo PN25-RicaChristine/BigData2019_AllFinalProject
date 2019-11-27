@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name="keywords" content="html, xhtml, tag, tags, count, match, pair"/>
+	<meta name="description" content="HTML Tag Count"/>
+
+	<title>HTML Tag Count</title>
+
+	<link rel="stylesheet" type="text/css" href="../rwb.css"/>
+	<link rel="stylesheet" type="text/css" href="htmlcount.css"/>
+
+</head>
+
+<body>
+
+	<script type="text/JavaScript" src="htmlcount.js"></script>
+
+	<h1>HTML Tag Count</h1>
+
+	<p>
+		This will count HTML/XHTML tags to check for matching pairs of open/close tags, or 
+		missing tags (&lt;html&gt;, &lt;head&gt;, &lt;title&gt;, and &lt;body&gt;).
+		This is particularly useful for finding errors in tables.
+		No data is sent to the server&mdash;this is done locally on your computer.
+		This is not as good as a <a href="http://validator.w3.org/">validator</a>, but is 
+		more forgiving of non-standard HTML.
+	</p>
+
+	<p class="note">
+		Note: This is a just a quick check for matched pairs of tags.
+		It works for fairly simple HTML.
+		If there are &ldquo;&lt;&rdquo; or &ldquo;&gt;&rdquo; characters within the text or
+		tag attributes, the count may be incorrect.
+	</p>
+
+	<p>
+		Paste the contents of an HTML or XHTML file here:
+	</p>
+
+	<form name="HTMLContentForm" id="HTMLContentForm">
+		<p>
+			<textarea name="inFileContents"></textarea>
+		</p>
+	
+		<p>
+			<input type="button" id="inputFile" name="inputFile" size="16" value="Count Tags" 
+			accept="text/html"/>
+		</p>
+	</form>
+
+	<!-- create a table with results -->
+	<table id="outHTMLTable">
+	</table>
+
+
+	<!-- Navigation, Text -->
+	<div id="navigationtext">
+		<a href="../index.htm">Home</a> | 
+		<a href="../resume.html">R&#233;sum&#233;</a> | 
+		<a href="../faq.html">FAQ</a> | 
+		<a href="../contact.html">Contact</a> | 
+		<a href="../samples.html">Samples</a>
+	</div>
+
+	<!-- Footer -->
+	<div id="footer">
+		<p>
+			Webmaster: <a href="mailto:lmills@redwriteblue.com">webmaster@redwriteblue.com</a><br/>
+		</p>
+		<p>
+			By Laura Shaffer Mills (XHTML, CSS, Javascript).
+		</p>
+		<p>Last Modified:  February 12, 2010<br/>
+		Copyright 2010 Laura Shaffer Mills
+		</p>
+	</div>
+
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 START -->
+<script type='text/javascript' src='https://count.carrierzone.com/app/count_server/count.js'></script>
+<script type='text/javascript'><!--
+wm_custnum='1be6ee6e2d8be6d9';
+wm_page_name='htmlcount.html';
+wm_group_name='/services/webpages/r/e/redwriteblue.com/public/tags';
+wm_campaign_key='campaign_id';
+wm_track_alt='';
+wiredminds.count();
+// -->
+</script>
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
+</body>
+</html>

@@ -1,0 +1,1380 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="http://uv.edu.ph/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='http://uv.edu.ph';var et_post_id='5';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>University of the Visayas | Official Website of the University of Visayas</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="University of the Visayas &raquo; Feed" href="http://uv.edu.ph/feed/" />
+<link rel="alternate" type="application/rss+xml" title="University of the Visayas &raquo; Comments Feed" href="http://uv.edu.ph/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/uv.edu.ph\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi v.3.19.5" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pt-cv-public-style-css'  href='http://uv.edu.ph/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=2.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://uv.edu.ph/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ultimate-post-list-public-style-css'  href='http://uv.edu.ph/wp-content/plugins/ultimate-post-list/public/css/ultimate-post-list-public.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='widgetopts-styles-css'  href='http://uv.edu.ph/wp-content/plugins/widget-options/assets/css/widget-options.css' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='http://uv.edu.ph/wp-content/themes/Divi/style.css?ver=3.19.5' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='http://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CTitillium+Web%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900&#038;ver=5.0.3#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://uv.edu.ph/wp-includes/css/dashicons.min.css?ver=5.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://uv.edu.ph/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://uv.edu.ph/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var upl_vars = {"upl_nonce":"969d79f0f1","ajaxurl":"http:\/\/uv.edu.ph\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://uv.edu.ph/wp-content/plugins/ultimate-post-list/public/js/ultimate-post-list-public.js?ver=4.1'></script>
+<script>
+				document.addEventListener( "DOMContentLoaded", function( event ) {
+					window.et_location_hash = window.location.hash;
+					if ( "" !== window.et_location_hash ) {
+						// Prevent jump to anchor - Firefox
+						window.scrollTo( 0, 0 );
+						var et_anchor_element = document.getElementById( window.et_location_hash.substring( 1 ) );
+						if( et_anchor_element === null ) {
+						    return;
+						}
+						window.et_location_hash_style = et_anchor_element.style.display;
+						// Prevent jump to anchor - Other Browsers
+						et_anchor_element.style.display = "none";
+					}
+				} );
+		</script><link rel='https://api.w.org/' href='http://uv.edu.ph/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://uv.edu.ph/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://uv.edu.ph/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+<link rel="canonical" href="http://uv.edu.ph/" />
+<link rel='shortlink' href='http://uv.edu.ph/' />
+<link rel="alternate" type="application/json+oembed" href="http://uv.edu.ph/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fuv.edu.ph%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://uv.edu.ph/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fuv.edu.ph%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #005836; }
+</style>
+<link rel="icon" href="http://uv.edu.ph/wp-content/uploads/2018/06/UV-SEAL-150x150.png" sizes="32x32" />
+<link rel="icon" href="http://uv.edu.ph/wp-content/uploads/2018/06/UV-SEAL.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://uv.edu.ph/wp-content/uploads/2018/06/UV-SEAL.png" />
+<meta name="msapplication-TileImage" content="http://uv.edu.ph/wp-content/uploads/2018/06/UV-SEAL.png" />
+<link rel="stylesheet" id="et-core-unified-cached-inline-styles" href="http://uv.edu.ph/wp-content/cache/et/5/et-core-unified-156594026371.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="home page-template-default page page-id-5 custom-background et_pb_button_helper_class et_fullwidth_nav et_fullwidth_secondary_nav et_fixed_nav et_show_nav et_hide_mobile_logo et_cover_background et_secondary_nav_enabled et_secondary_nav_two_panels et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_split et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+	<div id="page-container">
+
+					<div id="top-header">
+			<div class="container clearfix">
+
+			
+				<div id="et-info">
+									<span id="et-info-phone"> (032) 253-6173</span>
+				
+									<a href="mailto:info@uv.edu.ph"><span id="et-info-email">info@uv.edu.ph</span></a>
+				
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="https://www.facebook.com/universityofthevisayascebu/" class="icon">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="#" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-google-plus">
+		<a href="#" class="icon">
+			<span>Google</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-rss">
+		<a href="http://uv.edu.ph/feed/" class="icon">
+			<span>RSS</span>
+		</a>
+	</li>
+
+</ul>				</div> <!-- #et-info -->
+
+			
+				<div id="et-secondary-menu">
+				<div class="et_duplicate_social_icons">
+								<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="https://www.facebook.com/universityofthevisayascebu/" class="icon">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="#" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-google-plus">
+		<a href="#" class="icon">
+			<span>Google</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-rss">
+		<a href="http://uv.edu.ph/feed/" class="icon">
+			<span>RSS</span>
+		</a>
+	</li>
+
+</ul>
+							</div>				</div> <!-- #et-secondary-menu -->
+
+			</div> <!-- .container -->
+		</div> <!-- #top-header -->
+		
+	
+			<header id="main-header" data-height-onload="105">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="http://uv.edu.ph/">
+						<img src="http://uv.edu.ph/wp-content/uploads/2019/01/centennialLOGOt.png" alt="University of the Visayas" id="logo" data-height-percentage="80" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="105" data-fixed-height="60">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-25"><a href="http://uv.edu.ph/">HOME</a></li>
+<li id="menu-item-1087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1087"><a href="http://uv.edu.ph/about/">ABOUT</a></li>
+<li id="menu-item-1053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1053"><a href="http://uv.edu.ph/admission/">ADMISSION</a></li>
+<li id="menu-item-333" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-333"><a href="http://uv.edu.ph/#academics">ACADEMIC</a></li>
+<li id="menu-item-1128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1128"><a href="http://uv.edu.ph/center-for-research-and-development/">RESEARCH</a></li>
+<li id="menu-item-915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-915"><a href="http://uv.edu.ph/extension/">EXTENSION</a></li>
+</ul>						</nav>
+					
+					
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="http://uv.edu.ph/">
+					<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-5" class="post-5 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div id="et-boc" class="et-boc">
+			
+			<div class="et_builder_inner_content et_pb_gutters3">
+				<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_0    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_gallery et_pb_gallery_0 et_pb_bg_layout_light  et_pb_slider et_pb_gallery_fullwidth et_slider_auto et_slider_speed_3000 clearfix">
+				<div class="et_pb_gallery_items et_post_gallery clearfix" data-per_page="4"><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/1-Autonomous.jpg" title="1 Autonomous">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/1-Autonomous.jpg" alt="1 Autonomous" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/2-Pacucoa.jpg" title="2 Pacucoa">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/2-Pacucoa.jpg" alt="2 Pacucoa" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/3-9001-2015-ISO.jpg" title="3 9001 2015 ISO">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/3-9001-2015-ISO.jpg" alt="3 9001 2015 ISO" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/11/4-Under-Graduate-Program.jpg" title="4 Under-Graduate Program">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/11/4-Under-Graduate-Program.jpg" alt="4 Under-Graduate Program" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/5-Medical-and-Allied-Health-Programs.jpg" title="5 Medical and Allied Health Programs">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/5-Medical-and-Allied-Health-Programs.jpg" alt="5 Medical and Allied Health Programs" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/6-Grad-and-Post-grad-Programs.jpg" title="6 Grad and Post grad Programs">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/6-Grad-and-Post-grad-Programs.jpg" alt="6 Grad and Post grad Programs" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/7-ETEEAP.jpg" title="7 ETEEAP">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/7-ETEEAP.jpg" alt="7 ETEEAP" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/8-Tesda-Accredited-Programs.jpg" title="8 Tesda Accredited Programs">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/8-Tesda-Accredited-Programs.jpg" alt="8 Tesda Accredited Programs" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/9-Basic-Education.jpg" title="9 Basic Education">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/9-Basic-Education.jpg" alt="9 Basic Education" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div></div><!-- .et_pb_gallery_items --></div><!-- .et_pb_gallery -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_1    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_cta_0 et_pb_promo et_pb_bg_layout_dark  et_pb_text_align_justified">
+				
+				
+				<div class="et_pb_promo_description">
+					<h2 class="et_pb_module_header">Be a Visayanian!</h2>
+					
+				</div>
+				<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_custom_button_icon et_pb_promo_button" href="http://uv.edu.ph/admission/" data-icon="&#x41;">Check Admission Requirements</a></div>
+			</div><div class="et_pb_module et_pb_code et_pb_code_0">
+				
+				
+				<div class="et_pb_code_inner">
+					<section class="slider-area">
+
+ <div class="fullscreen-bg">
+ <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg__video">
+ 
+<source src="http://uv.edu.ph/wp-content/uploads/2018/06/University-of-the-Visayas-What-is-a-Visayanian.mp4" type="video/mp4">
+ 
+</video>
+ </div>
+
+</section>
+				</div> <!-- .et_pb_code_inner -->
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_dark  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h1>WELCOME</h1>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_dark  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2>TO THE OFFICIAL WEBSITE OF UNIVERSITY OF THE VISAYAS</h2>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_3    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_number_counter et_pb_number_counter_0 et_pb_bg_layout_dark  et_pb_text_align_center et_pb_with_title" data-number-value="1919" data-number-separator="">
+				
+				
+				<div class="percent" ><p><span class="percent-value"></span></p></div>
+				<h3 class="title">YEAR FOUNDED</h3>
+			</div><!-- .et_pb_number_counter -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_4    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_number_counter et_pb_number_counter_1 et_pb_bg_layout_dark  et_pb_text_align_center et_pb_with_title" data-number-value="9" data-number-separator="">
+				
+				
+				<div class="percent" ><p><span class="percent-value"></span></p></div>
+				<h3 class="title">CAMPUSES</h3>
+			</div><!-- .et_pb_number_counter -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_5    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_number_counter et_pb_number_counter_2 et_pb_bg_layout_dark  et_pb_text_align_center et_pb_with_title" data-number-value="25" data-number-separator="">
+				
+				
+				<div class="percent" ><p><span class="percent-value"></span></p></div>
+				<h3 class="title">PROGRAM OFFERINGS</h3>
+			</div><!-- .et_pb_number_counter -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_pb_with_background et_pb_section_parallax et_section_regular">
+				
+				<div class="et_parallax_bg et_pb_parallax_css" style="background-image: url(http://uv.edu.ph/wp-content/uploads/2019/02/classrooms-1.png);"></div>
+				
+				
+					<div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_6    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2 et_pb_bg_layout_light  et_pb_text_align_center">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2 style="text-align: left;">Redirect to UV eLearning </h2>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_image et_pb_image_0 et_always_center_on_mobile">
+				
+				
+				<a href="https://uov.mrooms.net/"><span class="et_pb_image_wrap "><img src="http://uv.edu.ph/wp-content/uploads/2019/02/blackboard.png" alt="" /></span></a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_2_3 et_pb_column_7    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_gallery et_pb_gallery_1 et_pb_bg_layout_light  et_pb_slider et_pb_gallery_fullwidth et_slider_auto et_slider_speed_5000 clearfix">
+				<div class="et_pb_gallery_items et_post_gallery clearfix" data-per_page="6"><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2019/02/University-of-the-Visayas-1.png" title="University-of-the-Visayas-1">
+					<img src="http://uv.edu.ph/wp-content/uploads/2019/02/University-of-the-Visayas-1.png" alt="University-of-the-Visayas-1" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2019/02/final-Certified-Financial-Markets-Professional-CFMP-5.png" title="final-Certified-Financial-Markets-Professional-CFMP-5">
+					<img src="http://uv.edu.ph/wp-content/uploads/2019/02/final-Certified-Financial-Markets-Professional-CFMP-5.png" alt="final-Certified-Financial-Markets-Professional-CFMP-5" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2019/02/•Microsoft-Office-Specialists-MOS-2016-Basic-Word-Excel-Power-Point-Access-Outlook-1.png" title="•Microsoft-Office-Specialists-MOS-2016-Basic-Word-Excel-Power-Point-Access-Outlook-1">
+					<img src="http://uv.edu.ph/wp-content/uploads/2019/02/•Microsoft-Office-Specialists-MOS-2016-Basic-Word-Excel-Power-Point-Access-Outlook-1.png" alt="•Microsoft-Office-Specialists-MOS-2016-Basic-Word-Excel-Power-Point-Access-Outlook-1" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2019/02/c1.png" title="c1">
+					<img src="http://uv.edu.ph/wp-content/uploads/2019/02/c1.png" alt="c1" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2019/02/c2.png" title="c2">
+					<img src="http://uv.edu.ph/wp-content/uploads/2019/02/c2.png" alt="c2" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2019/02/c3.png" title="c3">
+					<img src="http://uv.edu.ph/wp-content/uploads/2019/02/c3.png" alt="c3" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div></div><!-- .et_pb_gallery_items --></div><!-- .et_pb_gallery -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_8    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h1>LATEST @ UV</h1>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_9    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2>Announcements</h2>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_code et_pb_code_1">
+				
+				
+				<div class="et_pb_code_inner">
+					<div class="pt-cv-wrapper et_smooth_scroll_disabled"><div class="pt-cv-view pt-cv-collapsible" id="pt-cv-view-b27832dwj3"><div data-id="pt-cv-page-1" class="pt-cv-page" data-cvc="1"><div class="panel-group" id="88d89b2n3e"><div class="panel panel-default pt-cv-content-item pt-cv-1-col" >
+<div class="panel-heading">
+	<a class="panel-title" data-toggle="cvcollapse" data-parent="#88d89b2n3e" href="#8d2cb836rc">
+		GRAND ALUMNI HOMECOMING	</a>
+	</div>
+<div id="8d2cb836rc" class="panel-collapse collapse in">
+	<div class="panel-body">
+		<div class="pt-cv-content">GAHOM 100 GRAND ALUMNI HOMECOMING Theme: UV-Century of Love and ...<br /><a href="http://uv.edu.ph/announcements/grand-alumni-homecoming/" class="_self pt-cv-readmore btn btn-success" target="_self" >Read More</a></div>	</div>
+</div></div>
+<div class="panel panel-default pt-cv-content-item pt-cv-1-col" >
+<div class="panel-heading">
+	<a class="panel-title" data-toggle="cvcollapse" data-parent="#88d89b2n3e" href="#d5c4d3e2hi">
+		Academic Calendar for S.Y 2019 &#8211; 2020	</a>
+	</div>
+<div id="d5c4d3e2hi" class="panel-collapse collapse ">
+	<div class="panel-body">
+		<div class="pt-cv-content">The Office of the University Registrar releases the official Academic ...<br /><a href="http://uv.edu.ph/announcements/academic-calendar-for-s-y-2019-2020/" class="_self pt-cv-readmore btn btn-success" target="_self" >Read More</a></div>	</div>
+</div></div></div></div></div></div>
+				</div> <!-- .et_pb_code_inner -->
+			</div> <!-- .et_pb_code --><div class="et_pb_module et_pb_text et_pb_text_7 et_pb_bg_layout_light  et_pb_text_align_right">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>
+<a href="http://uv.edu.ph/category/announcements/">See Older Posts</a></p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_12    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_8 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2>Events</h2>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_code et_pb_code_2">
+				
+				
+				<div class="et_pb_code_inner">
+					<div class="pt-cv-wrapper et_smooth_scroll_disabled"><div class="pt-cv-view pt-cv-collapsible" id="pt-cv-view-5e3fd47f96"><div data-id="pt-cv-page-1" class="pt-cv-page" data-cvc="1"><div class="panel-group" id="96b70fbjbu"><div class="panel panel-default pt-cv-content-item pt-cv-1-col" >
+<div class="panel-heading">
+	<a class="panel-title" data-toggle="cvcollapse" data-parent="#96b70fbjbu" href="#28e31dd6pl">
+		BIOSAFETY AWARENESS SEMINAR	</a>
+	</div>
+<div id="28e31dd6pl" class="panel-collapse collapse in">
+	<div class="panel-body">
+		<div class="pt-cv-content">UV CONDUCTS A BIOSAFETY AWARENESS SEMINAR ...<br /><a href="http://uv.edu.ph/events/uv-conducts-a-biosafety-awareness-seminar/" class="_self pt-cv-readmore btn btn-success" target="_self" >Read More</a></div>	</div>
+</div></div>
+<div class="panel panel-default pt-cv-content-item pt-cv-1-col" >
+<div class="panel-heading">
+	<a class="panel-title" data-toggle="cvcollapse" data-parent="#96b70fbjbu" href="#ce82cafz3i">
+		Visayanian Jumpstart 2019	</a>
+	</div>
+<div id="ce82cafz3i" class="panel-collapse collapse ">
+	<div class="panel-body">
+		<div class="pt-cv-content">UV KICKS OFF &#8220;VISAYANIAN JUMPSTART 2019&#8221; The University of the ...<br /><a href="http://uv.edu.ph/events/visayanian-jumpstart-2019/" class="_self pt-cv-readmore btn btn-success" target="_self" >Read More</a></div>	</div>
+</div></div></div></div></div></div>
+				</div> <!-- .et_pb_code_inner -->
+			</div> <!-- .et_pb_code --><div class="et_pb_module et_pb_text et_pb_text_11 et_pb_bg_layout_light  et_pb_text_align_right">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>
+<a href="http://uv.edu.ph/category/events/">See Older Posts</a></p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_15    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_12 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2>UV in the News</h2>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_code et_pb_code_3">
+				
+				
+				<div class="et_pb_code_inner">
+					<div class="pt-cv-wrapper et_smooth_scroll_disabled"><div class="pt-cv-view pt-cv-collapsible" id="pt-cv-view-2934a10hvs"><div data-id="pt-cv-page-1" class="pt-cv-page" data-cvc="1"><div class="panel-group" id="90cacf42ba"><div class="panel panel-default pt-cv-content-item pt-cv-1-col" >
+<div class="panel-heading">
+	<a class="panel-title" data-toggle="cvcollapse" data-parent="#90cacf42ba" href="#2321c56ioq">
+		UV Centennial Run a sweeping success	</a>
+	</div>
+<div id="2321c56ioq" class="panel-collapse collapse in">
+	<div class="panel-body">
+		<div class="pt-cv-content">Caecent No-ot Magsumbol (The Freeman) &#8211; January 13, 2019 &#8211; 12:00am ...<br /><a href="http://uv.edu.ph/uv-in-the-news/uv-centennial-run-a-sweeping-success/" class="_self pt-cv-readmore btn btn-success" target="_self" >Read More</a></div>	</div>
+</div></div>
+<div class="panel panel-default pt-cv-content-item pt-cv-1-col" >
+<div class="panel-heading">
+	<a class="panel-title" data-toggle="cvcollapse" data-parent="#90cacf42ba" href="#65073c5zih">
+		UV Tops Again in LET!	</a>
+	</div>
+<div id="65073c5zih" class="panel-collapse collapse ">
+	<div class="panel-body">
+		<div class="pt-cv-content">Congratulations! TOP 7 : RHEA MAE CALISANG ONGKIT, LPT &#8211; ...<br /><a href="http://uv.edu.ph/uv-in-the-news/uv-tops-again-in-let/" class="_self pt-cv-readmore btn btn-success" target="_self" >Read More</a></div>	</div>
+</div></div></div></div></div></div>
+				</div> <!-- .et_pb_code_inner -->
+			</div> <!-- .et_pb_code --><div class="et_pb_module et_pb_text et_pb_text_15 et_pb_bg_layout_light  et_pb_text_align_right">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>
+<a href="http://uv.edu.ph/category/uv-in-the-news/">See Older Posts</a></p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_18    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_16 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2>The Visayanian</h2>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_code et_pb_code_4">
+				
+				
+				<div class="et_pb_code_inner">
+					<div class="pt-cv-wrapper et_smooth_scroll_disabled"><div class="pt-cv-view pt-cv-collapsible" id="pt-cv-view-dc04f84vwj"><div data-id="pt-cv-page-1" class="pt-cv-page" data-cvc="1"><div class="panel-group" id="14293a3wx5"><div class="panel panel-default pt-cv-content-item pt-cv-1-col" >
+<div class="panel-heading">
+	<a class="panel-title" data-toggle="cvcollapse" data-parent="#14293a3wx5" href="#2099926zim">
+		The Official Youtube Channel Of The Visayanian	</a>
+	</div>
+<div id="2099926zim" class="panel-collapse collapse in">
+	<div class="panel-body">
+		<div class="pt-cv-content">Keep updated for the university happenings! Click the link and ...<br /><a href="http://uv.edu.ph/the-visayanian/the-offical-youtube-channel-of-the-visayanian/" class="_self pt-cv-readmore btn btn-success" target="_self" >Read More</a></div>	</div>
+</div></div>
+<div class="panel panel-default pt-cv-content-item pt-cv-1-col" >
+<div class="panel-heading">
+	<a class="panel-title" data-toggle="cvcollapse" data-parent="#14293a3wx5" href="#6ed02426wf">
+		MESSAGE FROM A LET 2018 TOP NOTCHER	</a>
+	</div>
+<div id="6ed02426wf" class="panel-collapse collapse ">
+	<div class="panel-body">
+		<div class="pt-cv-content">&#8220;Nothing beats the prayer of a genuine heart. Ask and ...<br /><a href="http://uv.edu.ph/the-visayanian/message-from-a-let-2018-top-notcher/" class="_self pt-cv-readmore btn btn-success" target="_self" >Read More</a></div>	</div>
+</div></div></div></div></div></div>
+				</div> <!-- .et_pb_code_inner -->
+			</div> <!-- .et_pb_code --><div class="et_pb_module et_pb_text et_pb_text_19 et_pb_bg_layout_light  et_pb_text_align_right">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>
+<a href="http://uv.edu.ph/category/the-visayanian/">See Older Posts</a></p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="about" class="et_pb_with_border et_pb_section et_pb_section_12 et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_14">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_21    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_gallery et_pb_gallery_3 et_animated et_pb_bg_layout_light  et_pb_slider et_pb_gallery_fullwidth et_slider_auto et_slider_speed_3500 clearfix">
+				<div class="et_pb_gallery_items et_post_gallery clearfix" data-per_page="4"><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2019/08/updated-vision.png" title="updated vision">
+					<img src="http://uv.edu.ph/wp-content/uploads/2019/08/updated-vision.png" alt="updated vision" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x49;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2019/08/mission-updated-1.png" title="mission updated">
+					<img src="http://uv.edu.ph/wp-content/uploads/2019/08/mission-updated-1.png" alt="mission updated" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x49;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2019/08/goals-update.png" title="goals update">
+					<img src="http://uv.edu.ph/wp-content/uploads/2019/08/goals-update.png" alt="goals update" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x49;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2019/08/new-logo-updated.png" title="new logo updated">
+					<img src="http://uv.edu.ph/wp-content/uploads/2019/08/new-logo-updated.png" alt="new logo updated" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x49;"></span>
+				</a>
+				</div></div></div><!-- .et_pb_gallery_items --></div><!-- .et_pb_gallery -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="Admission" class="et_pb_with_border et_pb_section et_pb_section_13 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_15">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_22    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_20 et_pb_bg_layout_light  et_pb_text_align_center">
+				
+				
+				<div class="et_pb_text_inner">
+					<h1 class="section-heading">ADMISSION REQUIREMENTS</h1>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_21 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>At the time of enrollment, a freshman must submit the following:</p>
+<ol>
+<li>Form 138 (High School Card)</li>
+<li>Certificate of Good Moral Character</li>
+<li>PSA (Formerly NSO) Authenticated Birth Certificate</li>
+<li>NCAE Results</li>
+<li>4 pcs 2x2 Pictures (Green Background with Name tag)</li>
+</ol>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_22 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<ul>
+<li>As set by the University of the Visayas, students who intend to enroll in a degree with board examinations (e.g. Accountancy, Medicine, Dentistry, Law, Nursing, etc.) regardless of NCAE results should take the prescribed entrance examinations administered by the Guidance Testing Center.</li>
+<li>All documents must be photocopied in 2 sets</li>
+<li>Put it in a long brown envelope</li>
+<li>Admission Fee: 500php</li>
+<li>Testing Fee(Board programs): 150php</li>
+</ul>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="http://uv.edu.ph/admission/">CHECK OTHER REQUIREMENTS FOR NON-FRESHMEN</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="academics" class="et_pb_section et_pb_section_14 et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_16">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_23    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_23 et_pb_bg_layout_light  et_pb_text_align_center">
+				
+				
+				<div class="et_pb_text_inner">
+					<h1 class="section-heading">ACADEMICS</h1>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_17">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_24    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_0 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/college-of-arts-and-sciences/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/07/BLURBCAS.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_1 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/college-of-nursing/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/07/BLURBCON.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_2 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/12/BLURBSL.png" alt="" class="et-waypoint et_pb_animation_top" /></span></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_25    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_3 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/college-of-business-administration/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/07/BLURBCBA.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_4 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/college-of-dentistry/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/07/BLURBCOD.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_5 et_clickable et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/basic-education-senior-high-school/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/12/BLURBSHS.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_6 et_clickable et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/technical-vocational/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/12/BLURBTECHVOC.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_26    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_7 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/college-of-education/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/07/BLURBCOE.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_8 et_hover_enabled et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/college-of-pharmacy/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/07/BLURBCOP.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_9 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/college-of-computer-studies/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/07/BLURBCCS.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_10 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/expanded-tertiary-education-equivalency-and-accreditation-program/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/07/BLURBETEEAP.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_27    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_11 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/college-of-maritime-education/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/07/BLURBCME.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_12 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/college-of-criminal-justice-education/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/12/BLURBCJE.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_13 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://uv.edu.ph/college-of-engineering-and-architecture/"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/07/BLURBCEA.png" alt="" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="campuses" class="et_pb_section et_pb_section_15 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_18 et_pb_row_fullwidth">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_28    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_24 et_pb_bg_layout_light  et_pb_text_align_center">
+				
+				
+				<div class="et_pb_text_inner">
+					<h1>OUR CAMPUSES</h1>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_divider et_pb_divider_0 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_19">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_29    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_7 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="http://uv.edu.ph/wp-content/uploads/2018/07/main-1.png" alt="" /></span>
+			</div><div class="et_pb_module et_pb_image et_pb_image_8 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="http://uv.edu.ph/wp-content/uploads/2018/08/toledo2.png" alt="" /></span>
+			</div><div class="et_pb_module et_pb_image et_pb_image_9 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="http://uv.edu.ph//wp-content/uploads/2018/12/danao-1.png" alt="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_30    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_10 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="http://uv.edu.ph//wp-content/uploads/2018/07/banilad.png" alt="" /></span>
+			</div><div class="et_pb_module et_pb_image et_pb_image_11 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="http://uv.edu.ph/wp-content/uploads/2018/12/pardo.png" alt="" /></span>
+			</div><div class="et_pb_module et_pb_image et_pb_image_12 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="http://uv.edu.ph/wp-content/uploads/2018/12/dalaguete.png" alt="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_31    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_13 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="http://uv.edu.ph/wp-content/uploads/2018/12/mingla.png" alt="" /></span>
+			</div><div class="et_pb_module et_pb_image et_pb_image_14 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="http://uv.edu.ph/wp-content/uploads/2018/12/mandaue.png" alt="" /></span>
+			</div><div class="et_pb_module et_pb_image et_pb_image_15 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="http://uv.edu.ph//wp-content/uploads/2018/08/compostela.png" alt="" /></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_16 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_20">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_32    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_25 et_pb_bg_layout_light  et_pb_text_align_justified">
+				
+				
+				<div class="et_pb_text_inner">
+					<h1>The Don Vicente Gullas Learning Resource Center</h1>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_26 et_pb_bg_layout_light  et_pb_text_align_justified">
+				
+				
+				<div class="et_pb_text_inner">
+					<p style="text-align: left;">The Don Vicente Learning Resource Center (DVLRC), is a state of the art library of the University of the Visayas. It occupies the 3rd and 4th floors of the Inday Pining Building which is situated in the heart of the University’s Main Campus. It is fully air-conditioned, equipped with CCTV cameras installed in different strategic places, and comfortable furniture to make study and research more conducive. It has also acquired the latest RFID Security gate (the first in Cebu) to ensure the safety of its resources. Discussion rooms for small and big groups are also available for the students to utilize. A Visualization Room which can accommodate 60 persons is also afforded for the faculty and students to use for their class presentations, product demonstrations, and the like. A forty seater (40) internet laboratory is also available for all students for their study and research needs.</p>
+<p style="text-align: left;">The DVLRC supports both the students and faculty in their academic and research needs through the provision of varied updated information sources, both printed and online. It is also manned by qualified and efficient librarians who are always available to serve the whole academe.</p>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_gallery et_pb_gallery_4 et_pb_bg_layout_light  et_pb_gallery_grid">
+				<div class="et_pb_gallery_items et_post_gallery clearfix" data-per_page="4"><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9669.jpg" title="IMG_9669">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9669-400x284.jpg" alt="IMG_9669" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9670.jpg" title="IMG_9670">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9670-400x284.jpg" alt="IMG_9670" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9672.jpg" title="IMG_9672">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9672-400x284.jpg" alt="IMG_9672" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9674.jpg" title="IMG_9674">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9674-400x284.jpg" alt="IMG_9674" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9676-1.jpg" title="IMG_9676">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9676-1-400x284.jpg" alt="IMG_9676" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9677.jpg" title="IMG_9677">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9677-400x284.jpg" alt="IMG_9677" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9684.jpg" title="IMG_9684">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9684-400x284.jpg" alt="IMG_9684" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9687.jpg" title="IMG_9687">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9687-400x284.jpg" alt="IMG_9687" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9688.jpg" title="IMG_9688">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9688-400x284.jpg" alt="IMG_9688" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9694-1.jpg" title="IMG_9694">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9694-1-400x284.jpg" alt="IMG_9694" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9705.jpg" title="IMG_9705">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9705-400x284.jpg" alt="IMG_9705" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9707.jpg" title="IMG_9707">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9707-400x284.jpg" alt="IMG_9707" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9709.jpg" title="IMG_9709">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9709-400x284.jpg" alt="IMG_9709" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9711.jpg" title="IMG_9711">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9711-400x284.jpg" alt="IMG_9711" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9712.jpg" title="IMG_9712">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9712-400x284.jpg" alt="IMG_9712" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9716.jpg" title="IMG_9716">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9716-400x284.jpg" alt="IMG_9716" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9717-1.jpg" title="IMG_9717">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9717-1-400x284.jpg" alt="IMG_9717" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9719.jpg" title="IMG_9719">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9719-400x284.jpg" alt="IMG_9719" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9730-1.jpg" title="IMG_9730">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9730-1-400x284.jpg" alt="IMG_9730" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9733.jpg" title="IMG_9733">
+					<img src="http://uv.edu.ph/wp-content/uploads/2018/10/IMG_9733-400x284.jpg" alt="IMG_9733" />
+					<span class="et_overlay et_pb_inline_icon" data-icon="&#x41;"></span>
+				</a>
+				</div></div></div><!-- .et_pb_gallery_items --><div class="et_pb_gallery_pagination"></div></div><!-- .et_pb_gallery -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="research" class="et_pb_section et_pb_section_17 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_21">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_33    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_27 et_pb_bg_layout_light  et_pb_text_align_center">
+				
+				
+				<div class="et_pb_text_inner">
+					<h1>CENTER FOR RESEARCH AND DEVELOPMENT</h1>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_divider et_pb_divider_1 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_22 et_animated">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_34    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_14 et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><img src="http://uv.edu.ph//wp-content/uploads/2018/09/UV-CRD2-1.png" alt="" class="et-waypoint et_pb_animation_top" /></span></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_35    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_divider_2 et_pb_space et_pb_divider_hidden"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_28 et_pb_bg_layout_light  et_pb_text_align_justified">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>
+The CRD serves as a coordinating office for all research activities in the university inlcing those that are co-sponsordes with other agencies. It also serves as a data bank of useful information for research, instructor and extension for the university and for data needed by other government and non-government agencies and individuals.</p>
+<p>The CRD shall adopt an inter-unit, inter-disciplinary, multifunctional and inter-agency strategy in understanding and implementing research activities. Researcch projects/proposals shall be in accordance with the established criteria and priorities set by the UV-URC to be approved by the University President and Executive Vice President and confirmed by the University Broad of Trustees.</p>
+<p>Completed institutional researches shall be published in scholarly referred journals for dissemination and usability.</p>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 et_pb_bg_layout_dark" href="http://uv.edu.ph/center-for-research-and-development/" target="_blank">Read More</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="contact-us" class="et_pb_section et_pb_section_18 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_23">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_36    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_29 et_pb_bg_layout_dark  et_pb_text_align_justified">
+				
+				
+				<div class="et_pb_text_inner">
+					<h1>CONTACT US</h1>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_divider et_pb_divider_3 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_24">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_37    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+			<div id="et_pb_contact_form_0" class="et_pb_with_border et_pb_module et_pb_contact_form_0 et_animated et_pb_contact_form_container clearfix  et_pb_text_align_justified" data-form_unique_num="0">
+				
+				
+				
+				<div class="et-pb-contact-message"></div>
+				
+				<div class="et_pb_contact">
+					<form class="et_pb_contact_form clearfix" method="post" action="http://uv.edu.ph/">
+						<p class="et_pb_contact_field et_pb_contact_field_0 et_pb_contact_field_half" data-id="name" data-type="input">
+				
+				
+				<label for="et_pb_contact_name_0" class="et_pb_contact_form_label">Name</label>
+				<input type="text" id="et_pb_contact_name_0" class="input" value="" name="et_pb_contact_name_0" data-required_mark="required" data-field_type="input" data-original_id="name" placeholder="Name">
+			</p><p class="et_pb_contact_field et_pb_contact_field_1 et_pb_contact_field_half et_pb_contact_field_last" data-id="email" data-type="email">
+				
+				
+				<label for="et_pb_contact_email_0" class="et_pb_contact_form_label">Email Address</label>
+				<input type="text" id="et_pb_contact_email_0" class="input" value="" name="et_pb_contact_email_0" data-required_mark="required" data-field_type="email" data-original_id="email" placeholder="Email Address">
+			</p><p class="et_pb_contact_field et_pb_contact_field_2 et_pb_contact_field_last" data-id="message" data-type="text">
+				
+				
+				<label for="et_pb_contact_message_0" class="et_pb_contact_form_label">Message</label>
+				<textarea name="et_pb_contact_message_0" id="et_pb_contact_message_0" class="et_pb_contact_message input" data-required_mark="required" data-field_type="text" data-original_id="message" placeholder="Message"></textarea>
+			</p>
+						<input type="hidden" value="et_contact_proccess" name="et_pb_contactform_submit_0">
+						<input type="text" value="" name="et_pb_contactform_validate_0" class="et_pb_contactform_validate_field" />
+						<div class="et_contact_bottom_container">
+							
+							<button type="submit" class="et_pb_contact_submit et_pb_button">Send</button>
+						</div>
+						<input type="hidden" id="_wpnonce-et-pb-contact-form-submitted-0" name="_wpnonce-et-pb-contact-form-submitted-0" value="f13df3ab8f" /><input type="hidden" name="_wp_http_referer" value="/" />
+					</form>
+				</div> <!-- .et_pb_contact -->
+			</div> <!-- .et_pb_contact_form_container -->
+			
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_38    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_30 et_pb_bg_layout_dark  et_pb_text_align_justified">
+				
+				
+				<div class="et_pb_text_inner">
+					<p><strong>Talk To Us Now!</strong></p>
+<p>(032) 253-6173<br />(032) 253-6413<br />(032) 253-7401<br />(032) 253-4384<br />(032) 416-7991</p>
+<p>Admissions Office – Local 213<br />Informations Office – Local 100<br />Accounting Office – Local 217<br />HRDM Office – Local 210<br />Student Affairs – Local 212</p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_39    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_31 et_pb_bg_layout_dark  et_pb_text_align_justified">
+				
+				
+				<div class="et_pb_text_inner">
+					<p><strong>UV Satellite Campuses</strong></p>
+<p>Mandaue (032) 345-1464 | 420-3148 <br />Compostela (032) 425-8799 <br />Danao (032) 343-0075 | 343-0050<br />Pardo (032) 415-3984 | 273-1914 <br />Minglanilla (032) 272-6824 | 272-3249 <br />Toledo (032) 467-8721 | 322-5629<br />Dalaguete (032) 484-8717 | 484-8483</p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->			</div>
+			
+		</div>					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+    <div id="footer-widgets" class="clearfix">
+		<div class="footer-widget"><div id="text-2" class="widget fwidget et_pb_widget widget_text">			<div class="textwidget"><p>University of the Visayas</p>
+<p>The First University in Cebu</p>
+<p><a href="http://uv.edu.ph/wp-content/uploads/2018/10/UV-SEAL-ONLY.png"><img class="alignnone wp-image-986" src="http://uv.edu.ph/wp-content/uploads/2018/10/UV-SEAL-ONLY-300x188.png" alt="" width="209" height="131" /></a></p>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-3" class="widget fwidget et_pb_widget widget_text">			<div class="textwidget"><p><strong>UNIVERSITY</strong></p>
+<p><a href="http://uv.edu.ph/#campuses">Campuses</a></p>
+<p><a href="http://uv.edu.ph/admission/">Admission</a></p>
+<p><a href="http://uv.edu.ph/#academics">Academic</a></p>
+<p><a href="http://uv.edu.ph/#contact-us">Contact</a></p>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-4" class="widget fwidget et_pb_widget widget_text">			<div class="textwidget"><p><strong>PEOPLE</strong></p>
+<p><a href="http://uv.edu.ph/#">Alumni</a></p>
+<p><a href="http://uv.edu.ph/#">Faculty &amp; Staff</a></p>
+<p><a href="http://uv.edu.ph/website-privacy-policies-of-the-university/">Website Privacy Policies</a></p>
+<p><a href="http://uv.edu.ph/website-privacy-policies-of-the-university/other-privacy-policies/">Other Privacy Policies</a></p>
+<p>&nbsp;</p>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-6" class="widget fwidget et_pb_widget widget_text">			<div class="textwidget"><p><a href="http://uv.edu.ph/wp-content/uploads/2019/07/Final-partners.png"><img class="alignnone  wp-image-1758" src="http://uv.edu.ph/wp-content/uploads/2019/07/Final-partners.png" alt="" width="289" height="208" /></a></p>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget -->    </div> <!-- #footer-widgets -->
+</div>    <!-- .container -->
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="https://www.facebook.com/universityofthevisayascebu/" class="icon">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="#" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-google-plus">
+		<a href="#" class="icon">
+			<span>Google</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-rss">
+		<a href="http://uv.edu.ph/feed/" class="icon">
+			<span>RSS</span>
+		</a>
+	</li>
+
+</ul><div id="footer-info">© Copyright 2019. University of the Visayas, All rights reserved | Powered by Mindweb eSolutions</div>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+		<script type="text/javascript">
+				var et_animation_data = [{"class":"et_pb_gallery_3","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_row_22","style":"fold","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_contact_form_0","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+				var et_link_options_data = [{"class":"et_pb_blurb_5","url":"http:\/\/uv.edu.ph\/basic-education-senior-high-school\/","target":"_self"},{"class":"et_pb_blurb_6","url":"http:\/\/uv.edu.ph\/technical-vocational\/","target":"_self"}];
+			</script>
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"0792db2e9b","is_admin":"","is_mobile":"","ajaxurl":"http:\/\/uv.edu.ph\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://uv.edu.ph/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=2.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"http:\/\/uv.edu.ph\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/uv.edu.ph\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/uv.edu.ph\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"e897fb1119","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"90253e1b8a","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"5","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://uv.edu.ph/wp-content/themes/Divi/js/custom.min.js?ver=3.19.5'></script>
+<script type='text/javascript' src='http://uv.edu.ph/wp-content/themes/Divi/core/admin/js/common.js?ver=3.19.5'></script>
+<script type='text/javascript' src='http://uv.edu.ph/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+</body>
+</html>

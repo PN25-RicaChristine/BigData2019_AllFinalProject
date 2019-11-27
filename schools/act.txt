@@ -1,0 +1,552 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <!-- #region Head -->
+    <head>
+        <title>Asian College of Technology - One of the Best IT Schools in Cebu</title>
+        <!--Import Google Icon Font
+        <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
+        <!--Let browser know website is optimized for mobile-->
+        <link rel="stylesheet" href="../Content/fonts.css">
+        <meta name="_globalsign-domain-verification" content="u_GjLwiG9WaRFDD6jC47mb-loKE2UDk5RXQWpzMOpn" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <!-- Compiled and minified CSS -->
+        
+        <link href="/Content/materialize.css" rel="stylesheet" />  
+        
+        
+        
+        <link href="/Content/styles.css" rel="stylesheet"/>
+<link href="/Content/waitMe.css" rel="stylesheet"/>
+
+        
+        
+        <!--Import jQuery before materialize.js-->
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <!-- Compiled and minified JavaScript -->
+        
+        <script src="/Scripts/materialize.js"></script>
+        <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+        <script src="/Content/Js/Common/Dialog.js"></script>
+<script src="/Content/js/common.js"></script>
+<script src="/Content/js/waitMe.js"></script>
+
+    </head>
+    <!-- #endregion -->
+    <!--<body class="waitMe_body">-->
+    <body>
+        <!--<div class="waitMe_container progress" style="background:#000">
+            <div style="background:#fff"></div>
+         </div>-->
+        <!-- Head Background ACTIEF 
+        <div class = "no-padding collapse navbar-collapse">
+			<div class = "background header-fixed"></div>
+		</div>-->
+
+        <!-- Menus -->
+        <div class ="navbar-fixed">
+            <nav class="white" role="navigation">
+                <div class="nav-wrapper box-shadow">
+                    <a href="/home" class="brand-logo right"><img src ="/Images/act_logo_2018.png" class="logo"/></a>
+                    <ul id="" class="left hide-on-med-and-down">
+                        <li class = ""><a href ="/home" class ="menu blue-grey-text text-darken-4">Home</a></li>
+                        <li class = "">
+                              <a class='dropdown-button blue-grey-text text-darken-4' href='#' data-activates='aboutAct'>About ACT</a>
+
+                              <ul id='aboutAct' class='dropdown-content grey lighten-4'>
+                                <li><a href="/AboutUs/History">History</a></li>
+						        <li><a href="/AboutUs/VisionAndMission">Vision and Mission</a></li>
+						        <li><a href="/AboutUs/GoalsAndObjectives">Goals And Objectives</a></li>
+						        <li><a href="/AboutUs/CoreValues">Core Values</a></li>
+                                <li><a href="/Administration/AdministrativeOfficers">Administrative Officers</a></li>
+						        <li><a href="/AboutUs/Affiliation">Affiliation</a></li>
+						        <li><a href="/AboutUs/Facilities">Facilities</a></li>
+						        <li><a href="/AboutUs/Scholarship">Scholarship</a></li>	
+                              </ul>
+                        </li>
+                        <li class = "">
+                            <a href ="#" class ="dropdown-button blue-grey-text text-darken-4" data-activates='academics'>Academics</a>
+                            <ul id='academics' class='dropdown-content grey lighten-4'>
+                                <li><a href="/Academics/SeniorHighPrograms">Senior High Programs</a></li>
+                                <li>
+                                    <a href ="#" class ="dropdown-button sub blue-grey-text text-darken-4" data-activates='academics-sub-1'>Undergraduate Programs</a>
+                                    <ul id='academics-sub-1' class='dropdown-content grey lighten-4'>
+                                        <li><a href="/Academics/CASP">College of Arts, Sciences and Pedagogy</a></li>
+							            <li><a href="/Academics/CBM">College of Business Management</a></li>
+							            <li><a href="/Academics/CCS">College of Computer Studies</a></li>
+							            <li><a href="/Academics/CNAP">College of Nursing and Allied Programs</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="/Academics/Faculty">Faculty</a></li>
+                            </ul>
+                            
+                        </li>
+                        <li class = "">
+                            <a href ="#" class ="dropdown-button blue-grey-text text-darken-4" data-activates='admission'>Admission</a>
+                            <ul id='admission' class='dropdown-content grey lighten-4'>
+                                <li><a href="/Admission/EnrollmentProcedure">Enrollment Procedures</a></li>
+						        <li><a href="/Admission/AdmissionRequirement">Admission Requirements</a></li>
+                            </ul>
+                        </li>
+                        <li class = "">
+                            <a href ="#" class ="dropdown-button blue-grey-text text-darken-4" data-activates='admin'>Administration</a>
+                            <ul id='admin' class='dropdown-content grey lighten-4'>
+                                <li><a href="/Administration/AdministrativeOfficers">Administrative Officers</a></li>
+                            </ul>
+                        </li>
+                        <li class = "">
+                            <a href ="#" class ="dropdown-button blue-grey-text text-darken-4" data-activates='sw'>Student Welfare</a>
+                            <ul id="sw" class="dropdown-content grey lighten-4">
+                                <li>
+                                    <a href="#" class="dropdown-button sub blue-grey-text text-darken-4" data-activates="ce">Campus Experience</a>
+                                    <ul id="ce" class="dropdown-content grey lighten-4">
+                                        <li><a href="/StudentWelfare/Facilities">Facilities</a></li>
+								        <li><a href="/StudentWelfare/SafetyAndSecurity">Safety And Security</a></li>
+								        <li><a href="/StudentWelfare/EnvironmentalResponsibility">Environmental Responsibility</a></li>
+								        <li><a href="/StudentWelfare/VirtualTour">Virtual Tour</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#" class="dropdown-button sub blue-grey-text text-darken-4" data-activates="ss">Student Services</a>
+                                    <ul id="ss" class="dropdown-content grey lighten-4">
+                                        <li><a href="/StudentWelfare/Library">Library</a></li>
+								        <li><a href="/StudentWelfare/StudentHealth">Student Health</a></li>
+								        <li><a href="/StudentWelfare/StudentCareer">Career</a></li>
+                                        <li><a href="/StudentWelfare/CoCurricular">Co-Curricular</a></li>
+								        <li><a href="/StudentWelfare/ExtraCurricular">Extra Curricular</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#" class="dropdown-button sub blue-grey-text text-darken-4" data-activates="sa">Student Activities</a>
+                                    <ul id="sa" class="dropdown-content grey-lighten-4">
+                                        <li><a href="/StudentWelfare/ClubsAndOrganization">Clubs And Organization</a></li>
+								        <li><a href="/StudentWelfare/CommunityInvolvement">Community Involvement</a></li>
+                                        <li><a href="/StudentWelfare/MediaPublication">Media Publication</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class = "">
+                            <a href ="#" class ="dropdown-button blue-grey-text text-darken-4" data-activates="res">Research</a>
+                            <ul id="res" class="dropdown-content grey lighten-4">
+                                <li><a href="/Research/ResearchPresentationSchedule">Research Presentation Schedule</a></li>
+						        <li><a href="/Research/ResearchAnnouncements">Announcements</a></li>
+                                <li><a href="/Research/ResearchActivities">Activities</a></li>
+                                <li><a href="/Research/ResearchStudies">Research Studies</a></li>
+                                <li><a href="/Research/Journal">Journal</a></li>
+                            </ul>
+                        </li>
+                        <li class = "">
+                            <a href ="#" class ="dropdown-button blue-grey-text text-darken-4" data-activates="alumni">Alumni</a>
+                            <ul id="alumni" class="dropdown-content grey lighten-4">
+                                
+                                <li><a href="/Alumni/AlumniInformation">Graduate Tracer Survey</a></li>
+						        <li><a href="/Alumni/AlumniAnnouncement">Announcements</a></li>
+                                <li><a href="/Alumni/AlumniActivities">Activities</a></li>
+                                <li><a href="/Alumni/FeaturedAlumnus">Featured Alumnus</a></li>
+                            </ul>
+                        </li>
+                        <li class = "">
+                            <a href ="#" class ="dropdown-button blue-grey-text text-darken-4" data-activates="school">Campus</a>
+                            <ul id="school" class="dropdown-content grey lighten-4">
+						        <li><a href="/Schools/ISD">ISD</a></li>
+                            </ul>
+                        </li>
+                        <li class = "">
+                            <a href="#" class="dropdown-button blue-grey-text text-darken-4" data-activates="career">Career</a>
+                            <ul id="career" class="dropdown-content grey-lighten-4">
+                                <li><a href="/Career/JobOpportunities">Job Opportunities</a></li>
+						        <li><a href="/Career/UrgentHiring">Urgent Hiring</a></li>
+                            </ul>
+                        </li>
+                        <li class = ""><a href ="/ContactUs" class ="menu blue-grey-text text-darken-4">Contact Us</a></li>
+                        <li class = "">
+                            <a href ="#" class ="dropdown-button blue-grey-text text-darken-4" data-activates="web">Web</a>
+                            <ul id="web" class="dropdown-content grey lighten-4">
+                                <li><a target="_blank" href = "https://sams.act.edu.ph/">Students Portal</a></li>
+                                <li><a target="_blank" href = "https://guardian.act.edu.ph/">Guardians Portal</a></li>
+                            </ul>
+
+                        </li>
+                     </ul>
+
+                    
+                   
+                  <a href="#" data-activates="slide-out" class="button-collapse blue-grey-text text-darken-4"><i class="material-icons">menu</i></a>
+
+                </div>
+                    
+            </nav>
+        </div>
+
+
+        <!--Side Nav-->
+         <ul id="slide-out" class="side-nav">
+            <li><div class="userView">
+                <div class="background">
+                <!--<img src ="/Images/act-logo-transparent.png" class="side-logo"/>-->
+                </div>
+                <a href="#!user"><img class="logo" src="/Images/act-logo-transparent.png"></a>
+                <a href="#!name"><span class="white-text name" style="color: transparent;">Asian College of Technology International Educational Foundation</span></a>
+                <a href="#!email"><span class="white-text email" style="color: transparent;">asian_college@yahoo.com</span></a>
+            </div></li>
+             
+            <li>
+                <ul class="collapsible" data-collapsible="accordion">
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">store</i><a href ="/home" class ="menu custom-text-1">Home</a></div>
+                        </li>
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">search</i>About ACT</div>
+                            <div class="collapsible-body">
+                                <div class="collapsible-header"><a href="/AboutUs/History">History</a></div>
+                                <div class="collapsible-header"><a href="/AboutUs/VisionAndMission">Vision and Mission</a></div>
+                                <div class="collapsible-header"><a href="/AboutUs/GoalsAndObjectives">Goals And Objectives</a></div>
+                                <div class="collapsible-header"><a href="/AboutUs/CoreValues">Core Values</a></div>
+                                <div class="collapsible-header"><a href="/Administration/AdministrativeOfficers">Administrative Officers</a></div>
+                                <div class="collapsible-header"><a href="/AboutUs/Affiliation">Affiliation</a></div>
+                                <div class="collapsible-header"><a href="/AboutUs/Facilities">Facilities</a></div>
+                                <div class="collapsible-header"><a href="/AboutUs/Scholarship">Scholarship</a></div>
+                            </div>
+                        </li>
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">play_arrow</i>Academics</div>
+                            <div class="collapsible-body">
+                                <div class="collapsible-header"><a href="/Academics/SeniorHighPrograms">Senior High Programs</a></div>
+                                <div class="collapsible-header"><a href="/Academics/CASP">CASP</a></div>
+                                <div class="collapsible-header"><a href="/Academics/CBM">CBM</a></div>
+                                <div class="collapsible-header"><a href="/Academics/CCS">CCS</a></div>
+                                <div class="collapsible-header"><a href="/Academics/CNAP">CNAP</a></div>
+                                <div class="collapsible-header"><a href="/Academics/Faculty">Faculty</a></div>
+                            </div>
+                        </li>
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">description</i>Admission</div>
+                            <div class="collapsible-body">
+                                <div class="collapsible-header"><a href="/Admission/EnrollmentProcedure">Enrollment Procedures</a></div>
+                                <div class="collapsible-header"><a href="/Admission/AdmissionRequirement">Admission Requirements</a></div>
+                            </div>
+                        </li>
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">perm_identity</i>Administration</div>
+                            <div class="collapsible-body">
+                                <div class="collapsible-header"><a href="/Administration/AdministrativeOfficers">Administrative Officers</a></div>
+                            </div>
+                        </li>
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">label</i>Campus Experience</div>
+                            <div class="collapsible-body">
+                                <div class="collapsible-header"><a href="/StudentWelfare/Facilities">Facilities</a></div>
+								<div class="collapsible-header"><a href="/StudentWelfare/SafetyAndSecurity">Safety And Security</a></div>
+								<div class="collapsible-header"><a href="/StudentWelfare/EnvironmentalResponsibility">Environmental Responsibility</a></div>
+								<div class="collapsible-header"><a href="/StudentWelfare/VirtualTour">Virtual Tour</a></div>
+                            </div>
+                        </li>
+                        <li class="">
+                            <div class="collapsible-header"><i class="material-icons">language</i>Student Services</div>
+                            <div class="collapsible-body">
+                                <div class="collapsible-header"><a href="/StudentWelfare/Library">Library</a></div>
+								<div class="collapsible-header"><a href="/StudentWelfare/StudentHealth">Student Health</a></div>
+								<div class="collapsible-header"><a href="/StudentWelfare/StudentCareer">Career</a></div>
+                                <div class="collapsible-header"><a href="/StudentWelfare/CoCurricular">Co-Curricular</a></div>
+								<div class="collapsible-header"><a href="/StudentWelfare/ExtraCurricular">Extra Curricular</a></div>
+                            </div>
+                        </li>
+                        <li class="">
+                            <div class="collapsible-header"><i class="material-icons">whatshot</i>Student Activities</div>
+                            <div class="collapsible-body">
+                                <div class="collapsible-header"><a href="/StudentWelfare/ClubsAndOrganization">Clubs And Organization</a></div>
+								<div class="collapsible-header"><a href="/StudentWelfare/CommunityInvolvement">Community Involvement</a></div>
+                                <div class="collapsible-header"><a href="/StudentWelfare/MediaPublication">Media Publication</a></div>
+                            </div>
+                        </li>
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">pageview</i>Research</div>
+                            <div class="collapsible-body">
+                                <div class="collapsible-header"><a href="/Research/ResearchPresentationSchedule">Research Presentation Schedule</a></div>
+						        <div class="collapsible-header"><a href="/Research/ResearchAnnouncements">Announcements</a></div>
+                                <div class="collapsible-header"><a href="/Research/ResearchActivities">Activities</a></div>
+                                <div class="collapsible-header"><a href="/Research/Journal">Journal</a></div>
+                            </div>
+                        </li>
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">assignment_ind</i>Alumni</div>
+                            <div class="collapsible-body">
+                              
+                                
+                               <div class="collapsible-header"><a href="/Alumni/AlumniInformation">Graduate Tracer Survey</a></div>
+                                
+						        <div class="collapsible-header"><a href="/Alumni/AlumniAnnouncement">Announcements</a></div>
+                                <div class="collapsible-header"><a href="/Alumni/AlumniActivities">Activities</a></div>
+                                <div class="collapsible-header"><a href="/Alumni/FeaturedAlumnus">Featured Alumnus</a></div>
+                            </div>
+                        </li>
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">view_day</i>Campus</div>
+                            <div class="collapsible-body">
+						        <div class="collapsible-header"><a href="/Schools/ISD">ISD</a></div>
+                            </div>
+                        </li>
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">grade</i>Career</div>
+                            <div class="collapsible-body">
+                                <div class="collapsible-header"><a href="/Career/JobOpportunities">Job Opportunities</a></div>
+						        <div class="collapsible-header"><a href="/Career/UrgentHiring">Urgent Hiring</a></div>
+                            </div>
+                        </li>
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">room</i><a href ="/ContactUs" class ="menu custom-text-1">Contact Us</a></div>
+                        </li>
+                        <li class = "">
+                            <div class="collapsible-header"><i class="material-icons">http</i>Web</div>
+                            <div class="collapsible-body">
+                                <div class="collapsible-header"><a target="_blank" href = "https://sams.act.edu.ph/">Students Portal</a></div>
+						        <div class="collapsible-header"><a target="_blank" href = "https://guardian.act.edu.ph/">Guardians Portal</a></div>
+                            </div>
+                        </li>
+                     </ul>
+
+            </li>
+        </ul>
+
+
+        <div id="index-banner" class="parallax-container">
+            <div class="section no-pad-bot">
+              <div class="container">
+                <br><br>
+                <h1 class="header center teal-text text-lighten-2"></h1>
+                <div class="row center">
+                  <h5 class="header col s12 light"></h5>
+                </div>
+                <div class="row center">
+                  <!--<a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Get Started</a>-->
+                </div>
+                <br><br>
+
+              </div>
+            </div>
+            <div class="parallax">
+                <img style="width: 1000px; height: 620px;" src="/images/ACT HEADER 2018v2.png" />
+            </div>
+            </div>
+                
+                
+
+
+
+
+<div class="row">
+    <div class="col s12 m9">
+        <br /> 
+        <div class="carousel carousel-slider collection-top">
+            <a class="carousel-item" href=""><img src="images/slides/slide20.png"></a>
+            <a class="carousel-item" href=""><img src="images/slides/slide14.png"></a>
+            <a class="carousel-item" href=""><img src="images/slides/slide3.jpg"></a>
+            <a class="carousel-item" href=""><img src="images/slides/slide4.jpg"></a>
+
+     
+            
+        </div>
+    </div>
+    <div class="col s12 m3">
+            <br />
+            <div class="right relative"><h1 class="floating-text">ACT</h1></div>
+            <ul class="collection with-header collection-top box-shadow">
+                <li class="collection-header"><h6 class="blue-text text-darken-3">QUICK GUIDES</h6></li>
+
+                <li class="collection-item">
+                    <a href="/Admission/EnrollmentProcedure">Enrollment Procedures</a>
+                </li>
+                <li class="collection-item grey-text text-darken-3">
+                    <a href="/Admission/AdmissionRequirement">Admission Requirements</a>
+                </li>
+                
+                 <li class="collection-item">
+                    <a href="#news3">TechVoc Enrollment Procedures</a>
+                </li>
+                <li class="collection-item">
+                    <a href="#news2">Announcement from ACT-Library Department</a>
+                </li>
+                <li class="collection-item">
+                    <br />
+                </li>
+                <li class="collection-item">
+                    <a href="https://sams.act.edu.ph/" target="_blank">
+				    <img class="responsive-img" src="../images/webapps/sams.png">
+				    </a>
+
+                    <br/>
+                   <span class="light-blue-text">Views: <span id="hitCountValue">2,339,405</span></span>
+                </li>
+            </ul>
+    </div>
+</div>
+
+  <div class="parallax-container valign-wrapper">
+    <div class="parallax">
+        <video class="responsive-video" loop="loop" muted="muted" autoplay="autoplay">
+          
+            <source src="/images/Videos/ACTADVERTISEMENT_2018.mp4" type="video/mp4" > 
+        </video>
+    </div>
+  </div>
+<div class="container">
+    <div class="card">
+        <div class="card-stacked">
+            <div class="card-content">
+                <h4>News & Events</h4>
+                <div class="row" id="ce">
+                    <!--First Column-->
+                    <div class="col s12 m4" id="fce">
+                        <div class="row">
+                            
+                        </div>
+                    </div>
+                    <!--Second Column-->
+                    <div class="col s12 m4" id="sce">
+                        <div class="row">
+                            
+                        </div>
+                    </div>
+                    <!--Third Column-->
+                    <div class="col s12 m4" id="tce">
+                        <div class="row">
+                            <div class="col s12">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="center"><a id="showmore" class="waves-effect waves-light btn grey lighten-3 grey-text text-darken-3 z-depth-1">SHOW MORE</a></div>
+            </div>
+        </div>
+    </div>
+
+</div> 
+
+
+     <!-- Modal Structure -->
+    <div id="news2" class="modal">
+    <div class="modal-content">
+        <h4>ANNOUNCEMENT FROM ACT-LIBRARY DEPARTMENT</h4>
+        <p>Starting from june 2017,  Please secure a library borrower's card.</p>
+        <ul>
+            <li><b>NO LIBRARY CARD</b></li>
+            <li><b>NO BORROWING OF BOOKS</b></li>
+        </ul>
+        <ul>
+            <li><b>REQUIREMENTS:</b></li>
+            <li>PHOTOCOPY OF CURRENT STUDY LOAD AND ID</li>
+            <li>1X1 PICTURE</li>
+        </ul>
+    </div>
+    <div class="modal-footer">
+        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+    </div>
+    </div>
+
+    <!-- Modal Structure -->
+    <div id="news3" class="modal">
+    <div class="modal-content">
+        <h4 class="grey-text text-darken-1"><i>TECHVOC COURSES</i></h4>
+       <p>Techvoc Enrollment Procedures:</p>
+        <ol>
+            <li>Approach TechVoc Office at the Upper Ground Floor (UG) for interview, forms and submission of requirements;</li>
+            <li>Proceed 7th floor for enrollment fee and endorsement of requirements to the registar.</li>
+        </ol>
+      
+        <br />
+        <h5>TechVoc Courses Offering:</h5>
+        <ol type="A">
+                 <li>Caregiving NC </li>
+                 <li>3D Animation NC III</li>
+            </ol>
+            
+            <li class="grey-text text-darken-2"> Ads: Will accept scholar (e.g Training for Work Scholarship Program (TWSP);
+                Skills-For-Employment Scholarship Program (SESP) of Overseas Workers Welfare Administration (OWWA); etc.)</li>
+       
+ 
+    </div>
+    <div class="modal-footer">
+        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+    </div>
+    </div>
+  
+  
+    <!-- Modal Structure -->
+        <div id="news1" class="modal">
+        <div class="modal-content">
+            <img class="responsive-img" src="images/slides/post1.png"/>
+        </div>
+        <div class="modal-footer">
+            <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+        </div>
+        </div>
+
+<script src="/Content/js/Home/Index.js"></script>
+
+        
+  <footer class="page-footer white">
+    <div class="container">
+      <div class="row">
+        <div class="col l4 s12">
+            <p class = "text-center"><img class = "footer-img" src="../Images/act_logo_2018.png" alt="" style="width: 200px; height: 115px;"></p>
+			<!--<i class="tiny material-icons">email</i><a href="http://www.facebook.com/pages/Asian-College-of-Technology-OFFICIAL-Fan-Page/364726194062" target = "blank">Follow on  Facebook</a>-->
+        </div>
+        <div class="col l5 s12">
+            <h4 class = "footer-header">Contacts</h4>
+		    <ul>
+			    <li><i class="tiny material-icons">picture_in_picture</i> Corner Leon Kilat and P. del Rosario st., Cebu City, Philippines</li>
+			    <li><i class="tiny material-icons">contact_phone</i> Telephone: +63 (32) 238 2380,  +63 (32) 238 2381</li>
+			    <li><i class="tiny material-icons">print</i> Fax: +63 (32) 238 2384</li>
+			    <li><i class="tiny material-icons">email</i> Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asian_college@yahoo.com" target = "blank">asian_college@yahoo.com</a></li>
+		    </ul>
+            <hr/>
+             Powered by: <a class="brown-text text-lighten-3" href="https://mail.google.com/mail/?view=cm&fs=1&to=actiefsdo@gmail.com">ACT - Software Development Team</a><br/>
+            <i class="tiny material-icons">email</i> Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=actiefsdo@gmail.com" target = "blank">actiefsdo@gmail.com</a>
+        </div>
+        <div class="col l3 s12">
+          <h4>Quick links</h4>
+		    <ul>
+			    <li><a href="/Admission/EnrollmentProcedure">Enrollment Procedures</a></li>
+			    <li><a href="/Administration/AdministrativeOfficers">Administrative Officer</a></li>
+			    <li><a href="/GraduateTracerStudy/Alumni">Graduated Tracer</a></li>
+			    <li><a href="/Academics/UndergraduatePrograms">Undergraduate Programs</a></li>
+			    <li><a href="/AboutUs/Scholarship">Scholarship</a></li>
+			    <li><a href="/StudentWelfare/Facilities">Facilities</a></li>
+		    </ul>
+            <div class="left">
+                    <span class="light-blue-text" id="date"></span>
+                    <span class="light-blue-text" id="time"></span>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container left">
+			<p class = "center">&copy; Copyright 2012 | Asian College of Technology. All Rights Reserved.</p>
+      </div>
+        <div class="container right">
+            <p class = "right">Last update: 08/20/2018</p>
+        </div>
+    </div>
+  </footer>
+
+       
+
+
+       
+        
+        
+
+        
+
+        
+        
+        
+        
+    </body>
+</html>
