@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sqlSlow;
+package SQL;
 
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -20,9 +20,11 @@ import java.util.logging.Logger;
  *
  * @author debuayanri_sd2082
  */
-public class TestSQL {
+//no 1. MYSQL with connection 200 times
+public class N1_SQL200 {
 
     public static void main(String[] args) {
+        System.out.println("no 1. MYSQL with connection 200 times\n\n");
         Thread thread;
         Date date = Calendar.getInstance().getTime();
         DateFormat dateFormat = new SimpleDateFormat("hh:mm:ss:SSS");
@@ -32,9 +34,19 @@ public class TestSQL {
         thread = new Thread() {
             @Override
             public void run() {
-                for (int i = 1; i <= 1000; i++) {
+                for (int i = 1; i <= 200; i++) {
                     try {
-                        if (i == 1000) {
+
+                        Statement stmt = null;
+                        Class.forName("com.mysql.jdbc.Driver");
+                        java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost/rica_schooldata", "root", "");
+                        stmt = (Statement) con.createStatement();
+//                ResultSet rs = stmt.executeQuery(null);
+                        String sql = "INSERT INTO `sql_200`(`col1`, `col2`, `col3`, `col4`, `col5`) VALUES (" + i + "," + (i + 1) + "," + (i + 2) + "," + (i + 3) + "," + (i + 4) + ")";
+
+                        stmt.executeUpdate(sql);
+
+                        if (i == 200) {
                             Date d1;
                             Date d2;
                             Date date2 = Calendar.getInstance().getTime();
@@ -58,21 +70,14 @@ public class TestSQL {
                             System.out.print(diffSeconds + " secs, ");
                             System.out.print(diffM + " millisecs\n");
                         }
-                        Statement stmt = null;
-                        Class.forName("com.mysql.jdbc.Driver");
-                        java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost/rica_schooldata", "root", "");
-                        stmt = (Statement) con.createStatement();
-//                ResultSet rs = stmt.executeQuery(null);
-                        String sql = "INSERT INTO `sql_slow`(`col1`, `col2`, `col3`, `col4`, `col5`) VALUES (" + i + "," + (i + 1) + "," + (i + 2) + "," + (i + 3) + "," + (i + 4) + ")";
 
-                        stmt.executeUpdate(sql);
                         con.close();
 
                     } catch (ClassNotFoundException | SQLException e) {
                         System.out.println("Error!");
 
                     } catch (ParseException ex) {
-                        Logger.getLogger(TestSQL.class.getName()).log(Level.SEVERE, null, ex);
+                        Logger.getLogger(N1_SQL200.class.getName()).log(Level.SEVERE, null, ex);
                     }
 
                 }

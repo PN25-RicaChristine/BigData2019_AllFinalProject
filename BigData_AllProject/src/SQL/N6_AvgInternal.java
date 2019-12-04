@@ -6,7 +6,7 @@
 package SQL;
 
 import java.sql.DriverManager;
-import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.text.DateFormat;
@@ -21,11 +21,11 @@ import java.util.logging.Logger;
  *
  * @author debuayanri_sd2082
  */
-//no 3. Delete one by one with connection 200 times
-public class N3_DeleteSQL200 {
+//6. Get average per column using internal function 1000
+public class N6_AvgInternal {
 
     public static void main(String[] args) {
-        System.out.println("no 3. Delete one by one with connection 200 times\n\n");
+        System.out.println("6. Get average per column using internal function 1000 \n");
         Thread thread;
         Date date = Calendar.getInstance().getTime();
         DateFormat dateFormat = new SimpleDateFormat("hh:mm:ss:SSS");
@@ -35,20 +35,28 @@ public class N3_DeleteSQL200 {
         thread = new Thread() {
             @Override
             public void run() {
-                for (int i = 1; i <= 200; i++) {
-                    try {
+                try {
+                    Statement stmt = null;
+                    Class.forName("com.mysql.jdbc.Driver");
+                    java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost/rica_schooldata", "root", "");
+                    stmt = (Statement) con.createStatement();
 
-                        Statement stmt = null;
-                        Class.forName("com.mysql.jdbc.Driver");
-                        java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost/rica_schooldata", "root", "");
-                        String query = "delete from sql_200 where col1 = ?";
+                    //internal calculation of average
+                    for (int column = 1; column <= 5; column++) {
+                        double sum = 0;
 
-                        PreparedStatement preparedStmt = con.prepareStatement(query);
-                        preparedStmt.setInt(1, i);
+                        //accesing each row no. from each column
+                        for (int j = 1; j <= 1000; j++) {
+                            ResultSet res = stmt.executeQuery("SELECT col" + column + " FROM sqlno_1000 where col" + column + "=" + j);
+                            while (res.next()) {
+                                double c = res.getDouble(1);
+                                sum = sum + c;
+                            }
+                        }
 
-                        // execute the preparedstatement
-                        preparedStmt.execute();
-                        if (i == 200) {
+                        System.out.println("Average Column-" + column + "\t" + (sum / 1000));
+
+                        if (column == 5) {
                             Date d1;
                             Date d2;
                             Date date2 = Calendar.getInstance().getTime();
@@ -72,20 +80,16 @@ public class N3_DeleteSQL200 {
                             System.out.print(diffSeconds + " secs, ");
                             System.out.print(diffM + " millisecs\n");
                         }
-                        con.close();
-
-                    } catch (ClassNotFoundException | SQLException e) {
-                        System.out.println("Error!");
-
-                    } catch (ParseException ex) {
-                        Logger.getLogger(N3_DeleteSQL200.class.getName()).log(Level.SEVERE, null, ex);
                     }
+                    con.close();
+                } catch (ClassNotFoundException | SQLException e) {
+                    System.out.println("Error!");
 
+                } catch (ParseException ex) {
+                    Logger.getLogger(N5_AvgNoConnect.class.getName()).log(Level.SEVERE, null, ex);
                 }
-
             }
         };
         thread.start();
     }
-
 }

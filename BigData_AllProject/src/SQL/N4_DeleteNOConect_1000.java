@@ -3,9 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sqlSlow;
+package SQL;
 
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.text.DateFormat;
@@ -20,9 +21,11 @@ import java.util.logging.Logger;
  *
  * @author debuayanri_sd2082
  */
-public class TestSQL {
+//4. Delete one by one without connection 1000 times
+public class N4_DeleteNOConect_1000 {
 
     public static void main(String[] args) {
+        System.out.println("4. Delete one by one without connection 1000 times\n");
         Thread thread;
         Date date = Calendar.getInstance().getTime();
         DateFormat dateFormat = new SimpleDateFormat("hh:mm:ss:SSS");
@@ -32,8 +35,21 @@ public class TestSQL {
         thread = new Thread() {
             @Override
             public void run() {
-                for (int i = 1; i <= 1000; i++) {
-                    try {
+                try {
+                    Statement stmt = null;
+                    Class.forName("com.mysql.jdbc.Driver");
+                    java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost/rica_schooldata", "root", "");
+                    stmt = (Statement) con.createStatement();
+
+                    for (int i = 1; i <= 1000; i++) {
+
+                        String query = "delete from sqlno_1000 where col1 = ?";
+
+                        PreparedStatement preparedStmt = con.prepareStatement(query);
+                        preparedStmt.setInt(1, i);
+
+                        // execute the preparedstatement
+                        preparedStmt.execute();
                         if (i == 1000) {
                             Date d1;
                             Date d2;
@@ -58,25 +74,14 @@ public class TestSQL {
                             System.out.print(diffSeconds + " secs, ");
                             System.out.print(diffM + " millisecs\n");
                         }
-                        Statement stmt = null;
-                        Class.forName("com.mysql.jdbc.Driver");
-                        java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost/rica_schooldata", "root", "");
-                        stmt = (Statement) con.createStatement();
-//                ResultSet rs = stmt.executeQuery(null);
-                        String sql = "INSERT INTO `sql_slow`(`col1`, `col2`, `col3`, `col4`, `col5`) VALUES (" + i + "," + (i + 1) + "," + (i + 2) + "," + (i + 3) + "," + (i + 4) + ")";
-
-                        stmt.executeUpdate(sql);
-                        con.close();
-
-                    } catch (ClassNotFoundException | SQLException e) {
-                        System.out.println("Error!");
-
-                    } catch (ParseException ex) {
-                        Logger.getLogger(TestSQL.class.getName()).log(Level.SEVERE, null, ex);
                     }
+                    con.close();
+                } catch (ClassNotFoundException | SQLException e) {
+                    System.out.println("Error!");
 
+                } catch (ParseException ex) {
+                    Logger.getLogger(N4_DeleteNOConect_1000.class.getName()).log(Level.SEVERE, null, ex);
                 }
-
             }
         };
         thread.start();

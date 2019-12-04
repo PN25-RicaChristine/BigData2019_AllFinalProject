@@ -3,9 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sqlSlow;
+package SQL;
 
 import java.sql.DriverManager;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.text.DateFormat;
@@ -20,9 +21,11 @@ import java.util.logging.Logger;
  *
  * @author debuayanri_sd2082
  */
-public class TestSQL {
+//5. Get average per column using java without connection 1000 
+public class N5_AvgNoConnect {
 
     public static void main(String[] args) {
+        System.out.println("5. Get average per column using java without connection 1000 \n");
         Thread thread;
         Date date = Calendar.getInstance().getTime();
         DateFormat dateFormat = new SimpleDateFormat("hh:mm:ss:SSS");
@@ -32,9 +35,22 @@ public class TestSQL {
         thread = new Thread() {
             @Override
             public void run() {
-                for (int i = 1; i <= 1000; i++) {
-                    try {
-                        if (i == 1000) {
+                try {
+                    Statement stmt = null;
+                    Class.forName("com.mysql.jdbc.Driver");
+                    java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost/rica_schooldata", "root", "");
+                    stmt = (Statement) con.createStatement();
+
+                    for (int i = 1; i <= 5; i++) {
+
+//                        ResultSet aveTemp = stmt.executeQuery("SELECT CAST(AVG(col" + i + ") AS DECIMAL(10,3)) FROM sqlno_1000");
+                         ResultSet ave = stmt.executeQuery("SELECT AVG(col" + i + ") FROM sqlno_1000");
+                        if (ave.next()) {
+                            System.out.println("Average Column-" + i + "\t" + ave.getFloat(1));
+                        }
+                        
+                        
+                        if (i == 5) {
                             Date d1;
                             Date d2;
                             Date date2 = Calendar.getInstance().getTime();
@@ -58,25 +74,14 @@ public class TestSQL {
                             System.out.print(diffSeconds + " secs, ");
                             System.out.print(diffM + " millisecs\n");
                         }
-                        Statement stmt = null;
-                        Class.forName("com.mysql.jdbc.Driver");
-                        java.sql.Connection con = DriverManager.getConnection("jdbc:mysql://localhost/rica_schooldata", "root", "");
-                        stmt = (Statement) con.createStatement();
-//                ResultSet rs = stmt.executeQuery(null);
-                        String sql = "INSERT INTO `sql_slow`(`col1`, `col2`, `col3`, `col4`, `col5`) VALUES (" + i + "," + (i + 1) + "," + (i + 2) + "," + (i + 3) + "," + (i + 4) + ")";
-
-                        stmt.executeUpdate(sql);
-                        con.close();
-
-                    } catch (ClassNotFoundException | SQLException e) {
-                        System.out.println("Error!");
-
-                    } catch (ParseException ex) {
-                        Logger.getLogger(TestSQL.class.getName()).log(Level.SEVERE, null, ex);
                     }
+                    con.close();
+                } catch (ClassNotFoundException | SQLException e) {
+                    System.out.println("Error!");
 
+                } catch (ParseException ex) {
+                    Logger.getLogger(N5_AvgNoConnect.class.getName()).log(Level.SEVERE, null, ex);
                 }
-
             }
         };
         thread.start();
