@@ -28,26 +28,8 @@ public class Image {
             width = image.getWidth();
             height = image.getHeight();
 
-//            for (int i = 0; i < height; i++) {
-//
-//                for (int j = 0; j < width; j++) {
-//
-//                    Color c = new Color(image.getRGB(j, i));
-//                    int red = (int) (c.getRed() * 0.299);
-//                    int green = (int) (c.getGreen() * 0.587);
-//                    int blue = (int) (c.getBlue() * 0.114);
-//                    Color newColor = new Color(255,255,255, (float) 0.3);
-//
-//                    image.setRGB(j, i, newColor.getRGB());
-//                }
-//            }
-//
-//            File ouptut = new File("C:\\Users\\debuayanri_sd2082\\Desktop\\newimage.jpg");
-//            ImageIO.write(image, "jpg", ouptut);
             for (int i = 0; i < height; i++) {
-
                 for (int j = 0; j < width; j++) {
-
                     Color c = new Color(image.getRGB(j, i));
                     Color e = new Color(255, 255, 255);
                     Color d = new Color(0, 0, 0);

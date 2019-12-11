@@ -5,6 +5,9 @@
  */
 package MongoDB;
 
+import com.mongodb.BasicDBObjectBuilder;
+import com.mongodb.DBObject;
+
 /**
  *
  * @author 2ndyrGroupB
@@ -15,6 +18,14 @@ public class Col {
     private int col3;
     private int col4;
     private int col5;
+
+    public Col(int col1, int col2, int col3, int col4, int col5) {
+        this.col1 = col1;
+        this.col2 = col2;
+        this.col3 = col3;
+        this.col4 = col4;
+        this.col5 = col5;
+    }
 
     public int getCol1() {
         return col1;
@@ -56,5 +67,6 @@ public class Col {
         this.col5 = col5;
     }
     
+  
          
 }
